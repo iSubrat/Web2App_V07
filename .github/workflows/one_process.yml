@@ -27,25 +27,25 @@ jobs:
           ${{ runner.os }}-pip-
 
       
-    # - name: Run script to update Files
-    #   run: python step01.py
-    #   env:
-    #       SMTP_HOST: ${{ secrets.SMTP_HOST }}
-    #       DB_HOST: ${{ secrets.DB_HOST }}
-    #       DB_USERNAME: ${{ secrets.DB_USERNAME }}
-    #       DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-    #       DB_NAME: ${{ secrets.DB_NAME }}
+    - name: Run script to update Files
+      run: python step01.py
+      env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_USERNAME: ${{ secrets.DB_USERNAME }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_NAME: ${{ secrets.DB_NAME }}
 
-    # - name: Commit changes
-    #   run: |
-    #     git config --local user.email "action@github.com"
-    #     git config --local user.name "GitHub Action"
-    #     git commit -a -m "Update Android Manifest" || true
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -a -m "Update Android Manifest" || true
 
-    # - name: Push changes
-    #   uses: ad-m/github-push-action@master
-    #   with:
-    #     github_token: ${{ secrets.GIT_TOKEN }}
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GIT_TOKEN }}
 
     # - name: Run script to check status
     #   run: python step02.py
