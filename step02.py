@@ -77,6 +77,17 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                     "app_logo": "",
                     "floating_button": ""
                 },
+                "admob": {
+                    "ads_type": "none",
+                    "admobBannerID": "",
+                    "admobIntentialID": "",
+                    "admobBannerIDIOS": "",
+                    "admobIntentialIDIOS": "",
+                    "facebookBannerID": "",
+                    "facebookIntentialID": "",
+                    "facebookBannerIDIOS": "",
+                    "facebookIntentialIDIOS": ""
+                },
                 "progressbar": {
                     "is_progressbar": "true",
                     "loaderStyle": "FadingCircle"
