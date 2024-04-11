@@ -119,33 +119,39 @@ def upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id):
         ftp.login(ftp_username, ftp_password)
         
         # Prepare the directory path
-        directory = f'01_Profiles/{id}/upload/'
+        directory = f'01_Profiles/{id}/upload'
         
-        # Split the directory into parts
-        parts = directory.split('/')
-        
-        # Initialize the current path
-        current_path = ''
-        
-        # Iterate through parts to check and create if necessary
-        for part in parts[:-1]:  # Exclude the last empty part due to the trailing slash
-            if part:  # Check if part is not empty
-                current_path += part + '/'
+        # Attempt to create and navigate to each part of the path
+        try:
+            ftp.cwd(directory)  # Try to change to the full directory path
+        except error_perm as e:
+            # If the directory does not exist, create it
+            print("Directory does not exist, attempting to create:", directory)
+            # Split the directory to handle each part
+            parts = directory.split('/')
+            current_path = ''
+            for part in parts:
+                if not part:
+                    # Skip empty parts (e.g., leading '/')
+                    continue
+                current_path += f"/{part}"
                 try:
-                    # Try changing to the directory, if it exists
                     ftp.cwd(current_path)
-                except ftplib.error_perm:
-                    # If it doesn't exist, create it and then change into it
-                    ftp.mkd(part)
+                except error_perm:
+                    print(f"Creating directory: {current_path}")
+                    ftp.mkd(current_path)
                     ftp.cwd(current_path)
-
+        
         # Write the content to a file locally before uploading
         with open(filename, 'w') as file:
             file.write(content)
         
-        # Open the file in binary read mode and upload
+        # Upload the file
         with open(filename, 'rb') as file:
-            ftp.storbinary(f'STOR {filename}', file)  # Adjusted to use only filename for STOR command
+            ftp.storbinary(f'STOR {filename}', file)
+
+        print(f"Uploaded {filename} to FTP.")
+
 
 if __name__ == "__main__":
     try:  
