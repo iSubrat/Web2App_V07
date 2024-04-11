@@ -61,8 +61,8 @@ jobs:
           ${{ runner.os }}-flutter-
 
 
-    - name: Build APK
-      run: flutter build apk --release
+    # - name: Build APK
+    #   run: flutter build apk --release
 
     - name: FTP Transfer
       uses: joutvhu/ftp-transfer@v1
