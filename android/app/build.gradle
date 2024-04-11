@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.app_google"
+        applicationId "com.appcollection.chart_storm"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
