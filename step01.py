@@ -65,7 +65,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             # Replace text in files
             file_path = ["android/app/src/main/AndroidManifest.xml", "lib/utils/constant.dart", "android/app/build.gradle"]  # Replace with the path to your text file
             find_text = ["android:label=", "const BASE_URL =", "applicationId \"com.appcollection"]      # Replace with the text to be replaced
-            new_text = [f'        android:label="{app_name.replace('&', '&amp;')}"\n', f'const BASE_URL = "https://web2app.appcollection.in/downloads/01_Profiles/{id}";\n', '        applicationId "com.appcollection.{package_name}"']      # Replace with the new text
+            new_text = [f'        android:label="{app_name.replace('&', '&amp;')}"\n', f'const BASE_URL = "https://web2app.appcollection.in/downloads/01_Profiles/{id}";\n', '        applicationId "com.appcollection.'{package_name}'"\n']      # Replace with the new text
             for fp, ft, nt in zip(file_path, find_text, new_text):
                 replace_text_in_file(fp, ft, nt)
             
