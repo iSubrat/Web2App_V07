@@ -42,15 +42,6 @@ jobs:
       with:
         github_token: ${{ secrets.GIT_TOKEN }}
 
-    # - name: Run script to check status
-    #   run: python step02.py
-    #   env:
-    #     SMTP_HOST: ${{ secrets.SMTP_HOST }}
-    #     DB_HOST: ${{ secrets.DB_HOST }}
-    #     DB_USERNAME: ${{ secrets.DB_USERNAME }}
-    #     DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-    #     DB_NAME: ${{ secrets.DB_NAME }}
-
     - name: Setup Java
       uses: actions/setup-java@v2
       with:
@@ -74,34 +65,28 @@ jobs:
     - name: Build APK
       run: flutter build apk --release
 
-    # - name: Upload APK and App Bundle
-    #   uses: actions/upload-artifact@v2
-    #   with:
-    #     name: app-artifacts
-    #     path: build/app/outputs/flutter-apk/
-
-    # - name: FTP Transfer
-    #   uses: joutvhu/ftp-transfer@v1
-    #   with:
-    #     host: ${{ secrets.FTP_SERVER }}
-    #     port: 21
-    #     username: ${{ secrets.FTP_USERNAME }}
-    #     password: ${{ secrets.FTP_PASSWORD }}
-    #     commands: |
-    #       put ./build/app/outputs/flutter-apk/ ./
-    #       delete app-release.apk.sha1
+    - name: FTP Transfer
+      uses: joutvhu/ftp-transfer@v1
+      with:
+        host: ${{ secrets.FTP_SERVER }}
+        port: 21
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        commands: |
+          put ./build/app/outputs/flutter-apk/ ./
+          delete app-release.apk.sha1
           
-    # - name: Run script to rename file
-    #   run: python step03.py
-    #   env:
-    #     SMTP_HOST: ${{ secrets.SMTP_HOST }}
-    #     DB_HOST: ${{ secrets.DB_HOST }}
-    #     DB_USERNAME: ${{ secrets.DB_USERNAME }}
-    #     DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-    #     DB_NAME: ${{ secrets.DB_NAME }}
-    #     FTP_SERVER: ${{ secrets.FTP_SERVER }}
-    #     FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
-    #     FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+    - name: Run script to rename file
+      run: python step03.py
+      env:
+        SMTP_HOST: ${{ secrets.SMTP_HOST }}
+        DB_HOST: ${{ secrets.DB_HOST }}
+        DB_USERNAME: ${{ secrets.DB_USERNAME }}
+        DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+        DB_NAME: ${{ secrets.DB_NAME }}
+        FTP_SERVER: ${{ secrets.FTP_SERVER }}
+        FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
 
     # - name: Run script to Send Email
     #   run: python step04.py
