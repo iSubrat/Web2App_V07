@@ -54,7 +54,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             content = json.dumps({
                 "appconfiguration": {
                     "app_name": app_name,
-                    "url": web_url,
+                    "url": web_url.replace('/', '\/'),
                     "appLanguage": "en",
                     "isJavascriptEnable": "true",
                     "isSplashScreen": "false",
