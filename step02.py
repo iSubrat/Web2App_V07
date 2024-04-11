@@ -127,15 +127,16 @@ def upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id):
         current_path = ''
         
         # Iterate through parts to check and create if necessary
-        for part in parts:
-            current_path += part + '/'
-            try:
-                # Try changing to the directory, if it exists
-                ftp.cwd(current_path)
-            except Exception as e:
-                # If it doesn't exist, create it
-                ftp.mkd(current_path)
-                ftp.cwd(current_path)
+        for part in parts[:-1]:  # Exclude the last empty part due to the trailing slash
+            if part:  # Check if part is not empty
+                current_path += part + '/'
+                try:
+                    # Try changing to the directory, if it exists
+                    ftp.cwd(current_path)
+                except ftplib.error_perm:
+                    # If it doesn't exist, create it and then change into it
+                    ftp.mkd(part)
+                    ftp.cwd(current_path)
 
         # Write the content to a file locally before uploading
         with open(filename, 'w') as file:
@@ -143,8 +144,7 @@ def upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id):
         
         # Open the file in binary read mode and upload
         with open(filename, 'rb') as file:
-            ftp.storbinary(f'STOR {directory}{filename}', file)
-
+            ftp.storbinary(f'STOR {filename}', file)  # Adjusted to use only filename for STOR command
 
 if __name__ == "__main__":
     try:  
