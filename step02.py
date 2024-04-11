@@ -119,7 +119,7 @@ def upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id):
         with open(filename, 'w') as file:
             file.write(content)
         with open(filename, 'rb') as file:
-            ftp.storbinary(f'STOR downloads/01_Profiles/{id}/upload/{filename}', file)
+            ftp.storbinary(f'STOR 01_Profiles/{id}/upload/{filename}', file)
 
 if __name__ == "__main__":
     try:  
