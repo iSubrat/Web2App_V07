@@ -1,6 +1,6 @@
 import mysql.connector
 import ftplib
-from ftplib import FTP
+from ftplib import FTP, error_perm
 from PIL import Image
 import requests
 import json
