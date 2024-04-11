@@ -162,19 +162,12 @@ def execute_query(db_host, db_username, db_password, db_database, query):
           ftp_host = os.environ['FTP_SERVER']
           ftp_username = os.environ['FTP_USERNAME']
           ftp_password = os.environ['FTP_PASSWORD']
-            
-          whatsapp_message = f'''<meta charset="UTF-8"><br>
-<h1>Hey {username}! 🎉<br><br>
-It's Subrat from the Web2App Team. Your app, {appname}, is all set for download!<br><br>Just click this link to grab it:<br>https://web2app.appcollection.in/download.html?app={appname_link_whatsapp}<br><br>
-Cheers! 📱 </h1>'''
-
-          update_message(ftp_host, ftp_username, ftp_password, whatsapp_message)
 
           send_email(sender_email, sender_password, username, recipient_email, subject, appname, app_logo_url, appname_link)
           send_email(sender_email, sender_password, username, 'isubrat@icloud.com', subject, appname, app_logo_url, appname_link)
 
           # Update the status column to "Updated"
-          update_query = "UPDATE app_data SET status = 'email sent' WHERE id = %s"
+          update_query = "UPDATE app_data SET status = 'COMPLETED' WHERE id = %s"
           cursor.execute(update_query, (id,))
           connection.commit()
           print("Status column updated to 'email sent'")
@@ -188,26 +181,6 @@ Cheers! 📱 </h1>'''
     except mysql.connector.Error as e:
         print("Error executing query:", e)
 
-def update_message(host, username, password, message):
-    try:
-        # Connect to the FTP server
-        with FTP(host) as ftp:
-            # Login to the FTP server
-            ftp.login(username, password)
-
-            # Create a temporary text file to store the message
-            with open("whatsapp_message.txt", "w+") as file:
-                file.write(message)
-
-            # Open the file in binary mode for uploading
-            with open("whatsapp_message.txt", "rb") as file:
-                # Upload the file to the FTP server
-                ftp.storbinary("STOR whatsapp_message.html", file)
-
-            print("Message updated successfully!")
-    except Exception as e:
-        print(f"Error: {e}")
-
 if __name__ == "__main__":
   try:
     # MySQL database credentials temp
@@ -217,7 +190,7 @@ if __name__ == "__main__":
     database = os.environ['DB_NAME']
 
     # Example query
-    query = "SELECT * FROM app_data WHERE status = 'built' ORDER BY id DESC LIMIT 1"
+    query = "SELECT * FROM app_data WHERE status = 'BUILDING' ORDER BY id DESC LIMIT 1"
 
     # Execute the query
     execute_query(host, username, password, database, query)
