@@ -68,10 +68,10 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                 replace_text_in_file(fp, ft, nt)
             
             # Update the status column to "Updated"
-            update_query = "UPDATE app_data SET status = 'building' WHERE id = %s"
+            update_query = "UPDATE app_data SET status = 'BUILDING' WHERE id = %s"
             cursor.execute(update_query, (id,))
             connection.commit()
-            print("Status column updated to 'Building'")
+            print("Status column updated to 'BUILDING'")
         else:
             raise RuntimeError("There is no app for build.")
 
