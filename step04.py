@@ -145,7 +145,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
           
           try:
               if len(app_logo)>5:
-                  app_logo_url = f'https://web2app.appcollection.in/V06/uploads/{app_logo}'
+                  app_logo_url = f'https://web2app.appcollection.in/V07/uploads/{app_logo}'
               else:
                   app_logo_url = 'https://web2app.appcollection.in/icon.png'
           except Exception as e:
