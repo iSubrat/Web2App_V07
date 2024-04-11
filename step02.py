@@ -116,10 +116,35 @@ def execute_query(db_host, db_username, db_password, db_database, query):
 def upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id):
     with FTP(ftp_host) as ftp:
         ftp.login(ftp_username, ftp_password)
+        
+        # Prepare the directory path
+        directory = f'01_Profiles/{id}/upload/'
+        
+        # Split the directory into parts
+        parts = directory.split('/')
+        
+        # Initialize the current path
+        current_path = ''
+        
+        # Iterate through parts to check and create if necessary
+        for part in parts:
+            current_path += part + '/'
+            try:
+                # Try changing to the directory, if it exists
+                ftp.cwd(current_path)
+            except Exception as e:
+                # If it doesn't exist, create it
+                ftp.mkd(current_path)
+                ftp.cwd(current_path)
+
+        # Write the content to a file locally before uploading
         with open(filename, 'w') as file:
             file.write(content)
+        
+        # Open the file in binary read mode and upload
         with open(filename, 'rb') as file:
-            ftp.storbinary(f'STOR 01_Profiles/{id}/upload/{filename}', file)
+            ftp.storbinary(f'STOR {directory}{filename}', file)
+
 
 if __name__ == "__main__":
     try:  
