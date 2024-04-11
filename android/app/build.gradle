@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.gis_map"
+        applicationId "com.appcollection.fixedincomeidea"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
