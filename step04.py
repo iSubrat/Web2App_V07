@@ -138,7 +138,6 @@ def execute_query(db_host, db_username, db_password, db_database, query):
           appname = row[1]
           pattern = re.compile(r'[^a-zA-Z0-9_]')
           appname_link = str(id).zfill(4) + '_' + pattern.sub('', row[1]) + '.apk'
-          appname_link_whatsapp = str(id).zfill(4) + '_' + pattern.sub('', row[1])
           username = row[3]
           recipient_email = row[5]
           app_logo = row[6]
@@ -170,7 +169,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
           update_query = "UPDATE app_data SET status = 'COMPLETED' WHERE id = %s"
           cursor.execute(update_query, (id,))
           connection.commit()
-          print("Status column updated to 'email sent'")
+          print("Status column updated to 'COMPLETED'")
         else:
           raise RuntimeError("There is no app for build.")
 
