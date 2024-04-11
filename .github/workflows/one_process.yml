@@ -25,7 +25,6 @@ jobs:
     - name: Run script to update Files
       run: python step01.py
       env:
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
           DB_HOST: ${{ secrets.DB_HOST }}
           DB_USERNAME: ${{ secrets.DB_USERNAME }}
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
@@ -79,7 +78,6 @@ jobs:
     - name: Run script to rename file
       run: python step03.py
       env:
-        SMTP_HOST: ${{ secrets.SMTP_HOST }}
         DB_HOST: ${{ secrets.DB_HOST }}
         DB_USERNAME: ${{ secrets.DB_USERNAME }}
         DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
@@ -91,7 +89,6 @@ jobs:
     - name: Run script to Send Email
       run: python step04.py
       env:
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
           DB_HOST: ${{ secrets.DB_HOST }}
           DB_USERNAME: ${{ secrets.DB_USERNAME }}
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
