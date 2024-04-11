@@ -3,6 +3,7 @@ from PIL import Image
 import requests
 import sys
 import os
+import re
 
 def replace_text_in_file(file_path, find_text, new_text):
     try:
@@ -55,15 +56,16 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             username = row[3]
             email_address = row[5]
             app_logo_name = row[6]
+            package_name = to_package_name(app_name)
             print(id, app_name, web_url, username, email_address)
 
             while cursor.nextset():
                 pass
 
             # Replace text in files
-            file_path = ["android/app/src/main/AndroidManifest.xml", "lib/utils/constant.dart"]  # Replace with the path to your text file
-            find_text = ["android:label=", "const BASE_URL ="]      # Replace with the text to be replaced
-            new_text = [f'        android:label="{app_name.replace('&', '&amp;')}"\n', f'const BASE_URL = "https://web2app.appcollection.in/downloads/01_Profiles/{id}";\n']      # Replace with the new text
+            file_path = ["android/app/src/main/AndroidManifest.xml", "lib/utils/constant.dart", "android/app/build.gradle"]  # Replace with the path to your text file
+            find_text = ["android:label=", "const BASE_URL =", "applicationId \"com.appcollection"]      # Replace with the text to be replaced
+            new_text = [f'        android:label="{app_name.replace('&', '&amp;')}"\n', f'const BASE_URL = "https://web2app.appcollection.in/downloads/01_Profiles/{id}";\n', '        applicationId "com.appcollection.{package_name}"']      # Replace with the new text
             for fp, ft, nt in zip(file_path, find_text, new_text):
                 replace_text_in_file(fp, ft, nt)
             
@@ -121,6 +123,16 @@ def get_logo(url):
     print(best_icon)
     return best_icon
 
+def to_package_name(app_name):
+    # Replace '&' with 'and', assuming '&' is not desired in package names
+    app_name = app_name.replace('&', 'and')
+    # Replace spaces and any non-alphanumeric characters (excluding '.') with '_'
+    app_name = re.sub('[^0-9a-zA-Z]+', '_', app_name)
+    # Convert to lowercase
+    app_name = app_name.lower()
+    # Ensure the package name starts with the specified domain
+    app_name = 'com.appcollection.' + app_name
+    return app_name
 
 if __name__ == "__main__":
     try:
