@@ -1,5 +1,5 @@
 import mysql.connector
-from ftplib import FTP
+import ftplib
 from PIL import Image
 import requests
 import json
