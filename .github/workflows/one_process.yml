@@ -3,7 +3,7 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron: '*/10 * * * *'  # Run every 5 minutes
+    - cron: '*/12 * * * *'  # Run every 5 minutes
 
 jobs:
   update_files:
