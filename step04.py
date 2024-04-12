@@ -2,6 +2,7 @@ import os
 import re
 import sys
 import uuid
+import requests
 import smtplib
 import mysql.connector
 from ftplib import FTP
@@ -193,5 +194,13 @@ if __name__ == "__main__":
 
     # Execute the query
     execute_query(host, username, password, database, query)
+    
+    url = "http://server.appcollection.in/delete.php"
+    response = requests.get(url)
+    if response.status_code == 200:
+        print("Request was successful!")
+        print(response.content)
+    else:
+        print(f"Request failed with status code: {response.status_code}")
   except Exception as e:
     raise RuntimeError("Process Aborted.")
