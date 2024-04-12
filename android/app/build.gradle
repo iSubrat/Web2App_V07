@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.turnos_talma"
+        applicationId "com.appcollection.bp_trading"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
