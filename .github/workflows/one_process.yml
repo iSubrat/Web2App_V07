@@ -1,9 +1,11 @@
 name: OneProcess
+
 on:
   push:
-    branches: [ "main" ]
-  # schedule:
-  #   - cron: '*/12 * * * *'  # Run every 5 minutes
+    branches:
+      - main
+    paths:
+      - counter.txt
 
 jobs:
   update_files:
