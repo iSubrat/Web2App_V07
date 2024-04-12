@@ -56,7 +56,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             username = row[3]
             email_address = row[5]
             app_logo_name = row[6]
-            package_name = to_package_name(app_name)
+            package_name = to_package_name(app_name, id)
             print(id, app_name, web_url, username, email_address)
 
             while cursor.nextset():
@@ -141,7 +141,7 @@ def get_logo(url):
     print(best_icon)
     return best_icon
 
-def to_package_name(app_name):
+def to_package_name(app_name, id):
     # Replace '&' with 'and', assuming '&' is not desired in package names
     app_name = app_name.replace('&', 'and')
     # Replace spaces and any non-alphanumeric characters (excluding '.') with '_'
@@ -149,7 +149,7 @@ def to_package_name(app_name):
     # Convert to lowercase
     app_name = app_name.lower()
     # Ensure the package name starts with the specified domain
-    app_name = 'com.appcollection.' + app_name
+    app_name = 'com.appcollection.' + app_name + str(id)
     return app_name
 
 if __name__ == "__main__":
