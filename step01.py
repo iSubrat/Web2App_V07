@@ -149,7 +149,7 @@ def to_package_name(app_name, id):
     # Convert to lowercase
     app_name = app_name.lower()
     # Ensure the package name starts with the specified domain
-    app_name = 'com.appcollection.' + app_name + str(id)
+    app_name = 'com.appcollection.' + str(id) + app_name
     return app_name
 
 if __name__ == "__main__":
