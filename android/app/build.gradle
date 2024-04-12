@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.unlock_imei"
+        applicationId "com.appcollection.online_membership_mavenco"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
