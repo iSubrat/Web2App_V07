@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xscientific_calculator1050"
+        applicationId "com.appcollection.xyoutube_studio_1051"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
