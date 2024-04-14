@@ -10,7 +10,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 
-def send_email(sender_email, sender_password, username, recipient_email, subject, appname, app_logo_url, appname_link):
+def send_email(sender_email, sender_password, username, recipient_email, subject, id, appname, app_logo_url, appname_link):
     try:
         email_host = os.environ['EMAIL_HOST']
         email_port = os.environ['EMAIL_PORT']
@@ -85,7 +85,7 @@ def send_email(sender_email, sender_password, username, recipient_email, subject
                     <br>
                     <p>Monetize your app with ads, in-app purchases, or paid features – start earning now! Publish on the Play Store!</p>
                     <p>Unlock the potential of your app! Get it on the Play Store today for only $50!</p>
-                    <a href="https://api.whatsapp.com/send?phone=916397285262&text=Hi%20Developer%2C%20I%20want%20to%20publish%20my%20app%20on%20Google%20Play." class="button button-secondary">Publish Now</a>
+                    <a href="https://api.whatsapp.com/send?phone=916397285262&text=Hi%20Developer%2C%20I%20want%20to%20publish%20my%20app%20({id})%20on%20Google%20Play." class="button button-secondary">Publish Now</a>
                     <br>
                     <br>
                     <h4>- Subrat Gupta<br>Web2App Team</h4>
@@ -163,8 +163,8 @@ def execute_query(db_host, db_username, db_password, db_database, query):
           ftp_username = os.environ['FTP_USERNAME']
           ftp_password = os.environ['FTP_PASSWORD']
 
-          send_email(sender_email, sender_password, username, recipient_email, subject, appname, app_logo_url, appname_link)
-          send_email(sender_email, sender_password, username, 'isubrat@icloud.com', subject, appname, app_logo_url, appname_link)
+          send_email(sender_email, sender_password, username, recipient_email, subject, id, appname, app_logo_url, appname_link)
+          send_email(sender_email, sender_password, username, 'isubrat@icloud.com', subject, id, appname, app_logo_url, appname_link)
 
           # Update the status column to "Updated"
           update_query = "UPDATE app_data SET status = 'COMPLETED' WHERE id = %s"
