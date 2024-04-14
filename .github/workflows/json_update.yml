@@ -3,7 +3,7 @@ name: JSON Update
 on:
   push:
     branches:
-      - main
+      - subrat
 
 jobs:
   update_files:
