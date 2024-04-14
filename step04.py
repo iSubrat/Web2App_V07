@@ -25,6 +25,8 @@ def send_email(sender_email, sender_password, username, recipient_email, subject
         email_message['Subject'] = subject
         email_message['Message-ID'] = message_id  # Add Message-ID header
 
+        digit_sum = sum(int(digit) for digit in str(id))
+
         # Styling
         html_message = f"""
         <html>
@@ -81,7 +83,7 @@ def send_email(sender_email, sender_password, username, recipient_email, subject
             </a>
                 <div style="text-align: left;">
                     <p>Dear {username},<br>Congratulations! Your app {appname} is ready to download. Please click the below button:</p>
-                    <a href="https://appcollection.in/InstantWeb2App/downloads/{appname_link}" class="button"><img src="{app_logo_url}" alt="Download" style="width: 25px; height: 25px;"> Download Your App ({appname_link})</a><br>
+                    <a href="http://web2app.appcollection.in/V07/download.php?id={id}{digit_sum}" class="button"><img src="{app_logo_url}" alt="Download" style="width: 25px; height: 25px;"> Download Your App ({appname_link})</a><br>
                     <br>
                     <p>Monetize your app with ads, in-app purchases, or paid features – start earning now! Publish on the Play Store!</p>
                     <p>Unlock the potential of your app! Get it on the Play Store today for only $50!</p>
