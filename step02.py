@@ -47,7 +47,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
         if row:
             id = row[0]
             app_name = row[1]
-            web_url = row[2]
+            web_url = f'http://web2app.appcollection.in/V07/redirect.php?id={id}'
             print(id, app_name, web_url)
 
             while cursor.nextset():
