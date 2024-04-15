@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfurious_otp1094"
+        applicationId "com.appcollection.xwhatsapp1095"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
