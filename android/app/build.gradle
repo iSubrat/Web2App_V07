@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpisi_classic_tz1098"
+        applicationId "com.appcollection.xwarembo_connection_tz1099"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
