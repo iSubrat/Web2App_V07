@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpersonal_development_niches_1067"
+        applicationId "com.appcollection.xpolice_line1080"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
