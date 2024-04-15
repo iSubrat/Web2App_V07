@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwarembo_connection_tz1100"
+        applicationId "com.appcollection.x12ft1102"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
