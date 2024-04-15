@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgogoua_tibo_jo_l1092"
+        applicationId "com.appcollection.xrts1093"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
