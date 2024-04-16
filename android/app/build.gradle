@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfranzziehut_1111"
+        applicationId "com.appcollection.xappsgeyser_1112"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
