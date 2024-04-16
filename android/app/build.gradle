@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcuidador_expert_1108"
+        applicationId "com.appcollection.xmikeka_ya_huakika_1109"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
