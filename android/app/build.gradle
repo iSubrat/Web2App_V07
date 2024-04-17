@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsavvyads1138"
+        applicationId "com.appcollection.xmindmend_master1139"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
