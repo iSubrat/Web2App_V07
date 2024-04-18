@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzigm1161"
+        applicationId "com.appcollection.xlpdub_radio1162"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
