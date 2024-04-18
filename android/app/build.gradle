@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_delete_duplicate_lines_1184"
+        applicationId "com.appcollection.xposhmark_1185"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
