@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbioskop211172"
+        applicationId "com.appcollection.xcash_app_1173"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
