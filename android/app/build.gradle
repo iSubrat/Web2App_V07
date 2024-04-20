@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgoogle_travel1230"
+        applicationId "com.appcollection.xboyfriendtv1231"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
