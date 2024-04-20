@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdeforum1259"
+        applicationId "com.appcollection.xgas_tv1260"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
