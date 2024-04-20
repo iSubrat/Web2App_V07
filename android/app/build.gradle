@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstudents_erning_1238"
+        applicationId "com.appcollection.xarticleorama1239"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
