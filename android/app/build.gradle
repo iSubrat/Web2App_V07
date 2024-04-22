@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcompta1334"
+        applicationId "com.appcollection.xmoney_grow1338"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
