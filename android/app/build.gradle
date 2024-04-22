@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xreal1297"
+        applicationId "com.appcollection.xreal1298"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
