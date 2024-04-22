@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xv_kingsa1320"
+        applicationId "com.appcollection.xv_kingsa1319"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
