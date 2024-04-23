@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdids1383"
+        applicationId "com.appcollection.xdirty_league_1386"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
