@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsierra_money_1341"
+        applicationId "com.appcollection.xkambia_development_1342"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
