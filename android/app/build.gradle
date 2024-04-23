@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkambia_development_1342"
+        applicationId "com.appcollection.xkambia_development_1343"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
