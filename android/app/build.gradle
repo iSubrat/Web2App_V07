@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchitral_times1354"
+        applicationId "com.appcollection.xliquid1355"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
