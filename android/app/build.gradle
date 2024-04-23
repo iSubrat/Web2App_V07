@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpaypal_1381"
+        applicationId "com.appcollection.xgame_resources_viewer_1382"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
