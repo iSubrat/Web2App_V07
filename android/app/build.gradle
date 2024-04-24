@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgiven_kilando_1397"
+        applicationId "com.appcollection.xmainchan1398"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
