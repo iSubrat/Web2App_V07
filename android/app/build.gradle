@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpdfeditor1413"
+        applicationId "com.appcollection.xpdfeditor1412"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
