@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrealmgroup1401"
+        applicationId "com.appcollection.xjames_tembwa_proph_te_1402"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
