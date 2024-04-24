@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xislami_bank_raihan_banking_1400"
+        applicationId "com.appcollection.xrealmgroup1401"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
