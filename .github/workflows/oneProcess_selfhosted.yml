@@ -1,4 +1,4 @@
-name: OneProcess_MacOS
+name: OneProcess_selfhosted
 
 on:
   push:
