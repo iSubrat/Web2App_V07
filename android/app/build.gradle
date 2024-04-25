@@ -33,10 +33,16 @@ android {
         multiDexEnabled true
     }
 
+    signingConfigs {
+        release {
+            keyAlias 'key0'
+            keyPassword 'Web2App'
+            storeFile file('./key.jks')
+            storePassword 'Web2App'
+        }
+    }
     buildTypes {
         release {
-            minifyEnabled false
-            shrinkResources false
             signingConfig signingConfigs.debug
         }
     }
