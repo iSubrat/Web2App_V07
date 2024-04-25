@@ -1,4 +1,4 @@
-name: OneProcess
+name: OneProcess_MacOS
 
 on:
   push:
