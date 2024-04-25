@@ -49,6 +49,17 @@ jobs:
         distribution: 'zulu'
         java-version: '11'
 
+    - name: Install jq
+      run: sudo apt-get update && sudo apt-get install -y jq
+      shell: /bin/bash
+
+    - name: Run setup script
+      run: $GITHUB_ACTION_PATH/setup.sh -p ...
+      env:
+        pythonLocation: /Users/subratgupta/actions-runner/_work/_tool/Python/3.12.3/arm64
+        JAVA_HOME: /Users/subratgupta/actions-runner/_work/_tool/Java_Zulu_jdk/11.0.23-9/x64
+
+
     - name: Setup Flutter
       uses: subosito/flutter-action@v2
 
