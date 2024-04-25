@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbubu_server1420"
+        applicationId "com.appcollection.xhedu1327"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
