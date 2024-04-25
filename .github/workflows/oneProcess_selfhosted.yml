@@ -26,10 +26,10 @@ jobs:
     - name: Run script to update Files
       run: python step01.py
       env:
-          DB_HOST: ${{ secrets.DB_HOST }}
-          DB_USERNAME: ${{ secrets.DB_USERNAME }}
-          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-          DB_NAME: ${{ secrets.DB_NAME }}
+        DB_HOST: ${{ secrets.DB_HOST }}
+        DB_USERNAME: ${{ secrets.DB_USERNAME }}
+        DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+        DB_NAME: ${{ secrets.DB_NAME }}
 
     - name: Commit changes
       run: |
@@ -50,18 +50,23 @@ jobs:
         java-version: '11'
 
     - name: Install jq
-      run: sudo apt-get update && sudo apt-get install -y jq
+      run: brew install jq
       shell: /bin/bash
 
     - name: Run setup script
       run: $GITHUB_ACTION_PATH/setup.sh -p ...
       env:
-        pythonLocation: /Users/subratgupta/actions-runner/_work/_tool/Python/3.12.3/arm64
-        JAVA_HOME: /Users/subratgupta/actions-runner/_work/_tool/Java_Zulu_jdk/11.0.23-9/x64
-
+        pythonLocation: ${{ env.pythonLocation }}
+        JAVA_HOME: ${{ env.JAVA_HOME }}
 
     - name: Setup Flutter
       uses: subosito/flutter-action@v2
+      with:
+        channel: stable
+        architecture: ARM64
+        cache: false
+        pub-cache-path: default
+        dry-run: false
 
     - name: Cache Flutter dependencies
       uses: actions/cache@v2
@@ -112,14 +117,14 @@ jobs:
     - name: Run script to Send Email
       run: python step04.py
       env:
-          DB_HOST: ${{ secrets.DB_HOST }}
-          DB_USERNAME: ${{ secrets.DB_USERNAME }}
-          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-          DB_NAME: ${{ secrets.DB_NAME }}
-          EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
-          EMAIL_PORT: ${{ secrets.EMAIL_PORT }}
-          EMAIL_USERNAME: ${{ secrets.EMAIL_USERNAME }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-          FTP_SERVER: ${{ secrets.FTP_SERVER }}
-          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
-          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        DB_HOST: ${{ secrets.DB_HOST }}
+        DB_USERNAME: ${{ secrets.DB_USERNAME }}
+        DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+        DB_NAME: ${{ secrets.DB_NAME }}
+        EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
+        EMAIL_PORT: ${{ secrets.EMAIL_PORT }}
+        EMAIL_USERNAME: ${{ secrets.EMAIL_USERNAME }}
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        FTP_SERVER: ${{ secrets.FTP_SERVER }}
+        FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
