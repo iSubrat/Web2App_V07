@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - counter1.txt
+      - counter.txt
 
 jobs:
   update_files:
