@@ -49,12 +49,6 @@ jobs:
         distribution: 'zulu'
         java-version: '11'
 
-    - name: Run setup script
-      run: $GITHUB_ACTION_PATH/setup.sh -p ...
-      env:
-        pythonLocation: ${{ env.pythonLocation }}
-        JAVA_HOME: ${{ env.JAVA_HOME }}
-
     - name: Setup Flutter
       uses: subosito/flutter-action@v2
       with:
