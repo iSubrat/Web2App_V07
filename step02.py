@@ -48,6 +48,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             id = row[0]
             app_name = row[1]
             web_url = f'http://web2app.appcollection.in/V07/redirect.php?id={id}'
+            app_logo = f'https://appcollection.in/InstantWeb2App/V07/uploads/{row[6]}'
             print(id, app_name, web_url)
 
             while cursor.nextset():
@@ -60,7 +61,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                     "isJavascriptEnable": "true",
                     "isSplashScreen": "false",
                     "isZoomFunctionality": "false",
-                    "navigationStyle": "fullscreen",
+                    "navigationStyle": "sidedrawer_tabs",
                     "header_style": "left",
                     "is_walkthrough": "false",
                     "is_webrtc": "true",
@@ -74,7 +75,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                     "isExitPopupScreen": "true",
                     "disable_header": "false",
                     "disable_footer": "false",
-                    "app_logo": "",
+                    "app_logo": app_logo,
                     "floating_button": ""
                 },
                 "admob": {
@@ -105,6 +106,36 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                     "enable_image": "false",
                     "exit_image_url": ""
                 },
+                "tabs": [
+                  {
+                    "id": "1",
+                    "title": "Home",
+                    "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
+                    "url": web_url,
+                    "status": "1"
+                  },
+                  {
+                    "id": "2",
+                    "title": "Search",
+                    "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
+                    "url": web_url,
+                    "status": "1"
+                  },
+                  {
+                    "id": "3",
+                    "title": "Profile",
+                    "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
+                    "url": web_url,
+                    "status": "1"
+                  },
+                  {
+                    "id": "4",
+                    "title": "Publish",
+                    "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
+                    "url": "https://web2app.appcollection.in/V07/publish.html",
+                    "status": "1"
+                  }
+                ],
                 "user_agent": [{
                     "id": "1",
                     "title": "Safari Mac M1",
