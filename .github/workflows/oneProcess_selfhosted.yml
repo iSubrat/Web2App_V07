@@ -51,7 +51,7 @@ jobs:
 
     - name: Install jq
       run: brew install jq
-      shell: /bin/bash
+      shell: bash
 
     - name: Run setup script
       run: $GITHUB_ACTION_PATH/setup.sh -p ...
