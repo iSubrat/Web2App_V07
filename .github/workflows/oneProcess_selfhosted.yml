@@ -35,12 +35,13 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -a -m "Update Android Manifest" || true
+        git add -A
+        git diff --staged --quiet || git commit -m "Update Android Manifest"
 
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GIT_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Setup Java
       uses: actions/setup-java@v2
