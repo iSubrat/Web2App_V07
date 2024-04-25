@@ -49,10 +49,6 @@ jobs:
         distribution: 'zulu'
         java-version: '11'
 
-    - name: Install jq
-      run: brew install jq
-      shell: bash
-
     - name: Run setup script
       run: $GITHUB_ACTION_PATH/setup.sh -p ...
       env:
