@@ -49,6 +49,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             app_name = row[1]
             web_url = f'http://web2app.appcollection.in/V07/redirect.php?id={id}'
             app_logo = f'https://appcollection.in/InstantWeb2App/V07/uploads/{row[6]}'
+            published = row[15]
             print(id, app_name, web_url)
 
             while cursor.nextset():
