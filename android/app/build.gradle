@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcom_paypal_android_p2pmobile1454"
+        applicationId "com.appcollection.xchat_ai_1453"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
