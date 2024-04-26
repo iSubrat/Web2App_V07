@@ -149,8 +149,6 @@ def create_app_configuration(app_name, web_url, app_logo, published):
                 "status": "1"
             }]
         }, indent=4)
-        filename = "mightyweb.json"
-        upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id)
     elif published=='SOLD':
         content = json.dumps({
             "appconfiguration": {
@@ -243,10 +241,98 @@ def create_app_configuration(app_name, web_url, app_logo, published):
                 "status": "1"
             }]
         }, indent=4)
-        filename = "mightyweb.json"
-        upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id)
     elif published=='PUBLISHED':
-        pass
+        content = json.dumps({
+            "appconfiguration": {
+                "app_name": app_name,
+                "url": web_url,
+                "appLanguage": "en",
+                "isJavascriptEnable": "true",
+                "isSplashScreen": "false",
+                "isZoomFunctionality": "false",
+                "navigationStyle": "sidedrawer_tabs",
+                "header_style": "left",
+                "is_walkthrough": "false",
+                "is_webrtc": "true",
+                "is_floating_button": "false",
+                "floating_button_style": "regular",
+                "is_pull_refresh": "true",
+                "tab_style": "tab_with_title_icon",
+                "bottom_navigation": "bottom_navigation_3",
+                "walkthrough_style": "walkthrough_style_3",
+                "clear_cookie": "false",
+                "isExitPopupScreen": "true",
+                "disable_header": "false",
+                "disable_footer": "false",
+                "app_logo": app_logo,
+                "floating_button": ""
+            },
+            "admob": {
+                "ads_type": "none",
+                "admobBannerID": "",
+                "admobIntentialID": "",
+                "admobBannerIDIOS": "",
+                "admobIntentialIDIOS": "",
+                "facebookBannerID": "",
+                "facebookIntentialID": "",
+                "facebookBannerIDIOS": "",
+                "facebookIntentialIDIOS": ""
+            },
+            "progressbar": {
+                "is_progressbar": "true",
+                "loaderStyle": "FadingCircle"
+            },
+            "theme": {
+                "themeStyle": "Custom",
+                "customColor": "#000000",
+                "gradientColor1": None,
+                "gradientColor2": None
+            },
+            "exitpopup_configuration": {
+                "title": "Do you want to exit app?",
+                "positive_text": "Yes",
+                "negative_text": "No",
+                "enable_image": "false",
+                "exit_image_url": ""
+            },
+            "tabs": [
+              {
+                "id": "1",
+                "title": "Home",
+                "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
+                "url": web_url,
+                "status": "1"
+              },
+              {
+                "id": "2",
+                "title": "Search",
+                "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
+                "url": web_url,
+                "status": "1"
+              },
+              {
+                "id": "3",
+                "title": "Profile",
+                "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
+                "url": web_url,
+                "status": "1"
+              },
+              {
+                "id": "4",
+                "title": "Wishlist",
+                "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
+                "url": web_url,
+                "status": "1"
+              }
+            ],
+            "user_agent": [{
+                "id": "1",
+                "title": "Safari Mac M1",
+                "android": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
+                "ios": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15",
+                "status": "1"
+            }]
+        }, indent=4)
     else:
         content = json.dumps({
             "appconfiguration": {
@@ -339,9 +425,7 @@ def create_app_configuration(app_name, web_url, app_logo, published):
                 "status": "1"
             }]
         }, indent=4)
-        filename = "mightyweb.json"
-        upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id)
-    return config
+    return content
 
 def upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id):
     with FTP(ftp_host) as ftp:
