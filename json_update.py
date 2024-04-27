@@ -98,7 +98,7 @@ def execute_query(db_host, db_username, db_password, db_database):
         # Create a cursor object
         cursor = connection.cursor()
 
-        # Execute the query to fetch all rows where status is "UPDATE".
+        # Execute the query to fetch all rows where status is "UPDATE"
         cursor.execute("SELECT * FROM app_data WHERE status = 'UPDATE' AND published = ''")
 
         # Process each row
@@ -113,24 +113,24 @@ def execute_query(db_host, db_username, db_password, db_database):
         print("Error executing query:", e)
 
 def process_row(row, cursor, ftp_host, ftp_username, ftp_password):
-    id, app_name, web_url, app_logo, published = row[0], row[1], f'http://web2app.appcollection.in/V07/redirect.php?id={row[0]}', f'https://appcollection.in/InstantWeb2App/V07/uploads/{row[6]}', row[15]
-    print(id, app_name, web_url)
+    id, app_name, redirect_url, web_url, app_logo, published = row[0], row[1], f'http://web2app.appcollection.in/V07/redirect.php?id={row[0]}', row[2], f'https://appcollection.in/InstantWeb2App/V07/uploads/{row[6]}', row[15]
+    print(id, app_name, redirect_url, web_url)
 
     # Generate configuration content for the app
-    content = create_app_configuration(app_name, web_url, app_logo, published)
+    content = create_app_configuration(app_name, redirect_url, web_url, app_logo, published)
 
     # Upload to FTP
     filename = "mightyweb.json"
     upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id)
 
-def create_app_configuration(app_name, web_url, app_logo, published):
+def create_app_configuration(app_name, redirect_url, web_url, app_logo, published):
     urls = popular_urls(web_url, openai_api_key)
     print(urls)
     if published=='DIY':
         content = json.dumps({
             "appconfiguration": {
                 "app_name": app_name,
-                "url": web_url,
+                "url": redirect_url,
                 "appLanguage": "en",
                 "isJavascriptEnable": "true",
                 "isSplashScreen": "false",
@@ -222,7 +222,7 @@ def create_app_configuration(app_name, web_url, app_logo, published):
         content = json.dumps({
             "appconfiguration": {
                 "app_name": app_name,
-                "url": web_url,
+                "url": redirect_url,
                 "appLanguage": "en",
                 "isJavascriptEnable": "true",
                 "isSplashScreen": "false",
@@ -314,7 +314,7 @@ def create_app_configuration(app_name, web_url, app_logo, published):
         content = json.dumps({
             "appconfiguration": {
                 "app_name": app_name,
-                "url": web_url,
+                "url": redirect_url,
                 "appLanguage": "en",
                 "isJavascriptEnable": "true",
                 "isSplashScreen": "false",
@@ -406,7 +406,7 @@ def create_app_configuration(app_name, web_url, app_logo, published):
         content = json.dumps({
             "appconfiguration": {
                 "app_name": app_name,
-                "url": web_url,
+                "url": redirect_url,
                 "appLanguage": "en",
                 "isJavascriptEnable": "true",
                 "isSplashScreen": "false",
