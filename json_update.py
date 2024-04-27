@@ -93,7 +93,7 @@ def execute_query(db_host, db_username, db_password, db_database):
         # Create a cursor object
         cursor = connection.cursor()
 
-        # Execute the query to fetch all rows where status is "UPDATE"
+        # Execute the query to fetch all rows where status is "UPDATE".
         cursor.execute("SELECT * FROM app_data WHERE status = 'UPDATE' AND published = ''")
 
         # Process each row
