@@ -456,6 +456,32 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "enable_image": "false",
                 "exit_image_url": ""
             },
+            "share_content": {
+                "share": "https:\/\/appcollection.in"
+            },
+            "menu_style": [
+                {
+                    "id": "20",
+                    "title": "Notifications",
+                    "type": "sidedrawer",
+                    "image": "https:\/\/apps.meetmighty.com\/mightyweb\/upload\/menu\/1711105864-ic_notification.png",
+                    "url": "https:\/\/www.google.com\/",
+                    "status": "1",
+                    "parent_id": "0",
+                    "children": [
+                        {
+                            "id": "7",
+                            "title": "Privay Policy",
+                            "type": "sidedrawer",
+                            "image": "https:\/\/apps.meetmighty.com\/mightyweb\/upload\/menu\/1646124702-ic_about.png",
+                            "url": "https:\/\/www.google.com\/",
+                            "status": "1",
+                            "parent_id": "20",
+                            "children": []
+                        }
+                    ]
+                }
+            ],
             "tabs": [
               {
                 "id": "1",
@@ -493,6 +519,22 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "ios": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15",
                 "status": "1"
             }]
+            "pages": [
+                {
+                    "id": "1",
+                    "title": "Privay Policy",
+                    "image": "https:\/\/apps.meetmighty.com\/mightyweb\/upload\/pages\/1647937720-ic_about.png",
+                    "url": "https:\/\/meetmighty.com\/mighty\/privacy-policy\/",
+                    "status": "1"
+                },
+                {
+                    "id": "2",
+                    "title": "Contact",
+                    "image": "https:\/\/apps.meetmighty.com\/mightyweb\/upload\/pages\/1647937751-ic_about.png",
+                    "url": "https:\/\/meetmighty.com\/mighty\/contact\/",
+                    "status": "1"
+                }
+            ]
         }, indent=4)
     return content
 
