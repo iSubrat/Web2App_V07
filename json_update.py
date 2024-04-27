@@ -74,7 +74,7 @@ def popular_urls(url, api_key):
             # body_text = soup.getText()
             if i > 0:
                 title = soup.find('title').text if soup.find('title') else ''
-                if len(title.split(' ')) > 2 or len(title) < 1 or len(title) > 20:
+                if len(title.split(' ')) > 2 or len(title) < 1 or len(title) > 10:
                     title = summarize_title(title, url, api_key)
             url_titles.append((url, title))
 
@@ -127,97 +127,7 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
     urls = popular_urls(web_url, openai_api_key)
     print(urls)
     if published=='DIY':
-        content = json.dumps({
-            "appconfiguration": {
-                "app_name": app_name,
-                "url": redirect_url,
-                "appLanguage": "en",
-                "isJavascriptEnable": "true",
-                "isSplashScreen": "false",
-                "isZoomFunctionality": "false",
-                "navigationStyle": "sidedrawer_tabs",
-                "header_style": "left",
-                "is_walkthrough": "false",
-                "is_webrtc": "true",
-                "is_floating_button": "false",
-                "floating_button_style": "regular",
-                "is_pull_refresh": "true",
-                "tab_style": "tab_with_title_icon",
-                "bottom_navigation": "bottom_navigation_3",
-                "walkthrough_style": "walkthrough_style_3",
-                "clear_cookie": "false",
-                "isExitPopupScreen": "true",
-                "disable_header": "false",
-                "disable_footer": "false",
-                "app_logo": app_logo,
-                "floating_button": ""
-            },
-            "admob": {
-                "ads_type": "none",
-                "admobBannerID": "",
-                "admobIntentialID": "",
-                "admobBannerIDIOS": "",
-                "admobIntentialIDIOS": "",
-                "facebookBannerID": "",
-                "facebookIntentialID": "",
-                "facebookBannerIDIOS": "",
-                "facebookIntentialIDIOS": ""
-            },
-            "progressbar": {
-                "is_progressbar": "true",
-                "loaderStyle": "FadingCircle"
-            },
-            "theme": {
-                "themeStyle": "Custom",
-                "customColor": "#000000",
-                "gradientColor1": None,
-                "gradientColor2": None
-            },
-            "exitpopup_configuration": {
-                "title": "Do you want to exit app?",
-                "positive_text": "Yes",
-                "negative_text": "No",
-                "enable_image": "false",
-                "exit_image_url": ""
-            },
-            "tabs": [
-              {
-                "id": "1",
-                "title": urls[0][1],
-                "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
-                "url": urls[0][0],
-                "status": "1"
-              },
-              {
-                "id": "2",
-                "title": urls[1][1],
-                "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
-                "url": urls[1][0],
-                "status": "1"
-              },
-              {
-                "id": "3",
-                "title": urls[2][1],
-                "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
-                "url": urls[2][0],
-                "status": "1"
-              },
-              {
-                "id": "4",
-                "title": urls[3][1],
-                "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
-                "url": urls[3][0],
-                "status": "1"
-              }
-            ],
-            "user_agent": [{
-                "id": "1",
-                "title": "Safari Mac M1",
-                "android": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
-                "ios": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15",
-                "status": "1"
-            }]
-        }, indent=4)
+        pass
     elif published=='SOLD':
         content = json.dumps({
             "appconfiguration": {
@@ -308,64 +218,9 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "android": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
                 "ios": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15",
                 "status": "1"
-            }]
-        }, indent=4)
-    elif published=='PUBLISHED':
-        content = json.dumps({
-            "appconfiguration": {
-                "app_name": app_name,
-                "url": redirect_url,
-                "appLanguage": "en",
-                "isJavascriptEnable": "true",
-                "isSplashScreen": "false",
-                "isZoomFunctionality": "false",
-                "navigationStyle": "sidedrawer_tabs",
-                "header_style": "left",
-                "is_walkthrough": "false",
-                "is_webrtc": "true",
-                "is_floating_button": "false",
-                "floating_button_style": "regular",
-                "is_pull_refresh": "true",
-                "tab_style": "tab_with_title_icon",
-                "bottom_navigation": "bottom_navigation_3",
-                "walkthrough_style": "walkthrough_style_3",
-                "clear_cookie": "false",
-                "isExitPopupScreen": "true",
-                "disable_header": "false",
-                "disable_footer": "false",
-                "app_logo": app_logo,
-                "floating_button": ""
-            },
-            "admob": {
-                "ads_type": "none",
-                "admobBannerID": "",
-                "admobIntentialID": "",
-                "admobBannerIDIOS": "",
-                "admobIntentialIDIOS": "",
-                "facebookBannerID": "",
-                "facebookIntentialID": "",
-                "facebookBannerIDIOS": "",
-                "facebookIntentialIDIOS": ""
-            },
-            "progressbar": {
-                "is_progressbar": "true",
-                "loaderStyle": "FadingCircle"
-            },
-            "theme": {
-                "themeStyle": "Custom",
-                "customColor": "#000000",
-                "gradientColor1": None,
-                "gradientColor2": None
-            },
-            "exitpopup_configuration": {
-                "title": "Do you want to exit app?",
-                "positive_text": "Yes",
-                "negative_text": "No",
-                "enable_image": "false",
-                "exit_image_url": ""
-            },
-            "tabs": [
-              {
+            }],
+            "pages": [
+                {
                 "id": "1",
                 "title": urls[0][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
@@ -393,15 +248,10 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "url": urls[3][0],
                 "status": "1"
               }
-            ],
-            "user_agent": [{
-                "id": "1",
-                "title": "Safari Mac M1",
-                "android": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
-                "ios": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15",
-                "status": "1"
-            }]
+            ]
         }, indent=4)
+    elif published=='PUBLISHED':
+        pass
     else:
         content = json.dumps({
             "appconfiguration": {
