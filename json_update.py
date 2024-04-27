@@ -43,7 +43,7 @@ def normalize_url(url):
     return url.lower()
 
 
-popular_urls(url, api_key):
+def popular_urls(url, api_key):
     try:
         domain = url.split('://')[1]
         query = "site:" + domain.split('/')[0]
