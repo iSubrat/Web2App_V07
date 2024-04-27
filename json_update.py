@@ -24,14 +24,14 @@ ftp_password = os.environ['FTP_PASSWORD']
 
 openai_api_key = os.environ['OPENAI_API_KEY']
 
-def summarize_title(title, url, api_key):
+def summarize_title(previous_titles, title, url, api_key):
     client = OpenAI(api_key=api_key)
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user",
-             "content": f"Current Webpage Title: {title}\nWebpage URL: {url}\n\nCould you give this webpage a one word title? do not add any other text as your output will be used in code."},
+             "content": f"Previous Titles: {previous_titles}\nCurrent Webpage Title: {title}\nWebpage URL: {url}\n\nCould you give this webpage a one word title? it must be different from the Previous Titles & do not add any other text as your output will be used in code."},
         ],
     )
     return response.choices[0].message.content
@@ -68,10 +68,12 @@ def popular_urls(url, api_key):
                     response.raise_for_status()  # Will raise HTTPError for bad requests (400 or 500 level responses)
                     soup = BeautifulSoup(response.text, 'html.parser')
                     title = 'Home'
+                    previous_titles = title
                     if i > 0:
                         title = soup.find('title').text if soup.find('title') else ''
                         if len(title.split(' ')) > 2 or len(title) < 1 or len(title) > 10:
-                            title = summarize_title(title, url, api_key)
+                            title = summarize_title(previous_titles, title, url, api_key)
+                    previous_titles = previous_titles + f', {title}'
                     url_titles.append((url, title))
                     break  # Break the loop if request is successful
                 except HTTPError as e:
