@@ -8,6 +8,8 @@ from bs4 import BeautifulSoup
 from googlesearch import search
 from requests.exceptions import SSLError, ConnectionError
 from openai import OpenAI
+import time
+from requests.exceptions import HTTPError
 
 # MySQL database credentials
 host = os.environ['DB_HOST']
@@ -58,23 +60,31 @@ def popular_urls(url, api_key):
                 unique_urls.append(url)
 
         url_titles = []
-
         for i, url in enumerate(unique_urls):
-            try:
-                response = requests.get(url)
-                soup = BeautifulSoup(response.text, 'html.parser')
-                title = 'Home'
-                if i > 0:
-                    title = soup.find('title').text if soup.find('title') else ''
-                    if len(title.split(' ')) > 2 or len(title) < 1 or len(title) > 10:
-                        title = summarize_title(title, url, api_key)
-                url_titles.append((url, title))
-            except (SSLError, ConnectionError) as e:
-                print(f"Error accessing {url}: {str(e)}")
+            retry_count = 0
+            while retry_count < 5:  # Try up to 5 times
+                try:
+                    response = requests.get(url)
+                    response.raise_for_status()  # Will raise HTTPError for bad requests (400 or 500 level responses)
+                    soup = BeautifulSoup(response.text, 'html.parser')
+                    title = 'Home'
+                    if i > 0:
+                        title = soup.find('title').text if soup.find('title') else ''
+                        if len(title.split(' ')) > 2 or len(title) < 1 or len(title) > 10:
+                            title = summarize_title(title, url, api_key)
+                    url_titles.append((url, title))
+                    break  # Break the loop if request is successful
+                except HTTPError as e:
+                    if e.response.status_code == 429:
+                        time.sleep(10)  # Sleep for 10 seconds before retrying
+                    else:
+                        raise  # Re-raise the exception if it's not a 429
+                retry_count += 1
         return url_titles
     except Exception as e:
         print(e)
         return []
+
 
 
 def execute_query(db_host, db_username, db_password, db_database):
@@ -328,7 +338,7 @@ def upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id):
         with open(filename, 'rb') as file:
             ftp.storbinary(f'STOR {filename}', file)
 
-        print(f"Uploaded {filename} to FTP.")
+        print(f"Uploaded {filename} to FTP.\n")
 
 def create_directory(ftp, directory):
     parts = directory.split('/')
