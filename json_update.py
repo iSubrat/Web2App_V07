@@ -63,7 +63,7 @@ def popular_urls(url, api_key):
 
         for i, url in enumerate(unique_urls):
             try:
-                response = requests.get(url, verify=False)  # Bypass SSL verification
+                response = requests.get(url)  # Bypass SSL verification
                 soup = BeautifulSoup(response.text, 'html.parser')
                 title = 'Home'
                 if i > 0:
