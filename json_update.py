@@ -31,7 +31,7 @@ def summarize_title(previous_titles, title, url, api_key):
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user",
-             "content": f"Previous Titles: {previous_titles}\nCurrent Webpage Title: {title}\nWebpage URL: {url}\n\nCould you give this webpage a one word title? it must be different from the Previous Titles & do not add any other text as your output will be used in code."},
+             "content": f"Previous Titles: {previous_titles}. Current Webpage Title: {title}. Webpage URL: {url}. Please provide a one-word title for this webpage that is different from the previous titles. Note: Your response should only include the title and no additional text, as it will be used directly in code."},
         ],
     )
     return response.choices[0].message.content
