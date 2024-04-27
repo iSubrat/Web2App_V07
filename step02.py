@@ -88,7 +88,7 @@ def popular_urls(url, api_key):
                 retry_count += 1
         return url_titles
     except Exception as e:
-        print(e)
+        print('Debug A: ', e)
         return []
 
 def execute_query(db_host, db_username, db_password, db_database, query):
@@ -122,7 +122,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             web_url = row[2],
             app_logo = f'https://appcollection.in/InstantWeb2App/V07/uploads/{row[6]}'
             published = row[15]
-            print(id, app_name, web_url)
+            print('Debug B: ', id, app_name, redirect_url, web_url)
 
             while cursor.nextset():
                 pass
@@ -142,7 +142,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
 
 def create_app_configuration(app_name, redirect_url, web_url, app_logo, published):
     urls = popular_urls(web_url, openai_api_key)
-    print(urls)
+    print('Debug C: ', urls)
     
     if published=='DIY':
         pass
