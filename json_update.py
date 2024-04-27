@@ -28,7 +28,7 @@ def summarize_title(title, url, api_key):
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user",
-             "content": f"Current Webpage Title: {title}\nWebpage URL: {url}\n\nCould you give this webpage a one word title?"},
+             "content": f"Current Webpage Title: {title}\nWebpage URL: {url}\n\nCould you give this webpage a one word title? do not add any other text as your output will be used in code."},
         ],
     )
     return response.choices[0].message.content
