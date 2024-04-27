@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xphysics_wallah_lite1486"
+        applicationId "com.appcollection.xpw_lite1487"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
