@@ -81,6 +81,7 @@ def popular_urls(url, api_key):
         return url_titles
     except Exception as e:
         print(e)
+        return [url]
 
 def execute_query(db_host, db_username, db_password, db_database):
     try:
