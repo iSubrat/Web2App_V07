@@ -3,3 +3,6 @@ mysql-connector-python
 emails
 pillow
 requests
+openai
+beautifulsoup4
+google
