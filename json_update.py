@@ -456,32 +456,6 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "enable_image": "false",
                 "exit_image_url": ""
             },
-            "share_content": {
-                "share": "https:\/\/appcollection.in"
-            },
-            "menu_style": [
-                {
-                    "id": "20",
-                    "title": "Notifications",
-                    "type": "sidedrawer",
-                    "image": "https:\/\/apps.meetmighty.com\/mightyweb\/upload\/menu\/1711105864-ic_notification.png",
-                    "url": "https:\/\/www.google.com\/",
-                    "status": "1",
-                    "parent_id": "0",
-                    "children": [
-                        {
-                            "id": "7",
-                            "title": "Privay Policy",
-                            "type": "sidedrawer",
-                            "image": "https:\/\/apps.meetmighty.com\/mightyweb\/upload\/menu\/1646124702-ic_about.png",
-                            "url": "https:\/\/www.google.com\/",
-                            "status": "1",
-                            "parent_id": "20",
-                            "children": []
-                        }
-                    ]
-                }
-            ],
             "tabs": [
               {
                 "id": "1",
@@ -521,19 +495,33 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
             }],
             "pages": [
                 {
-                    "id": "1",
-                    "title": "Privay Policy",
-                    "image": "https:\/\/apps.meetmighty.com\/mightyweb\/upload\/pages\/1647937720-ic_about.png",
-                    "url": "https:\/\/meetmighty.com\/mighty\/privacy-policy\/",
-                    "status": "1"
-                },
-                {
-                    "id": "2",
-                    "title": "Contact",
-                    "image": "https:\/\/apps.meetmighty.com\/mightyweb\/upload\/pages\/1647937751-ic_about.png",
-                    "url": "https:\/\/meetmighty.com\/mighty\/contact\/",
-                    "status": "1"
-                }
+                "id": "1",
+                "title": urls[0][1],
+                "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
+                "url": urls[0][0],
+                "status": "1"
+              },
+              {
+                "id": "2",
+                "title": urls[1][1],
+                "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
+                "url": urls[1][0],
+                "status": "1"
+              },
+              {
+                "id": "3",
+                "title": urls[2][1],
+                "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
+                "url": urls[2][0],
+                "status": "1"
+              },
+              {
+                "id": "4",
+                "title": urls[3][1],
+                "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
+                "url": urls[3][0],
+                "status": "1"
+              }
             ]
         }, indent=4)
     return content
