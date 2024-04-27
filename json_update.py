@@ -518,7 +518,7 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "android": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36",
                 "ios": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15",
                 "status": "1"
-            }]
+            }],
             "pages": [
                 {
                     "id": "1",
