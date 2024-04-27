@@ -8,8 +8,6 @@ from bs4 import BeautifulSoup
 from googlesearch import search
 from requests.exceptions import SSLError, ConnectionError
 from openai import OpenAI
-import urllib3
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # MySQL database credentials
 host = os.environ['DB_HOST']
@@ -47,10 +45,17 @@ def normalize_url(url):
 
 def popular_urls(url, api_key):
     try:
+        # Extract the domain to use in the search query
         domain = url.split('://')[1]
         query = "site:" + domain.split('/')[0]
-        search_results = search(query, stop=6)
+
+        # Fetch the top 4 related URLs using Google Search
+        search_results = search(query, stop=4)
+
+        # Include the original URL at the beginning of the list
         urls = [url] + list(search_results)
+
+        # Normalize URLs to remove duplicates
         normalized_urls = set()
         unique_urls = []
         for url in urls:
@@ -59,20 +64,21 @@ def popular_urls(url, api_key):
                 normalized_urls.add(norm_url)
                 unique_urls.append(url)
 
+        # List to hold urls and their summarized titles
         url_titles = []
 
+        # Loop through the URLs and fetch their titles
         for i, url in enumerate(unique_urls):
-            try:
-                response = requests.get(url)  # Bypass SSL verification
-                soup = BeautifulSoup(response.text, 'html.parser')
-                title = 'Home'
-                if i > 0:
-                    title = soup.find('title').text if soup.find('title') else ''
-                    if len(title.split(' ')) > 2 or len(title) < 1 or len(title) > 10:
-                        title = summarize_title(title, url, api_key)
-                url_titles.append((url, title))
-            except (SSLError, ConnectionError) as e:
-                print(f"Error accessing {url}: {str(e)}")
+            response = requests.get(url)
+            soup = BeautifulSoup(response.text, 'html.parser')
+            title = 'Home'
+            # body_text = soup.getText()
+            if i > 0:
+                title = soup.find('title').text if soup.find('title') else ''
+                if len(title.split(' ')) > 2 or len(title) < 1 or len(title) > 10:
+                    title = summarize_title(title, url, api_key)
+            url_titles.append((url, title))
+
         return url_titles
     except Exception as e:
         print(e)
