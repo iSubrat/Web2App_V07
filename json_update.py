@@ -3,6 +3,10 @@ import ftplib
 from ftplib import FTP, error_perm
 import json
 import os
+import requests
+from bs4 import BeautifulSoup
+from googlesearch import search
+from openai import OpenAI
 
 # MySQL database credentials
 host = os.environ['DB_HOST']
@@ -14,6 +18,69 @@ database = os.environ['DB_NAME']
 ftp_host = os.environ['FTP_SERVER']
 ftp_username = os.environ['FTP_USERNAME']
 ftp_password = os.environ['FTP_PASSWORD']
+
+openai_api_key = os.environ['OPENAI_API_KEY']
+
+def summarize_title(title, url, api_key):
+    client = OpenAI(api_key=api_key)
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user",
+             "content": f"Current Webpage Title: {title}\nWebpage URL: {url}\n\nCould you give this webpage a one word title?"},
+        ],
+    )
+    return response.choices[0].message.content
+
+
+def normalize_url(url):
+    # Remove URL parameters and fragment identifiers
+    url = url.split('?')[0].split('#')[0]
+    # Remove 'www.' if it exists and ensure consistent HTTP/HTTPS scheme
+    url = url.replace('http://', 'https://').replace('https://www.', 'https://').rstrip('/')
+    return url.lower()
+
+
+def popular_urls(url, api_key):
+    try:
+        # Extract the domain to use in the search query
+        domain = url.split('://')[1]
+        query = "site:" + domain.split('/')[0]
+
+        # Fetch the top 4 related URLs using Google Search
+        search_results = search(query, stop=4)
+
+        # Include the original URL at the beginning of the list
+        urls = [url] + list(search_results)
+
+        # Normalize URLs to remove duplicates
+        normalized_urls = set()
+        unique_urls = []
+        for url in urls:
+            norm_url = normalize_url(url)
+            if norm_url not in normalized_urls:
+                normalized_urls.add(norm_url)
+                unique_urls.append(url)
+
+        # List to hold urls and their summarized titles
+        url_titles = []
+
+        # Loop through the URLs and fetch their titles
+        for i, url in enumerate(unique_urls):
+            response = requests.get(url)
+            soup = BeautifulSoup(response.text, 'html.parser')
+            title = 'Home'
+            # body_text = soup.getText()
+            if i > 0:
+                title = soup.find('title').text if soup.find('title') else ''
+                if len(title.split(' ')) > 2 or len(title) < 1 or len(title) > 20:
+                    title = summarize_title(title, url, api_key)
+            url_titles.append((url, title))
+
+        return url_titles
+    except Exception as e:
+        print(e)
 
 def execute_query(db_host, db_username, db_password, db_database):
     try:
@@ -57,6 +124,8 @@ def process_row(row, cursor, ftp_host, ftp_username, ftp_password):
     upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id)
 
 def create_app_configuration(app_name, web_url, app_logo, published):
+    urls = popular_urls(web_url, openai_api_key)
+    print(urls)
     if published=='DIY':
         content = json.dumps({
             "appconfiguration": {
@@ -114,30 +183,30 @@ def create_app_configuration(app_name, web_url, app_logo, published):
             "tabs": [
               {
                 "id": "1",
-                "title": "Home",
+                "title": urls[0][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
-                "url": web_url,
+                "url": urls[0][0],
                 "status": "1"
               },
               {
                 "id": "2",
-                "title": "Search",
+                "title": urls[1][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
-                "url": web_url,
+                "url": urls[1][0],
                 "status": "1"
               },
               {
                 "id": "3",
-                "title": "Profile",
+                "title": urls[2][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
-                "url": web_url,
+                "url": urls[2][0],
                 "status": "1"
               },
               {
                 "id": "4",
-                "title": "Wishlist",
+                "title": urls[3][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
-                "url": web_url,
+                "url": urls[3][0],
                 "status": "1"
               }
             ],
@@ -206,30 +275,30 @@ def create_app_configuration(app_name, web_url, app_logo, published):
             "tabs": [
               {
                 "id": "1",
-                "title": "Home",
+                "title": urls[0][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
-                "url": web_url,
+                "url": urls[0][0],
                 "status": "1"
               },
               {
                 "id": "2",
-                "title": "Search",
+                "title": urls[1][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
-                "url": web_url,
+                "url": urls[1][0],
                 "status": "1"
               },
               {
                 "id": "3",
-                "title": "Profile",
+                "title": urls[2][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
-                "url": web_url,
+                "url": urls[2][0],
                 "status": "1"
               },
               {
                 "id": "4",
-                "title": "Wishlist",
+                "title": urls[3][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
-                "url": web_url,
+                "url": urls[3][0],
                 "status": "1"
               }
             ],
@@ -298,30 +367,30 @@ def create_app_configuration(app_name, web_url, app_logo, published):
             "tabs": [
               {
                 "id": "1",
-                "title": "Home",
+                "title": urls[0][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
-                "url": web_url,
+                "url": urls[0][0],
                 "status": "1"
               },
               {
                 "id": "2",
-                "title": "Search",
+                "title": urls[1][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
-                "url": web_url,
+                "url": urls[1][0],
                 "status": "1"
               },
               {
                 "id": "3",
-                "title": "Profile",
+                "title": urls[2][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
-                "url": web_url,
+                "url": urls[2][0],
                 "status": "1"
               },
               {
                 "id": "4",
-                "title": "Wishlist",
+                "title": urls[3][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
-                "url": web_url,
+                "url": urls[3][0],
                 "status": "1"
               }
             ],
@@ -390,30 +459,30 @@ def create_app_configuration(app_name, web_url, app_logo, published):
             "tabs": [
               {
                 "id": "1",
-                "title": "Home",
+                "title": urls[0][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
-                "url": web_url,
+                "url": urls[0][0],
                 "status": "1"
               },
               {
                 "id": "2",
-                "title": "Search",
+                "title": urls[1][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
-                "url": web_url,
+                "url": urls[1][0],
                 "status": "1"
               },
               {
                 "id": "3",
-                "title": "Profile",
+                "title": urls[2][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
-                "url": web_url,
+                "url": urls[2][0],
                 "status": "1"
               },
               {
                 "id": "4",
-                "title": "Wishlist",
+                "title": urls[3][1],
                 "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
-                "url": web_url,
+                "url": urls[3][0],
                 "status": "1"
               }
             ],
