@@ -32,7 +32,7 @@ def execute_query(db_host, db_username, db_password, db_database):
         cursor = connection.cursor()
 
         # Execute the query to fetch all rows where status is "UPDATE"
-        cursor.execute("SELECT * FROM app_data WHERE status = 'UPDATE'")
+        cursor.execute("SELECT * FROM app_data WHERE status = 'UPDATE' AND published = ''")
 
         # Process each row
         for row in cursor.fetchall():
@@ -411,9 +411,9 @@ def create_app_configuration(app_name, web_url, app_logo, published):
               },
               {
                 "id": "4",
-                "title": "Publish",
+                "title": "Wishlist",
                 "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
-                "url": "https://web2app.appcollection.in/V07/publish.html",
+                "url": web_url,
                 "status": "1"
               }
             ],
