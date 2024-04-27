@@ -270,28 +270,28 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                     "title": urls[0][1],
                     "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
                     "url": urls[0][0],
-                    "status": "1"
+                    "status": "0"
                   },
                   {
                     "id": "2",
                     "title": urls[1][1],
                     "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
                     "url": urls[1][0],
-                    "status": "1"
+                    "status": "0"
                   },
                   {
                     "id": "3",
                     "title": urls[2][1],
                     "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
                     "url": urls[2][0],
-                    "status": "1"
+                    "status": "0"
                   },
                   {
                     "id": "4",
                     "title": urls[3][1],
                     "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
                     "url": urls[3][0],
-                    "status": "1"
+                    "status": "0"
                   }
                 ],
                 "user_agent": [{
