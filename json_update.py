@@ -96,7 +96,7 @@ def execute_query(db_host, db_username, db_password, db_database):
         cursor = connection.cursor()
 
         # Execute the query to fetch all rows where status is "UPDATE"
-        cursor.execute("SELECT * FROM app_data WHERE status = 'UPDATE' AND published = '' ORDER BY id DESC LIMIT 10;")
+        cursor.execute("SELECT * FROM app_data WHERE status = 'UPDATE' AND published = '' ORDER BY id DESC LIMIT 10")
 
         # Process each row
         for row in cursor.fetchall():
