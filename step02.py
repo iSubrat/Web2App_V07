@@ -322,9 +322,9 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                       },
                       {
                         "id": "4",
-                        "title": "Publish",
+                        "title": "Wishlist",
                         "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
-                        "url": "https://web2app.appcollection.in/V07/publish.html",
+                        "url": web_url,
                         "status": "1"
                       }
                     ],
