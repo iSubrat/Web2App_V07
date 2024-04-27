@@ -8,6 +8,8 @@ from bs4 import BeautifulSoup
 from googlesearch import search
 from requests.exceptions import SSLError, ConnectionError
 from openai import OpenAI
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # MySQL database credentials
 host = os.environ['DB_HOST']
