@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xflybuy1509"
+        applicationId "com.appcollection.xfashion_fabric_1513"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
