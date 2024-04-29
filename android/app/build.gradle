@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xm4uhd_tv1525"
+        applicationId "com.appcollection.xfraud_score1527"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
