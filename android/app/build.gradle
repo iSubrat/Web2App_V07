@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmitesh1544"
+        applicationId "com.appcollection.xcountryball_ww11545"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
