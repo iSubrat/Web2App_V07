@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xitunes_1567"
+        applicationId "com.appcollection.xradio_wanda_rom_nia_1568"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
