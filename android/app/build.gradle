@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwin_tub1566"
+        applicationId "com.appcollection.xitunes_1567"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
