@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xamped1571"
+        applicationId "com.appcollection.xchatgate_ai1572"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
