@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xxcode1610"
+        applicationId "com.appcollection.xpanges_prefabbricati_srl1611"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
