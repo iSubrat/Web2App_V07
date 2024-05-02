@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcjw_symphonie1617"
+        applicationId "com.appcollection.xadmin_spa_in_dhaka_1618"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
