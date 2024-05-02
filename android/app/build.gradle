@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjiotv_iptv1622"
+        applicationId "com.appcollection.xforms1623"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
