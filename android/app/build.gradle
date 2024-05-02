@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xboyfriendtv1613"
+        applicationId "com.appcollection.xsastha1614"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
