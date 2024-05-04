@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvideo_converter1676"
+        applicationId "com.appcollection.xvideo_converter1677"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
