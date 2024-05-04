@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbt_net_salary1688"
+        applicationId "com.appcollection.xdokan1690"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
