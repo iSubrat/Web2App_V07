@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcall_bomber1674"
+        applicationId "com.appcollection.xbeag1_01678"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
