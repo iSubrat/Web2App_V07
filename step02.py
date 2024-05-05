@@ -117,9 +117,9 @@ def execute_query(db_host, db_username, db_password, db_database, query):
         if row:
             id = row[0]
             app_name = row[1]
-            redirect_url = f'http://web2app.appcollection.in/V07/redirect.php?id={id}'
+            redirect_url = f'http://web2app.appcollection.in/V08/redirect.php?id={id}'
             web_url = row[2]
-            app_logo = f'https://appcollection.in/InstantWeb2App/V07/uploads/{row[6]}'
+            app_logo = f'https://appcollection.in/InstantWeb2App/V08/uploads/{row[6]}'
             published = row[15]
             print('Debug B: ', id, app_name, redirect_url, web_url)
 
