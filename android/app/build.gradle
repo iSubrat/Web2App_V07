@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspynet_1713"
+        applicationId "com.appcollection.xbeginnersmind1712"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
