@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbeauty_time1793"
+        applicationId "com.appcollection.xgoojara1794"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
