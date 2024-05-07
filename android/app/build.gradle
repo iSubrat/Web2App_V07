@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xskysnap1774"
+        applicationId "com.appcollection.xmotu_patlu1775"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
