@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xusama_pf1801"
+        applicationId "com.appcollection.xusama_pf1802"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
