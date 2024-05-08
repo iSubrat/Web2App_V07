@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpomo_iptv_panel1822"
+        applicationId "com.appcollection.xforchristianity1823"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
