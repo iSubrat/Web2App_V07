@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgmail_builder_by_r_t_x_hacker_atik_1846"
+        applicationId "com.appcollection.xgmail_builder_by_r_t_x_hacker_atik_1847"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
