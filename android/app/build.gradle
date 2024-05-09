@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xheros_of_mavia1852"
+        applicationId "com.appcollection.xpure_apk1853"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
