@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkelly_ht1882"
+        applicationId "com.appcollection.xmp_pandit1883"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
