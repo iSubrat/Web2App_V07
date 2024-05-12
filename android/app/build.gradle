@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkalkulator1922"
+        applicationId "com.appcollection.xworld_star_weavers_1923"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
