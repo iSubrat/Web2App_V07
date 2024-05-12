@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfree_fire1938"
+        applicationId "com.appcollection.xmehtab1940"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
