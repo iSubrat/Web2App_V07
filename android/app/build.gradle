@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlegallyfix_1944"
+        applicationId "com.appcollection.xmy_fashion1945"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
