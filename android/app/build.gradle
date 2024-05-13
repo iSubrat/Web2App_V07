@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcolection_1953"
+        applicationId "com.appcollection.xcruchyroll_premium_1954"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
