@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpasswords_and_keychain_1978"
+        applicationId "com.appcollection.xpassword_keychain_1979"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
