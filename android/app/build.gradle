@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrab_check1994"
+        applicationId "com.appcollection.xrc_tracks_1996"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
