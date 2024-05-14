@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwindows_10_pc_1980"
+        applicationId "com.appcollection.xwindows_10_pc_1983"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
