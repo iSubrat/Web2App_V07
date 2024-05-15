@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsakib_value_changer_2029"
+        applicationId "com.appcollection.xmustadseed_printing_solutions_2030"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
