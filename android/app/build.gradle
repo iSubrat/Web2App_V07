@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjournalism_simplified_2057"
+        applicationId "com.appcollection.xcredible_earning_2058"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
