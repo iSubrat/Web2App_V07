@@ -56,6 +56,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             username = row[3]
             email_address = row[5]
             app_logo_name = row[6]
+            admob_app_id = row[14]
             package_name = to_package_name(app_name, id)
             print(id, app_name, web_url, username, email_address)
 
@@ -65,6 +66,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             # Replace text in files
             file_path = [
                 "android/app/src/main/AndroidManifest.xml",
+                "android/app/src/main/AndroidManifest.xml",
                 "lib/utils/constant.dart",
                 "android/app/build.gradle",
                 "android/app/google-services.json"
@@ -72,6 +74,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             
             find_text = [
                 "android:label=",
+                "ca-app-pub",
                 "const BASE_URL =",
                 "applicationId \"com.appcollection",
                 '"package_name": '
@@ -79,12 +82,15 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             
             new_text = [
                 f'        android:label="{app_name.replace("&", "&amp;")}"\n',
+                f'            android:value="{admob_app_id}" />\n',
                 f'const BASE_URL = "https://web2app.appcollection.in/downloads/01_Profiles/{id}";\n',
                 f'        applicationId "{package_name}"\n',
                 f'          "package_name": "{package_name}"\n'
             ]
 
             for fp, ft, nt in zip(file_path, find_text, new_text):
+                if ft==find_text[1] and len(admob_app_id)<10:
+                    continue
                 replace_text_in_file(fp, ft, nt)
             
             # Update the status column to "Updated"
