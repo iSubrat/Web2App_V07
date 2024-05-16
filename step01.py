@@ -56,7 +56,10 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             username = row[3]
             email_address = row[5]
             app_logo_name = row[6]
-            admob_app_id = row[14]
+            if len(row[14])<10:
+                admob_app_id = 'ca-app-pub-3940256099942544~3347511713'
+            else:
+                admob_app_id = row[14]
             package_name = to_package_name(app_name, id)
             print(id, app_name, web_url, username, email_address)
 
@@ -89,8 +92,6 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             ]
 
             for fp, ft, nt in zip(file_path, find_text, new_text):
-                if ft==find_text[1] and len(admob_app_id)<10:
-                    continue
                 replace_text_in_file(fp, ft, nt)
             
             # Update the status column to "Updated"
