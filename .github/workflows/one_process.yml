@@ -63,10 +63,8 @@ jobs:
           ${{ runner.os }}-flutter-
 
 
-    - name: Build APK and AAB
-      run: |
-        # flutter build apk --release
-        flutter build aab
+    - name: Build APK
+      run: flutter build apk --release
 
     - name: FTP Transfer
       uses: joutvhu/ftp-transfer@v1
@@ -75,7 +73,9 @@ jobs:
         port: 21
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        commands: find ./build/app/outputs/flutter-apk/ -type f -exec mv {} ./ \;
+        commands: |
+          put ./build/app/outputs/flutter-apk/ ./
+          delete app-release.apk.sha1
           
     - name: Run script to upload JSON
       run: python step02.py
