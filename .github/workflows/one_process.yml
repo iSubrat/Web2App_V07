@@ -75,9 +75,7 @@ jobs:
         port: 21
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        commands: |
-          put ./build/app/outputs/flutter-apk/ ./
-          delete app-release.apk.sha1
+        commands: find ./build/app/outputs/flutter-apk/ -type f -exec mv {} ./ \;
           
     - name: Run script to upload JSON
       run: python step02.py
