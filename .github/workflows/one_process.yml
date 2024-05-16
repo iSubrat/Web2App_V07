@@ -65,7 +65,7 @@ jobs:
 
     - name: Build APK and AAB
       run: |
-        # flutter build apk --release
+        flutter build apk --release
         flutter build aab
 
     - name: FTP Transfer
