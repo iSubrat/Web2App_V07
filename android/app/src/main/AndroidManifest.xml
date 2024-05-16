@@ -26,14 +26,14 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="iCineMass"
+        android:label="Ananda"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~33475test1" />
+            android:value="ca-app-pub-3940256099942544~3347511713" />
 
         <activity
             android:name="com.mighty.web.MainActivity"
