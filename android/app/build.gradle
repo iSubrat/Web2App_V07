@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtnb_cahaya_resort_2097"
+        applicationId "com.appcollection.xsmart_house2098"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
