@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvivian_s_import2133"
+        applicationId "com.appcollection.xvivian_s_import2134"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
