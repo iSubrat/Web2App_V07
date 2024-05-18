@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyoutube2120"
+        applicationId "com.appcollection.xsparkytube2121"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
