@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xagent_clue2147"
+        applicationId "com.appcollection.xali2148"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
