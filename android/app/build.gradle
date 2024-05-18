@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xudio2128"
+        applicationId "com.appcollection.xvivian_s_pre_order_2129"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
