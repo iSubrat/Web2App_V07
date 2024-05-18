@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrl_guard2126"
+        applicationId "com.appcollection.xmcdonald_s_2127"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
