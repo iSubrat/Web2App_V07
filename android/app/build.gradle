@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcatat_pulsa_cak_uzi2157"
+        applicationId "com.appcollection.xt2158"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
