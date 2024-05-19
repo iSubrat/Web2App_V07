@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtata_sky_2165"
+        applicationId "com.appcollection.xnc2166"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
