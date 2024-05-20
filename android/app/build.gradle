@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaltenens_2200"
+        applicationId "com.appcollection.xbt_quadratic2201"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
