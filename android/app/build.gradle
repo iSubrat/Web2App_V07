@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmadeirawebcams2181"
+        applicationId "com.appcollection.xmyusa2183"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
