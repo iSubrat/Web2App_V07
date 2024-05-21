@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xseg_academy_2222"
+        applicationId "com.appcollection.xhari_forms_2223"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
