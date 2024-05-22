@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmelia2244"
+        applicationId "com.appcollection.xgemini_ai2247"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
