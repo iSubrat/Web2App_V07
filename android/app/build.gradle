@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfacebook2286"
+        applicationId "com.appcollection.xbiovital_2287"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
