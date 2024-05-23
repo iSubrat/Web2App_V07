@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmaths_quiz2272"
+        applicationId "com.appcollection.xadivstudio2273"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
