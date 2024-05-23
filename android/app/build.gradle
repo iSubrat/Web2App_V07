@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmyrestorent2280"
+        applicationId "com.appcollection.xezytown2281"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
