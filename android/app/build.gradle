@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtebar_group2295"
+        applicationId "com.appcollection.xevolucion_tv2296"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
