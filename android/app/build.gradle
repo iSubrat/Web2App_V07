@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtest2343"
+        applicationId "com.appcollection.xhamza_muhammad_ali_electronics_2344"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
