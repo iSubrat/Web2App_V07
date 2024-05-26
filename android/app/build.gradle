@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xso2351"
+        applicationId "com.appcollection.xwinery_finder2352"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
