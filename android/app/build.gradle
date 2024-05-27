@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtripura_jobs_bangla_2372"
+        applicationId "com.appcollection.xtripura_jobs_bangla_2371"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
