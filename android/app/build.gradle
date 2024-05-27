@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhiok2396"
+        applicationId "com.appcollection.xsa_trucker_2366"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
