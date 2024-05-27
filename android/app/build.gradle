@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtripura_jobs_bangla_2371"
+        applicationId "com.appcollection.xonu_and_fiber_info2392"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
