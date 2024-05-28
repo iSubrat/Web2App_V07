@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xthetvapp2406"
+        applicationId "com.appcollection.xhi_anime2407"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
