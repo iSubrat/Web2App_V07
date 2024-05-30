@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelvate_rally2437"
+        applicationId "com.appcollection.xencuestas_satisfacci_n_pasajero_fraternidad_2438"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
