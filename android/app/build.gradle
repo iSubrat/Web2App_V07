@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtubidy_dm2530"
+        applicationId "com.appcollection.xsdk2531"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
