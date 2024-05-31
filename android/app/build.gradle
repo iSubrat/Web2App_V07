@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadolat2512"
+        applicationId "com.appcollection.xfruity_fusion2516"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
