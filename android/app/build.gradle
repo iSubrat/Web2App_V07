@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjc_flix2501"
+        applicationId "com.appcollection.xlegally2502"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
