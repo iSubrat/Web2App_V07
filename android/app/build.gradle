@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnulled_cyber_for2554"
+        applicationId "com.appcollection.xfossils_2555"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
