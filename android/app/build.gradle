@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdg_sales2553"
+        applicationId "com.appcollection.xnulled_cyber_for2554"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
