@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfix_blur2589"
+        applicationId "com.appcollection.xfix_blur2590"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
