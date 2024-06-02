@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xformshvsh2603"
+        applicationId "com.appcollection.xsteam2605"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
