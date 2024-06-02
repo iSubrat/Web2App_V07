@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xplane_world_best2599"
+        applicationId "com.appcollection.xcharacter_counter2601"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
