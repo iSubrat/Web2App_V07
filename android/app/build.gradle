@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xone_night_at_bitavuha2584"
+        applicationId "com.appcollection.xdeepbrain2585"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
