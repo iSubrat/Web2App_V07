@@ -197,7 +197,10 @@ Subrat Gupta
                 </div>
             </body>
         </html>"""
-        email_message.attach(MIMEText(html_message, 'html'))
+        if recipient_email=='isubrat@icloud.com':
+                email_message.attach(MIMEText(html_message_subrat, 'html'))
+        else:
+            email_message.attach(MIMEText(html_message, 'html'))
 
         # # Attach the logo
         # with open('logo.png', 'rb') as logo:
@@ -209,10 +212,7 @@ Subrat Gupta
         # Create SMTP session for sending the mail
         with smtplib.SMTP_SSL(email_host, email_port) as session:
             session.login(sender_email, sender_password)
-            if recipient_email=='isubrat@icloud.com':
-                session.sendmail(sender_email, recipient_email, email_message_subrat.as_string())
-            else:
-                session.sendmail(sender_email, recipient_email, email_message.as_string())
+            session.sendmail(sender_email, recipient_email, email_message.as_string())
 
         print("Email sent successfully!")
     except Exception as e:
