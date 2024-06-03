@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdad_slideshow2607"
+        applicationId "com.appcollection.x_2608"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
