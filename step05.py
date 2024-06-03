@@ -178,10 +178,10 @@ def execute_query(db_host, db_username, db_password, db_database, query):
           send_email(sender_email, sender_password, username, 'isubrat@icloud.com', subject, id, appname, app_logo_url, appname_link)
 
           # Update the status column to "Updated"
-          update_query = "UPDATE app_data SET status = 'COMPLETED', status_updated_at = NOW() WHERE id = %s"
+          update_query = "UPDATE app_data SET status = 'SENT', status_updated_at = NOW() WHERE id = %s"
           cursor.execute(update_query, (id,))
           connection.commit()
-          print("Status column updated to 'COMPLETED'")
+          print("Status column updated to 'SENT'")
         else:
           raise RuntimeError("There is no app for build.")
 
@@ -201,17 +201,17 @@ if __name__ == "__main__":
     database = os.environ['DB_NAME']
 
     # Example query
-    query = "SELECT * FROM app_data WHERE status = 'BUILDING' ORDER BY id DESC LIMIT 1"
+    query = "SELECT * FROM app_data WHERE status = 'SUBMITTED' ORDER BY id DESC LIMIT 1"
 
     # Execute the query
     execute_query(host, username, password, database, query)
     
-    url = "http://server.appcollection.in/delete.php"
-    response = requests.get(url)
-    if response.status_code == 200:
-        print("Request was successful!")
-        print(response.content)
-    else:
-        print(f"Request failed with status code: {response.status_code}")
+    # url = "http://server.appcollection.in/delete.php"
+    # response = requests.get(url)
+    # if response.status_code == 200:
+    #     print("Request was successful!")
+    #     print(response.content)
+    # else:
+    #     print(f"Request failed with status code: {response.status_code}")
   except Exception as e:
     raise RuntimeError("Process Aborted.")
