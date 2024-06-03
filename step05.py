@@ -177,7 +177,7 @@ Subrat Gupta
             </a>
                 <div style="text-align: left;">
                     <p>Dear {username},<br>Congratulations!</p>
-                    <p>We're excited to offer you the opportunity to publish your android app <strong>{appname}</strong> (2593) for just <strong>20 USD</strong>.</p>
+                    <p>We're excited to offer you the opportunity to publish your android app <strong>{appname}</strong> ({id}) for just <strong>20 USD</strong>.</p>
                     <a href="{personalised_message_link}" class="button"><img src="{app_logo_url}" alt="Place Order" style="width: 25px; height: 25px;"> {appname}</a><br>
                     <br>
                     <br>
