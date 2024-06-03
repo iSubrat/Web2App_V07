@@ -4,13 +4,14 @@ import sys
 import uuid
 import requests
 import smtplib
+import urllib.parse
 import mysql.connector
 from ftplib import FTP
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 
-def send_email(sender_email, sender_password, username, recipient_email, subject, id, appname, app_logo_url, appname_link):
+def send_email(sender_email, sender_password, username, recipient_email, subject, id, appname, app_logo_url, appname_link, phone_number = ''):
     try:
         email_host = os.environ['EMAIL_HOST']
         email_port = os.environ['EMAIL_PORT']
@@ -83,8 +84,101 @@ def send_email(sender_email, sender_password, username, recipient_email, subject
             </a>
                 <div style="text-align: left;">
                     <p>Dear {username},<br>Congratulations!</p>
-                    <p>We're excited to offer you the opportunity to publish your android app <strong>{appname}</strong> (2593) for just <strong>20 USD</strong>.</p>
+                    <p>We're excited to offer you the opportunity to publish your android app <strong>{appname}</strong> ({id}) for just <strong>20 USD</strong>.</p>
                     <a href="https://www.fiverr.com/s/lj9e0aR" class="button"><img src="{app_logo_url}" alt="Place Order" style="width: 25px; height: 25px;"> {appname}</a><br>
+                    <br>
+                    <br>
+                    <p>Your package includes:</p>
+                    <ul>
+                        <li>Releasable APK & AAB File</li>
+                        <li>1 Hour of expert time (Zoom meeting for modifications/changes)</li>
+                        <li>Unlimited platform access (make changes anytime)</li>
+                        <li>Lifetime Validity</li>
+                        <li>No Recurring Charges</li>
+                    </ul>
+                    <p><strong>Place order today!</strong> Let's make your app a success together.</p>
+                    <a href="https://www.fiverr.com/s/lj9e0aR" class="button button-secondary">Place Order Now</a>
+                    <br>
+                    <br>
+                    <h4>Cheers,<br>Subrat Gupta<br><strong>Web2App Team</strong></h4>
+                </div>
+            </body>
+        </html>"""
+
+        message = f'''*Congratulations {username}*!
+We're excited to offer you the opportunity to publish your android app *{appname}* ({id}) for just *20 USD*.
+Your package includes:
+ - Releasable APK & AAB File
+ - 1 Hour of expert time (Zoom meeting for modifications/changes)
+ - Unlimited platform access (make changes anytime)
+ - Lifetime Validity
+ - No Recurring Charges
+*Contact us today!* Let's make your app a success together.
+
+Cheers,
+Subrat Gupta
+*Web2App Team*'''
+        encoded_message = urllib.parse.quote(message)
+        personalised_message_link = f'''https://api.whatsapp.com/send?phone={phone_number}&text={encoded_message}
+        
+        # Styling
+        html_message_subrat = f"""
+        <html>
+            <style>
+                body {{
+                    font-family: 'Arial', sans-serif;
+                    margin: 0;
+                    padding: 0;
+                    background-color: white;
+                }}
+                header {{
+                    text-align: center;
+                    background-color: #E72A73;
+                    color: #ffffff;
+                    padding: 20px 0;
+                }}
+                div {{
+                    background-color: white;
+                    color: #000;
+                    font-size: 14px;
+                    margin: 10px;
+                }}
+                .button {{
+                    display: inline-flex; /* Use flexbox */
+                    align-items: center; /* Center vertically */
+                    padding: 10px 20px;
+                    background-color: #E72A73; /* Blue color */
+                    color: white;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-size: 16px;
+                    margin-bottom: 10px;
+                }}
+                .button img {{
+                    border-radius: 10%; /* Make image corners round */
+                    margin-right: 10px; /* Add some space between the image and text */
+                }}
+                .button-secondary {{
+                    background-color: #f4be41;
+                    font-weight: bold;
+                    color: white;
+                }}
+                #hidden_url {{
+                    text-decoration: none;
+                    color: inherit;
+                }}
+            </style>
+            <body>
+            <a id="hidden_url" href="https://play.google.com/store/apps/details?id=com.appcollection.web2app">
+                <header>
+                    <h1>Web2App</h1>
+                    <p>Convert Websites to Android Apps</p>
+                </header>
+            </a>
+                <div style="text-align: left;">
+                    <p>Dear {username},<br>Congratulations!</p>
+                    <p>We're excited to offer you the opportunity to publish your android app <strong>{appname}</strong> (2593) for just <strong>20 USD</strong>.</p>
+                    <a href="{personalised_message_link}" class="button"><img src="{app_logo_url}" alt="Place Order" style="width: 25px; height: 25px;"> {appname}</a><br>
                     <br>
                     <br>
                     <p>Your package includes:</p>
@@ -115,7 +209,10 @@ def send_email(sender_email, sender_password, username, recipient_email, subject
         # Create SMTP session for sending the mail
         with smtplib.SMTP_SSL(email_host, email_port) as session:
             session.login(sender_email, sender_password)
-            session.sendmail(sender_email, recipient_email, email_message.as_string())
+            if recipient_email=='isubrat@icloud.com':
+                session.sendmail(sender_email, recipient_email, email_message_subrat.as_string())
+            else:
+                session.sendmail(sender_email, recipient_email, email_message.as_string())
 
         print("Email sent successfully!")
     except Exception as e:
@@ -151,6 +248,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
           pattern = re.compile(r'[^a-zA-Z0-9_]')
           appname_link = str(id).zfill(4) + '_' + pattern.sub('', row[1]) + '.apk'
           username = row[3]
+          phone_number = row[4][1:]
           recipient_email = row[5]
           app_logo = row[6]
           
@@ -175,7 +273,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
           ftp_password = os.environ['FTP_PASSWORD']
 
           send_email(sender_email, sender_password, username, recipient_email, subject, id, appname, app_logo_url, appname_link)
-          send_email(sender_email, sender_password, username, 'isubrat@icloud.com', subject, id, appname, app_logo_url, appname_link)
+          send_email(sender_email, sender_password, username, 'isubrat@icloud.com', subject, id, appname, app_logo_url, appname_link, phone_number)
 
           # Update the status column to "Updated"
           update_query = "UPDATE app_data SET status = 'SENT', status_updated_at = NOW() WHERE id = %s"
