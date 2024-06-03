@@ -119,7 +119,7 @@ Cheers,
 Subrat Gupta
 *Web2App Team*'''
         encoded_message = urllib.parse.quote(message)
-        personalised_message_link = f'''https://api.whatsapp.com/send?phone={phone_number}&text={encoded_message}
+        personalised_message_link = f'''https://api.whatsapp.com/send?phone={phone_number}&text={encoded_message}'''
         
         # Styling
         html_message_subrat = f"""
