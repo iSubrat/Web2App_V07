@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbusiness_2655"
+        applicationId "com.appcollection.xflow_gpt_2653"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
