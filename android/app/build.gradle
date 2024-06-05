@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrocc_n_slots2659"
+        applicationId "com.appcollection.x91club2658"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
