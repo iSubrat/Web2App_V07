@@ -166,7 +166,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
           ftp_password = os.environ['FTP_PASSWORD']
 
           send_email(sender_email, sender_password, username, recipient_email, subject, id, appname, app_logo_url, appname_link)
-          send_email(sender_email, sender_password, username, 'isubrat@icloud.com', subject, id, appname, app_logo_url, appname_link)
+          # send_email(sender_email, sender_password, username, 'isubrat@icloud.com', subject, id, appname, app_logo_url, appname_link)
 
           # Update the status column to "Updated"
           update_query = "UPDATE app_data SET status = 'COMPLETED', status_updated_at = NOW() WHERE id = %s"
