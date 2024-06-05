@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtinmovies_2720"
+        applicationId "com.appcollection.xjps_tiket_support2667"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
