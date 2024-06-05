@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xedge_dxb2675"
+        applicationId "com.appcollection.xgistcord2674"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
