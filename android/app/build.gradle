@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwpa2625"
+        applicationId "com.appcollection.xshopsite_2624"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
