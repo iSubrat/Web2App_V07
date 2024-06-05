@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgetu12652"
+        applicationId "com.appcollection.xghaza_server_2723"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
