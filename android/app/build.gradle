@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrootvault2770"
+        applicationId "com.appcollection.xatl2771"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
