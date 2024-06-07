@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsara64346894_2780"
+        applicationId "com.appcollection.xveer_enterprise_2781"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
