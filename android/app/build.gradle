@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_this_change_the_cat_that_wouldn_t_look_at_me_and2814"
+        applicationId "com.appcollection.xrelat_rio_de_manuten_o_2815"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
