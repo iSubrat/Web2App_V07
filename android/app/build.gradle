@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbigwin_bet2794"
+        applicationId "com.appcollection.xbigwin_bet2795"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
