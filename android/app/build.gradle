@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtojo_fashion2839"
+        applicationId "com.appcollection.xjkanime_2841"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
