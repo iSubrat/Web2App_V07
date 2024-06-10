@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdsbvt_technology_pvt_ltd_2873"
+        applicationId "com.appcollection.x_2874"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
