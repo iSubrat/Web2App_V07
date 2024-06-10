@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfacebook_story_downloader_2885"
+        applicationId "com.appcollection.xfort_wayne_water2886"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
