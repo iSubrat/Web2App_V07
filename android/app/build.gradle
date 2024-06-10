@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpholder2865"
+        applicationId "com.appcollection.xtubex2866"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
