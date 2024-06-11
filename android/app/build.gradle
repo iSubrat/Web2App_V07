@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnabil_2911"
+        applicationId "com.appcollection.xji_tv2912"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
