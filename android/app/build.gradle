@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaquastarter4u2919"
+        applicationId "com.appcollection.xclothoff2920"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
