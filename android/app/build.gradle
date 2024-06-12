@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdisney_2947"
+        applicationId "com.appcollection.xgartic_phone_2948"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
