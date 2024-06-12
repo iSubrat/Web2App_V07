@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtraducci_n_asesoramiento_burocr_tico_y_creaci_n_d2944"
+        applicationId "com.appcollection.xdisney_2946"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
