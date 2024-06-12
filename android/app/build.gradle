@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtraducci_n_burocr_tia_y_creaci_n_digital2945"
+        applicationId "com.appcollection.xtraducci_n_asesoramiento_burocr_tico_y_creaci_n_d2944"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
