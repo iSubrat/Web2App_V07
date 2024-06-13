@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsports_surge1026"
+        applicationId "com.appcollection.xflixwave1025"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
