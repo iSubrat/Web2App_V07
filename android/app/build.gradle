@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsssx1019"
+        applicationId "com.appcollection.xeshram_cards2956"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
