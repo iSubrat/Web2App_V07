@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzapier1465"
+        applicationId "com.appcollection.xpdf_drive1350"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
