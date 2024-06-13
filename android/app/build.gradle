@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpayoxem_ent_2964"
+        applicationId "com.appcollection.xmani_food_plaza2965"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
