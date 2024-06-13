@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmani_food_plaza2965"
+        applicationId "com.appcollection.xkitco_2966"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
