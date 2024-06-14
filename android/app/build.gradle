@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmockey2999"
+        applicationId "com.appcollection.xmockey2998"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
