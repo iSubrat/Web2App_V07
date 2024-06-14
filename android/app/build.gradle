@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrfstudio2996"
+        applicationId "com.appcollection.xmockey3000"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
