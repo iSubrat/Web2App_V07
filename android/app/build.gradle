@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfujbez_3026"
+        applicationId "com.appcollection.xtrisnocoin3027"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
