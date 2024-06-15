@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsede_electr_nica_mora_a_3020"
+        applicationId "com.appcollection.xadore3021"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
