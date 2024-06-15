@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmega_music3012"
+        applicationId "com.appcollection.xfss_panel3013"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
