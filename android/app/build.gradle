@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaagmaal3019"
+        applicationId "com.appcollection.xsede_electr_nica_mora_a_3020"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
