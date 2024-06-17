@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgoogle_ai_studio_3076"
+        applicationId "com.appcollection.xtic_tac_toe3077"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
