@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsclub_admin3116"
+        applicationId "com.appcollection.xour_history_ourpast3117"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
