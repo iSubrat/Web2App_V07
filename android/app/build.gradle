@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbola63141"
+        applicationId "com.appcollection.xfree_call3140"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
