@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xss_prints_3179"
+        applicationId "com.appcollection.xss_prints_3180"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
