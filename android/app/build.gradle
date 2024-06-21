@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeinvoice3183"
+        applicationId "com.appcollection.xbca_notes_all_year3185"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
