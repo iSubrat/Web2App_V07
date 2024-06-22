@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="https://youtube.com/@darmawangsa190?si=oVVk9n8vQ52"
+        android:label="Gaming Tushar "
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
