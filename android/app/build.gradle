@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstarped_3232"
+        applicationId "com.appcollection.xkenny_platformer_3233"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
