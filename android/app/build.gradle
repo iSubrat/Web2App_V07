@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xez_chatbot_creator3275"
+        applicationId "com.appcollection.xqbittorent3277"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
