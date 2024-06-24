@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpay2next_3290"
+        applicationId "com.appcollection.xboost_up3292"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
