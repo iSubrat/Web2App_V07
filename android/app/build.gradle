@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsmm3295"
+        applicationId "com.appcollection.xkubermatka_3296"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
