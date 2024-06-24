@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xiptv3284"
+        applicationId "com.appcollection.xkasir_penghitung3285"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
