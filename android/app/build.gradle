@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xboost_up3292"
+        applicationId "com.appcollection.xboost_up3291"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
