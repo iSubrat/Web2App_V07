@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtrading_books3300"
+        applicationId "com.appcollection.xwhorehub3301"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
