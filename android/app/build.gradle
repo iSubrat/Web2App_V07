@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkostinn3327"
+        applicationId "com.appcollection.xkostinn3328"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
