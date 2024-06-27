@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xremo_fashion_3363"
+        applicationId "com.appcollection.xapps_store_3364"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
