@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcanal_alentejo_3375"
+        applicationId "com.appcollection.xaternos_app3376"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
