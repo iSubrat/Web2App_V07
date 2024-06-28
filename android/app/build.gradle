@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xuptodown_app3398"
+        applicationId "com.appcollection.xbet_futc_u3399"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
