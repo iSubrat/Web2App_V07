@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xr_sharma3409"
+        applicationId "com.appcollection.xjustgifts3408"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
