@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdelivery_quero_mais_3437"
+        applicationId "com.appcollection.xsaloonway3438"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
