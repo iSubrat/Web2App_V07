@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcivil_material3411"
+        applicationId "com.appcollection.webmaker"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
