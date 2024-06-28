@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfastwin_3427"
+        applicationId "com.appcollection.xkkj3428"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
