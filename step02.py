@@ -127,7 +127,8 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                 pass
             content = create_app_configuration(app_name, redirect_url, web_url, app_logo, published)
             filename = "mightyweb.json"
-            upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id)
+            if content != None:
+                upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id)
         else:
             raise RuntimeError("There is no app for build.")
 
@@ -146,7 +147,7 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
     if published=='DIY':
         pass
     elif published=='PUBLISHED':
-        pass
+        content = None
     else:
         if len(urls)<4:
             content = json.dumps({
