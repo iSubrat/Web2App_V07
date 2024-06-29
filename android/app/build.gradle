@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xacs_provisionig3451"
+        applicationId "com.appcollection.xtiranga_bet_3453"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
