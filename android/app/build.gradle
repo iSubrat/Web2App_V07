@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdof_sop3446"
+        applicationId "com.appcollection.xfishing_3447"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
