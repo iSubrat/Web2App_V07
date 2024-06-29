@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlogistique_samu133481"
+        applicationId "com.appcollection.xadmin_e_store_3482"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
