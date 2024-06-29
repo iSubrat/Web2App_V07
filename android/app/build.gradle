@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzapti3461"
+        applicationId "com.appcollection.xreport_system3463"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
