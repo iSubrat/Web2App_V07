@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrcdeemc_p_rhyme_app3501"
+        applicationId "com.appcollection.xnoodelmagzine_3502"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
