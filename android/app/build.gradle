@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeporner_3505"
+        applicationId "com.appcollection.xanimerulz_3506"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
