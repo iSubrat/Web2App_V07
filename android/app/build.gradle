@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xxhamster3514"
+        applicationId "com.appcollection.xsatrk_store_3517"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
