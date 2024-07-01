@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstore3542"
+        applicationId "com.appcollection.xbabur_msn3543"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
