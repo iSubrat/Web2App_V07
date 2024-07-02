@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkondhwa_helpline_3587"
+        applicationId "com.appcollection.xmitra_pets_clinic_3589"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
