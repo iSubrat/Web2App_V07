@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnew_ganesh_trading_3585"
+        applicationId "com.appcollection.xkondhwa_helpline_3586"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
