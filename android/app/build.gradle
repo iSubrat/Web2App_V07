@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmitra_pets_clinic_3589"
+        applicationId "com.appcollection.xmaps_3590"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
