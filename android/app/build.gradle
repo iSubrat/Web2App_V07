@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmaps_3590"
+        applicationId "com.appcollection.xprocreations3591"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
