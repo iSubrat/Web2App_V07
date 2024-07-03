@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgoogle_9_53650"
+        applicationId "com.appcollection.xus_pannel_3651"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
