@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmp_gurukul_academy_3625"
+        applicationId "com.appcollection.xc_3626"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
