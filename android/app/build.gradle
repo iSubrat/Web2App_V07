@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwaze_edit3607"
+        applicationId "com.appcollection.xai_image3611"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
