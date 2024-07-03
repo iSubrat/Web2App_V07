@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtravela_3653"
+        applicationId "com.appcollection.xstackoverflow3656"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
