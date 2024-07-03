@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xus_black_store_3660"
+        applicationId "com.appcollection.x2d3661"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
