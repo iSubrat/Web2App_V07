@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprocreations3640"
+        applicationId "com.appcollection.xcalculator_bvbn_3641"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
