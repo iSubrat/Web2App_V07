@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xserver3635"
+        applicationId "com.appcollection.xgli_caculator3636"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
