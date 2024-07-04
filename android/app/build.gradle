@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrespostas_b_blicas_3679"
+        applicationId "com.appcollection.x_3680"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
