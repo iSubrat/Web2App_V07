@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtax_india_firm3684"
+        applicationId "com.appcollection.xgmart_wholesale_3685"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
