@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsivanjali_bus3709"
+        applicationId "com.appcollection.xmy_ca3710"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
