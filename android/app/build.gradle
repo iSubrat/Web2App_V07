@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcat33728"
+        applicationId "com.appcollection.xaliexpress_3729"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
