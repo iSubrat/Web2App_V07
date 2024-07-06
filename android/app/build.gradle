@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x24_time3750"
+        applicationId "com.appcollection.xdr_wasif_iqbal_pediatrician_3751"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
