@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtv_schedule3770"
+        applicationId "com.appcollection.xss_club3771"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
