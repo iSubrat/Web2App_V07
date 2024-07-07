@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkerala_lottery_onlin_im3787"
+        applicationId "com.appcollection.xspin_the_wheel3788"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
