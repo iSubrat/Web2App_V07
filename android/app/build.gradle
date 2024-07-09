@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrdn7886qr_3847"
+        applicationId "com.appcollection.xtrick_your_mind3845"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
