@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdealabs_chatbot3834"
+        applicationId "com.appcollection.xrdn786miner3835"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
