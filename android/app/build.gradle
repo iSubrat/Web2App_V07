@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmpa3823"
+        applicationId "com.appcollection.xgarden_tales_3824"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
