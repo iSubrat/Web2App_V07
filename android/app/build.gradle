@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xquizarena_pl3893"
+        applicationId "com.appcollection.xph_mobile3894"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
