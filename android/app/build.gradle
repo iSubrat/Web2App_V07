@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpbd_sk_pendam3873"
+        applicationId "com.appcollection.xcolouryourmind3874"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
