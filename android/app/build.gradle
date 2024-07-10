@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcolour_your_mind_3875"
+        applicationId "com.appcollection.xrdn786_nft_launcher_3876"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
