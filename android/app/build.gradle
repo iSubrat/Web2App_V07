@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlaberinto3881"
+        applicationId "com.appcollection.xlotus_3882"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
