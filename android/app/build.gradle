@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfitsum_fitness_3927"
+        applicationId "com.appcollection.xstoodio3928"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
