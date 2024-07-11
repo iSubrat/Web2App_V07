@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdylanepredictor_v3_3918"
+        applicationId "com.appcollection.xpws_cares3919"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
