@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpdf_search_engine3964"
+        applicationId "com.appcollection.xzedge3965"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
