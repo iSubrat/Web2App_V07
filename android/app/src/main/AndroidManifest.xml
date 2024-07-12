@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="BAPS"
+        android:label="M416 gfx tool"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
