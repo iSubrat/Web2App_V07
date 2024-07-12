@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanna_s_archive3963"
+        applicationId "com.appcollection.xpdf_search_engine3964"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
