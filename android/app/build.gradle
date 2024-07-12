@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvoice_assistant3953"
+        applicationId "com.appcollection.xscratch3954"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
