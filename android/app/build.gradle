@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xurban_edge_3994"
+        applicationId "com.appcollection.ximperium_tv3995"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
