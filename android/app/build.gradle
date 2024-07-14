@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcompos4030"
+        applicationId "com.appcollection.xhotbot4031"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
