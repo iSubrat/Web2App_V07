@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcx_tv4047"
+        applicationId "com.appcollection.xdark_ash4048"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
