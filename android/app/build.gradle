@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlive_tv4055"
+        applicationId "com.appcollection.xgis4057"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
