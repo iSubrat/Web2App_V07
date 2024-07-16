@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaon5mobile4098"
+        applicationId "com.appcollection.xnoam_tam_store_4100"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
