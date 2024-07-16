@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaon5mobile4099"
+        applicationId "com.appcollection.xsoler_4101"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
