@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x8filmai4128"
+        applicationId "com.appcollection.xshawarma_empire4129"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
