@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_app4102"
+        applicationId "com.appcollection.xobulala_lite4103"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
