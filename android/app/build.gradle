@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgym_training4119"
+        applicationId "com.appcollection.xfdm4120"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
