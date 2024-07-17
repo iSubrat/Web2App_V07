@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspraak_in_kaart4151"
+        applicationId "com.appcollection.xtalha_s_stream_4152"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
