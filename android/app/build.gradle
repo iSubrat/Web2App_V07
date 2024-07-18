@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdanial_panel_4189"
+        applicationId "com.appcollection.xbetsy_recon4190"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
