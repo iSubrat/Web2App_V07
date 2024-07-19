@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsuntik_followers_by_yanz4276"
+        applicationId "com.appcollection.xfavicon4277"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
