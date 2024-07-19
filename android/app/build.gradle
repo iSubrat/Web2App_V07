@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xurban_edge_sa4236"
+        applicationId "com.appcollection.xurban_edge_sa4237"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
