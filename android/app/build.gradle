@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhupx3club4254"
+        applicationId "com.appcollection.xinews_co_ke4255"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
