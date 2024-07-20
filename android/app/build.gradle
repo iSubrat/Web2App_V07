@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfilmc4288"
+        applicationId "com.appcollection.xpen_zendeginormal4289"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
