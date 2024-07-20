@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsimulador_de_limpiador_24285"
+        applicationId "com.appcollection.xprabhat4286"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
