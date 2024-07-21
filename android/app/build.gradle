@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xurl_bypass4349"
+        applicationId "com.appcollection.xurl_bypass4350"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
