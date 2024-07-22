@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbay27_club4376"
+        applicationId "com.appcollection.xchota_don_bot_4377"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
