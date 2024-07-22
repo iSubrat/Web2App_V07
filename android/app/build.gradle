@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbluehost_in4362"
+        applicationId "com.appcollection.xchartink4363"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
