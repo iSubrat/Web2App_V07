@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtriple_tel_4432"
+        applicationId "com.appcollection.xsynthetic4430"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
