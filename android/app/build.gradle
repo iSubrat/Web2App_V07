@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpoptox_free_call_maker4471"
+        applicationId "com.appcollection.xamex4472"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
