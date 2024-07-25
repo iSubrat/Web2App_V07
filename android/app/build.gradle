@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbraflix4476"
+        applicationId "com.appcollection.xpauline_soutu4477"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
