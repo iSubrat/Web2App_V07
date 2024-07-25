@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjazz_movies_4480"
+        applicationId "com.appcollection.xbraflix4481"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
