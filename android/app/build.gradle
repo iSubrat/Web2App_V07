@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyoutube4503"
+        applicationId "com.appcollection.xdans_deals4501"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
