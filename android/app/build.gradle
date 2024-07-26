@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xairtel_life_portal_nepal4521"
+        applicationId "com.appcollection.xbooks2house_4522"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
