@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfun_calculator4520"
+        applicationId "com.appcollection.xairtel_life_portal_nepal4521"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
