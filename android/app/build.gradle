@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xweather_4539"
+        applicationId "com.appcollection.xtplay_stream4540"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
