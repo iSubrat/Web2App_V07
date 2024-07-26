@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspider_man_24519"
+        applicationId "com.appcollection.xfun_calculator4520"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
