@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfahimtube4533"
+        applicationId "com.appcollection.xss_chatbot_4535"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
