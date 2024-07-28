@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xget_cars_info4626"
+        applicationId "com.appcollection.xastrotxoko4627"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
