@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaim_high_4631"
+        applicationId "com.appcollection.xgogulam_crackers4632"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
