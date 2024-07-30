@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xswift_mobile_4703"
+        applicationId "com.appcollection.xweather4704"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
