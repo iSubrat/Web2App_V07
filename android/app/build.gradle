@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmr_ice4744"
+        applicationId "com.appcollection.xour_lady_of_africa_ss_mukono4745"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
