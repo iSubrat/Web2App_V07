@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtrades24759"
+        applicationId "com.appcollection.xfacebook_4760"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
