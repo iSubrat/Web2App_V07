@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsahitya4762"
+        applicationId "com.appcollection.xbill_aura4763"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
