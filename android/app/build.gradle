@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpadmavati_general_store_4747"
+        applicationId "com.appcollection.xtaxi_app4750"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
