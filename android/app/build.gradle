@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanash_org4773"
+        applicationId "com.appcollection.xscience_script4775"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
