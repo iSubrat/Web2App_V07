@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjem_photos_4788"
+        applicationId "com.appcollection.xjem_photos_4794"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
