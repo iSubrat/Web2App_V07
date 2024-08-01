@@ -199,12 +199,12 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "splash_configuration": {
                 "first_color": "#000000",
                 "second_color": "#000000",
-                "title": "app_name",
+                "title": app_name,
                 "enable_title": "true",
                 "title_color": "#ffffff",
                 "enable_logo": "true",
                 "enable_background": "true",
-                "splash_logo_url": "app_logo",
+                "splash_logo_url": app_logo,
                 "splash_background_url": "https:\/\/published.appcollection.in\/upload\/splash_background.png"
                 },
                 "exitpopup_configuration": {
@@ -272,12 +272,12 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "splash_configuration": {
                 "first_color": "#000000",
                 "second_color": "#000000",
-                "title": "app_name",
+                "title": app_name,
                 "enable_title": "true",
                 "title_color": "#ffffff",
                 "enable_logo": "true",
                 "enable_background": "true",
-                "splash_logo_url": "app_logo",
+                "splash_logo_url": app_logo,
                 "splash_background_url": "https:\/\/published.appcollection.in\/upload\/splash_background.png"
                 },
                 "exitpopup_configuration": {
