@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhello_mobile_4795"
+        applicationId "com.appcollection.xjem_photos_4791"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
