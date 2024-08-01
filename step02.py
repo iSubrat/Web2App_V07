@@ -142,7 +142,6 @@ def execute_query(db_host, db_username, db_password, db_database, query):
 
 def create_app_configuration(app_name, redirect_url, web_url, app_logo, published):
     urls = popular_urls(web_url, openai_api_key)
-    # urls = []
     print('Debug C: ', urls)
     
     if published=='DIY':
@@ -294,28 +293,28 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                     "title": urls[0][1],
                     "image": "https://published.appcollection.in/upload/tabs/ic_home.png",
                     "url": urls[0][0],
-                    "status": "0"
+                    "status": "1"
                   },
                   {
                     "id": "2",
                     "title": urls[1][1],
                     "image": "https://published.appcollection.in/upload/tabs/ic_search.png",
                     "url": urls[1][0],
-                    "status": "0"
+                    "status": "1"
                   },
                   {
                     "id": "3",
                     "title": urls[2][1],
                     "image": "https://published.appcollection.in/upload/tabs/ic_profile.png",
                     "url": urls[2][0],
-                    "status": "0"
+                    "status": "1"
                   },
                   {
                     "id": "4",
                     "title": urls[3][1],
                     "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
                     "url": urls[3][0],
-                    "status": "0"
+                    "status": "1"
                   }
                 ],
                 "user_agent": [{
@@ -352,6 +351,13 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                     "title": urls[3][1],
                     "image": "https://published.appcollection.in/upload/tabs/ic_heart.png",
                     "url": urls[3][0],
+                    "status": "1"
+                  },
+                  {
+                    "id": "5",
+                    "title": "Create Your App",
+                    "image": "https://published.appcollection.in/upload/tabs/web2app.png",
+                    "url": "https://play.google.com/store/apps/details?id=com.appcollection.web2app",
                     "status": "1"
                   }
                 ]
