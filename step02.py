@@ -226,7 +226,7 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                     "id": "1",
                     "title": "Create Your App",
                     "image": "https://published.appcollection.in/upload/tabs/web2app.png",
-                    "url": "url": "https://web2app.appcollection.in/web2app_promo.html",
+                    "url": "https://web2app.appcollection.in/web2app_promo.html",
                     "status": "1"
                   }
                 ]
