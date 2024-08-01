@@ -205,7 +205,7 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "enable_logo": "true",
                 "enable_background": "true",
                 "splash_logo_url": app_logo,
-                "splash_background_url": "https:\/\/published.appcollection.in\/upload\/splash_background.png"
+                "splash_background_url": "https://published.appcollection.in/upload/splash_background.png"
                 },
                 "exitpopup_configuration": {
                     "title": "Do you want to exit app?",
@@ -221,6 +221,15 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                     "ios": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15",
                     "status": "1"
                 }]
+                "pages": [
+                  {
+                    "id": "1",
+                    "title": "Create Your App",
+                    "image": "https://published.appcollection.in/upload/tabs/web2app.png",
+                    "url": "https://play.google.com/store/apps/details?id=com.appcollection.web2app",
+                    "status": "1"
+                  }
+                ]
             }, indent=4)
         else:
             content = json.dumps({
@@ -278,7 +287,7 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "enable_logo": "true",
                 "enable_background": "true",
                 "splash_logo_url": app_logo,
-                "splash_background_url": "https:\/\/published.appcollection.in\/upload\/splash_background.png"
+                "splash_background_url": "https://published.appcollection.in/upload/splash_background.png"
                 },
                 "exitpopup_configuration": {
                     "title": "Do you want to exit app?",
