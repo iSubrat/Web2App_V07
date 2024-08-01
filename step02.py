@@ -226,7 +226,7 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                     "id": "1",
                     "title": "Create Your App",
                     "image": "https://published.appcollection.in/upload/tabs/web2app.png",
-                    "url": "https://play.google.com/store/apps/details?id=com.appcollection.web2app",
+                    "url": "url": "https://web2app.appcollection.in/web2app_promo.html",
                     "status": "1"
                   }
                 ]
@@ -366,7 +366,7 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                     "id": "5",
                     "title": "Create Your App",
                     "image": "https://published.appcollection.in/upload/tabs/web2app.png",
-                    "url": "https://play.google.com/store/apps/details?id=com.appcollection.web2app",
+                    "url": "https://web2app.appcollection.in/web2app_promo.html",
                     "status": "1"
                   }
                 ]
