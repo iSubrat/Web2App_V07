@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchabad_org4782"
+        applicationId "com.appcollection.xfishing_creek_rocks4801"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
