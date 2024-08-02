@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjarvis_4829"
+        applicationId "com.appcollection.xmj_vistor4830"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
