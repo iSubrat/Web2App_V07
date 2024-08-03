@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsadam_visa4886"
+        applicationId "com.appcollection.xgroczy_4887"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
