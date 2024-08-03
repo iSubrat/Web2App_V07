@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspankbang4889"
+        applicationId "com.appcollection.xapkmirror4890"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
