@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfbox4915"
+        applicationId "com.appcollection.xsimdif4916"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
