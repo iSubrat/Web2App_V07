@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshadow_4910"
+        applicationId "com.appcollection.xudio24912"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
