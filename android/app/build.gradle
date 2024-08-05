@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjiotv_go4939"
+        applicationId "com.appcollection.xstab4940"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
