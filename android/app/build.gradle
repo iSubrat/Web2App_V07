@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmyhr4949"
+        applicationId "com.appcollection.xprabhupad_vani4950"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
