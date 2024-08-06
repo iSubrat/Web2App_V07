@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnetcel_world_4945"
+        applicationId "com.appcollection.xmyhr4949"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
