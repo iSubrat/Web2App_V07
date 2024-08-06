@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcommonwealth_of_australia_acts_legislative_databas4953"
+        applicationId "com.appcollection.xsolidpoint_ai4954"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
