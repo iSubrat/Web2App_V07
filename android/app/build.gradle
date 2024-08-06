@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xthunkable4976"
+        applicationId "com.appcollection.xadventuretime4978"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
