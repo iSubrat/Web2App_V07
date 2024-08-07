@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbat_marak5023"
+        applicationId "com.appcollection.xsmart_enterprise_voter_portal_5022"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
