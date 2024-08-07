@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcasino5016"
+        applicationId "com.appcollection.xtopchoice5004"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
