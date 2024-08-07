@@ -64,7 +64,11 @@ jobs:
 
 
     - name: Build APK
-      run: flutter build apk --release
+      run: |
+        flutter clean
+        flutter pub get
+        flutter build apk --release
+
 
     - name: FTP Transfer
       uses: joutvhu/ftp-transfer@v1
