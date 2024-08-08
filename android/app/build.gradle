@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpes_kingdom_v7_05090"
+        applicationId "com.appcollection.xcubi_beta_5091"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
