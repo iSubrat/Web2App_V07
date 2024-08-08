@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbukuku5073"
+        applicationId "com.appcollection.xbukuku5074"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
