@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtsoaela_the_great_5039"
+        applicationId "com.appcollection.xbopedi_bapedi_5038"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
