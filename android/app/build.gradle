@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_bisnis5154"
+        applicationId "com.appcollection.xhesgoal5155"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
