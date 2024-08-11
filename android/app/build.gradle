@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkourt_social_5186"
+        applicationId "com.appcollection.xchatzynk5187"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
