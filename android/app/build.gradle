@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgamesbile_5191"
+        applicationId "com.appcollection.xpw_web_5192"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
