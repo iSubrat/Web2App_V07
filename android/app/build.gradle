@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xartlife_5189"
+        applicationId "com.appcollection.xoldsku5190"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
