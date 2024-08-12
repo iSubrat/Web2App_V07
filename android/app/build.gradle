@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcharacter_ai_web5228"
+        applicationId "com.appcollection.xdigiumpire5229"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
