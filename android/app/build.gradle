@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xumpire5225"
+        applicationId "com.appcollection.xpepinature5226"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
