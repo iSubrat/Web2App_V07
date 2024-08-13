@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbomarv_data_4me_5274"
+        applicationId "com.appcollection.xpacho_co_ke5273"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
