@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdigi_umpire5255"
+        applicationId "com.appcollection.xaws_connect_india_5256"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
