@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnew_creation_5271"
+        applicationId "com.appcollection.xsamit_robotics_5272"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
