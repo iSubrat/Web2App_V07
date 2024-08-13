@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlista_de_tareas_5267"
+        applicationId "com.appcollection.xnew_creation_5271"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
