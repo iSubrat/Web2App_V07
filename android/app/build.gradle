@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbuku_tamu5289"
+        applicationId "com.appcollection.xsupernatural5290"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
