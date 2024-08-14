@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkusonime5288"
+        applicationId "com.appcollection.xbuku_tamu5289"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
