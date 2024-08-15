@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelectro_store_5382"
+        applicationId "com.appcollection.xeddsworld5383"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
