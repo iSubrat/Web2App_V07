@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdk75388"
+        applicationId "com.appcollection.xlizzystar_top_up_5389"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
