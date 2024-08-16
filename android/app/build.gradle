@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbdusd5413"
+        applicationId "com.appcollection.xsm_plato5412"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
