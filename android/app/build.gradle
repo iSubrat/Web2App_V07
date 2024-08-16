@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsunset_guests5403"
+        applicationId "com.appcollection.xi_tre_gemelli_bandb_casa_vacanze5404"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
