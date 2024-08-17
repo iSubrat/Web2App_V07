@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcuboquiz_cash5462"
+        applicationId "com.appcollection.xplay_pix_money5463"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
