@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtrucking_today_tv5430"
+        applicationId "com.appcollection.xec_bookstore5431"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
