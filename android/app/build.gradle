@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_5453"
+        applicationId "com.appcollection.xaniwave5454"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
