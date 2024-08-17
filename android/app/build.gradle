@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmatrix_hms5437"
+        applicationId "com.appcollection.xagwep_language_5438"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
