@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcognizant_portal5475"
+        applicationId "com.appcollection.xkucoin5476"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
