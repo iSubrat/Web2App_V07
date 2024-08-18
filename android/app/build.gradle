@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchase_bank5477"
+        applicationId "com.appcollection.xvronlineshopping_5478"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
