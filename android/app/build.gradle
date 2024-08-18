@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdr_ck_sevs_knopf_5508"
+        applicationId "com.appcollection.xsevs_knopf5510"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
