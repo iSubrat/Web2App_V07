@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchase_bank5465"
+        applicationId "com.appcollection.xmage_space_ai5466"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
