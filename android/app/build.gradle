@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchase_bank5474"
+        applicationId "com.appcollection.xblogger5473"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
