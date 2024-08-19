@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhorror5536"
+        applicationId "com.appcollection.xfuture_coin5540"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
