@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xosiarumath5519"
+        applicationId "com.appcollection.xxmen_vin5521"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
