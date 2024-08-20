@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpainel_rsconnecting_5595"
+        applicationId "com.appcollection.xhenryz_app5596"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
