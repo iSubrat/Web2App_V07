@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeget_a_room_5639"
+        applicationId "com.appcollection.xstbtracker_5640"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
