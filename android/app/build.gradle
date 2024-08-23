@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xams_tech_distributor_login5692"
+        applicationId "com.appcollection.xbdg_winner_5693"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
