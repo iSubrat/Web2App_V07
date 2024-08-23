@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprecios5679"
+        applicationId "com.appcollection.xsearx5680"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
