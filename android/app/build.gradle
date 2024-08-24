@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbrainhackers_5731"
+        applicationId "com.appcollection.xmd_toolkit_5732"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
