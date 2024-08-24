@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelearning_unp5739"
+        applicationId "com.appcollection.xbollyflix_5740"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
