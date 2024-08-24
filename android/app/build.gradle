@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeftel_site_nl_5747"
+        applicationId "com.appcollection.xtawfeer_collection_5746"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
