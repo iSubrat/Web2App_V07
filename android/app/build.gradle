@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhydramc5751"
+        applicationId "com.appcollection.xweb_chatgpt5752"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
