@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xportal_unp5735"
+        applicationId "com.appcollection.xjasper_ai5736"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
