@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbook_mockup5816"
+        applicationId "com.appcollection.xdisney5815"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
