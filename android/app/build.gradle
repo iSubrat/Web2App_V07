@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanplay_5787"
+        applicationId "com.appcollection.xgoogle_shopping_5780"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
