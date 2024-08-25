@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xweb_suno_ai5783"
+        applicationId "com.appcollection.xaz7775784"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
