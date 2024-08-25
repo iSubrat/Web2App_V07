@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xqbasic_program_5806"
+        applicationId "com.appcollection.xf_tbol_en_l_nea5807"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
