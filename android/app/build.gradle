@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtigps_konnagar5771"
+        applicationId "com.appcollection.xteardrop5772"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
