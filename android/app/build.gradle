@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrangga_store_5795"
+        applicationId "com.appcollection.xmusic_ai_5796"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
