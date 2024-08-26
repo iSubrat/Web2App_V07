@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtarifcheck_partner_5844"
+        applicationId "com.appcollection.x10_star_ankit5839"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
