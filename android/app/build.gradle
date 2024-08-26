@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xavirodrian5823"
+        applicationId "com.appcollection.xchatgpt_45824"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
