@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xarahant_5821"
+        applicationId "com.appcollection.xavirodrian5823"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
