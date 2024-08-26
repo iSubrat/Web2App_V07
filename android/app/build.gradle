@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpsu_meals_tapping5835"
+        applicationId "com.appcollection.xsigma_foundation_5836"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
