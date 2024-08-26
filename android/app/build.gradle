@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xthe_rich_mindset_5867"
+        applicationId "com.appcollection.xthe_rich_mindset_5866"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
