@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xm_ticket5904"
+        applicationId "com.appcollection.xsidham_info5905"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
