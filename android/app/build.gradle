@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xultraoption5918"
+        applicationId "com.appcollection.xheavy_r5919"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
