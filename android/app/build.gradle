@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xheavy_r5920"
+        applicationId "com.appcollection.xrojas5922"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
