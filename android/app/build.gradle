@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhunda5950"
+        applicationId "com.appcollection.xdhamaka_lottery5952"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
