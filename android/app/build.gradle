@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkdzone_5924"
+        applicationId "com.appcollection.xdownload_subtitle5925"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
