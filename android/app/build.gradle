@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfake_bill5941"
+        applicationId "com.appcollection.xamity_online_5943"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
