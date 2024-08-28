@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtrendy_outfits_5928"
+        applicationId "com.appcollection.xchefknife5929"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
