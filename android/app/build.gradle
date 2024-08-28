@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnvrstore5930"
+        applicationId "com.appcollection.xeppid5935"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
