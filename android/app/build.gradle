@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xglam_base_5993"
+        applicationId "com.appcollection.xusa_learns5994"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
