@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnexus_xpon6007"
+        applicationId "com.appcollection.xnexus_xpon6006"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
