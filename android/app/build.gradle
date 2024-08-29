@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xglam_base_5995"
+        applicationId "com.appcollection.x3d_adult_sim5996"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
