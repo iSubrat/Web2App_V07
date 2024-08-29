@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xangel_cyber_space_5967"
+        applicationId "com.appcollection.xdream_films5968"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
