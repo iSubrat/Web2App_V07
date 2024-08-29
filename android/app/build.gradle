@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpc_shop6000"
+        applicationId "com.appcollection.xmydiabetesapp_uk6002"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
