@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xliwa_movil5963"
+        applicationId "com.appcollection.xyoga_culture5964"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
