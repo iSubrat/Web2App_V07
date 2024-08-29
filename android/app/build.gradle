@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xviews_5988"
+        applicationId "com.appcollection.xseasite5989"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
