@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgallery_20505976"
+        applicationId "com.appcollection.xcinesaddle_5978"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
