@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeasy_breezy_mart6024"
+        applicationId "com.appcollection.xtechnosoft6026"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
