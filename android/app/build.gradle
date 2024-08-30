@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsms_ng6029"
+        applicationId "com.appcollection.xkondor_shop6031"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
