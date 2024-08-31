@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_6076"
+        applicationId "com.appcollection.xmtv_today6077"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
