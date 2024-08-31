@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstash6080"
+        applicationId "com.appcollection.ximgbb6081"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
