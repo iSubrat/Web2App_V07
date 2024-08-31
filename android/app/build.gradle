@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbrovio_space_6054"
+        applicationId "com.appcollection.xultraplay6055"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
