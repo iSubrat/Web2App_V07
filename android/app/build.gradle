@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xone_ai6142"
+        applicationId "com.appcollection.xserienstream6143"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
