@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbt_imagines6120"
+        applicationId "com.appcollection.xbraflix6121"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
