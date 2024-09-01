@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xserver6106"
+        applicationId "com.appcollection.xthe_architect_6107"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
