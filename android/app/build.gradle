@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbd_service_pro_6136"
+        applicationId "com.appcollection.xst_francis_co_ed_school_6137"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
