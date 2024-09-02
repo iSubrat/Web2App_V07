@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkaii_s_whatsapp6183"
+        applicationId "com.appcollection.xwp_web_vaibhav_6184"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
