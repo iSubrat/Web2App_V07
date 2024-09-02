@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtik_tok_shop6178"
+        applicationId "com.appcollection.xflappy_plane_9_116179"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
