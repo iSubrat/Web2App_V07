@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcaren_zorgt6216"
+        applicationId "com.appcollection.xreconquistapp6218"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
