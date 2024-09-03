@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvturecharging_6223"
+        applicationId "com.appcollection.xgseb_guider6221"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
