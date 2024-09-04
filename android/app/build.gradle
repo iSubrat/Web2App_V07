@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapptest6240"
+        applicationId "com.appcollection.xword_world_w2_dictionary_6241"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
