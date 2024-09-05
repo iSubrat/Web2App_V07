@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnow_me_tv6245"
+        applicationId "com.appcollection.xatube_6246"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
