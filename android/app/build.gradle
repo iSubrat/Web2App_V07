@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xonline_encrypt_decrypt_tool_by_codebeautify_org6267"
+        applicationId "com.appcollection.xmy_ip_weather_news6268"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
