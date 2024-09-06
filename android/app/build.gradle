@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwilliam_knibb_math_app6259"
+        applicationId "com.appcollection.xpanel_hamzpiw_s26261"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
