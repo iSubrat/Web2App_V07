@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnihh_6266"
+        applicationId "com.appcollection.xonline_encrypt_decrypt_tool_by_codebeautify_org6267"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
