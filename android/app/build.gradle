@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmetube6263"
+        applicationId "com.appcollection.xdescarga_video_youtube6264"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
