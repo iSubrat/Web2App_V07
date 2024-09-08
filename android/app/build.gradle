@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgithub_webinars_2024_2025_6278"
+        applicationId "com.appcollection.xsoeagents6279"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
