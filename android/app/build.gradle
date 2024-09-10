@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xamity_online_6285"
+        applicationId "com.appcollection.xle_torri_6286"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
