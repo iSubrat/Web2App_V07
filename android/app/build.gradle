@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xuporn6322"
+        applicationId "com.appcollection.xupload_media_to_link6321"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
