@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xupload_media_to_link6321"
+        applicationId "com.appcollection.xdoor6320"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
