@@ -81,7 +81,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                 "android:label=",
                 "ca-app-pub",
                 "const BASE_URL =",
-                "applicationId \"com.appcollection",
+                "applicationId",
                 '"package_name": '
             ]
             
