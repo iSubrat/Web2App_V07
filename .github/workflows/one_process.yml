@@ -54,12 +54,6 @@ jobs:
       with:
         flutter-version: '3.22.2'
 
-    - name: Clean Flutter build
-      run: flutter clean
-    
-    - name: Clear Gradle cache
-      run: rm -rf $HOME/.gradle/caches/
-
     - name: Cache Flutter dependencies
       uses: actions/cache@v2
       with:
