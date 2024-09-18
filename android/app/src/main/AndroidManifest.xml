@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="𝙳𝚢𝚊𝚝 𝙿𝚊𝚗𝚎𝚕 𝙼𝚌"
+        android:label="Anime Store"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
