@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xweb_qolan6370"
+        applicationId "com.appcollection.xfilmynilla6371"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
