@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmafiya_hackar6464"
+        applicationId "com.appcollection.xppl_guidelines6465"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
