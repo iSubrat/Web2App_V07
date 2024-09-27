@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnehit_songs_6536"
+        applicationId "com.appcollection.xw3schol6537"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
