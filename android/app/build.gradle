@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbyu_volleyball6532"
+        applicationId "com.appcollection.xsnehit_songs6533"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
