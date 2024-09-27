@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbang_destroys_walls_6508"
+        applicationId "com.appcollection.xlluvia6509"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
