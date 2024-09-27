@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpk_vegetable_store_6521"
+        applicationId "com.appcollection.xsandtris6520"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
