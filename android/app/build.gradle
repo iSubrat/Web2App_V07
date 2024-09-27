@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmax_web6504"
+        applicationId "com.appcollection.xroulette_analist6505"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
