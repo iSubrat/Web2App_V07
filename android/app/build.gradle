@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xruesch_support6572"
+        applicationId "com.appcollection.xyoutube6573"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
