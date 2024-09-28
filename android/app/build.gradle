@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xalef6584"
+        applicationId "com.appcollection.xsamehadaku6586"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
