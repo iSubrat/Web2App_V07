@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkourberitv6564"
+        applicationId "com.appcollection.xfoot6563"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
