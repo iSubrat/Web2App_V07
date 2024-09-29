@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchatify6622"
+        applicationId "com.appcollection.xhrms6623"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
