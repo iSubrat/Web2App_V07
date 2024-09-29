@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_6609"
+        applicationId "com.appcollection.xking_kong_racing6610"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
