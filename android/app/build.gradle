@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbollywood_premieremovie6615"
+        applicationId "com.appcollection.xth_vi_n_nh_ra6616"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
