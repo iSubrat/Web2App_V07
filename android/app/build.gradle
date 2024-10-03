@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgesti_n_de_gps_6651"
+        applicationId "com.appcollection.xrapyytopup6650"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
