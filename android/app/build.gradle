@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfashion_chingu_6723"
+        applicationId "com.appcollection.xak_fitness6722"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
