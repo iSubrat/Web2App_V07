@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xonlyfans_6742"
+        applicationId "com.appcollection.xonlyfans_6741"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
