@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xayizri_life6643"
+        applicationId "com.appcollection.xwinnie_the_pooh_6642"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
