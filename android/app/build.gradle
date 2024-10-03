@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshopping_hub_6711"
+        applicationId "com.appcollection.xfen6710"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
