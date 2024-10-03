@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xweg_iot_platform_nocode6756"
+        applicationId "com.appcollection.xfilmek_6755"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
