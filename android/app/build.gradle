@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xm3u_check_6685"
+        applicationId "com.appcollection.xbinolla_6806"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
