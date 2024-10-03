@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgta_v_guide6777"
+        applicationId "com.appcollection.xhermes_36776"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
