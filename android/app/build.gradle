@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xalpha_hen_6679"
+        applicationId "com.appcollection.xalpha_hen_6678"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
