@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfunzpoints6773"
+        applicationId "com.appcollection.xscsvd_incoming6772"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
