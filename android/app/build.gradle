@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanimehindi_animeepiccut6810"
+        applicationId "com.appcollection.xanimehindi_animeepiccut6809"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
