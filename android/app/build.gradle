@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xinsta6759"
+        applicationId "com.appcollection.xeffat_acc6758"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
