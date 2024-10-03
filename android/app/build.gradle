@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbopedi_bapedi_6652"
+        applicationId "com.appcollection.xgesti_n_de_gps_6651"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
