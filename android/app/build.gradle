@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xst_anthony_s_university_6826"
+        applicationId "com.appcollection.xbsky_app6827"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
