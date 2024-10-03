@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelectr_nica_zamora_sac_6738"
+        applicationId "com.appcollection.xsatta_king6737"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
