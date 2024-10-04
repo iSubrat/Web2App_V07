@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpd_network_6843"
+        applicationId "com.appcollection.xjn_pragas6844"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
