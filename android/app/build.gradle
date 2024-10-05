@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbudai_mobile_app6892"
+        applicationId "com.appcollection.xxpy6894"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
