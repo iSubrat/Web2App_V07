@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkma_bank6896"
+        applicationId "com.appcollection.xkma_bank6895"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
