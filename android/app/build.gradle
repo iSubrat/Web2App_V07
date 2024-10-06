@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xindibet6942"
+        applicationId "com.appcollection.xnotebooklm6943"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
