@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmanaa_health_care6954"
+        applicationId "com.appcollection.xapple_tv_6955"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
