@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xautoresbot6974"
+        applicationId "com.appcollection.xmk6977"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
