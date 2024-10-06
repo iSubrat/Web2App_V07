@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbix_6981"
+        applicationId "com.appcollection.xmobywatel6980"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
