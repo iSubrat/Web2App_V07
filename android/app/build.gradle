@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xschool_work7007"
+        applicationId "com.appcollection.xpowerlisting7003"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
