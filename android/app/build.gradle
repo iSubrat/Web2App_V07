@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrf_shock_flyer_loja_virtual_de_aeromodelismo_and_el7047"
+        applicationId "com.appcollection.xmangastuffs7048"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
