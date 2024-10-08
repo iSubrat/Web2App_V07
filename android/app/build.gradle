@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkeiserztzy7031"
+        applicationId "com.appcollection.xkeiserztzy7030"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
