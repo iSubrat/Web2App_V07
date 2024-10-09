@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xai7055"
+        applicationId "com.travtrip.app"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
