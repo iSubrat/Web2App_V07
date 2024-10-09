@@ -21,7 +21,8 @@ jobs:
         python-version: '3.x'
 
     - name: Install dependencies
-      run: pip install -r requirements.txt
+      run: |
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Setup Java
       uses: actions/setup-java@v2
@@ -32,7 +33,7 @@ jobs:
     - name: Setup Flutter
       uses: subosito/flutter-action@v2
       with:
-        flutter-version: '3.24.0'
+        flutter-version: '3.24.0'  # Use your desired Flutter version
 
     - name: Cache Flutter dependencies
       uses: actions/cache@v2
@@ -50,8 +51,8 @@ jobs:
     - name: Clean Build Cache
       run: flutter clean
 
-    - name: Build AAB with No Sound Null Safety
-      run: flutter build appbundle --no-sound-null-safety --verbose
+    - name: Build AAB
+      run: flutter build appbundle --verbose
 
     - name: FTP Transfer
       uses: joutvhu/ftp-transfer@v1
@@ -61,4 +62,4 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         commands: |
-          put ./build/app/outputs/bundle/release/ ./
+          put ./build/app/outputs/bundle/release/app-release.aab ./
