@@ -31,6 +31,18 @@ jobs:
 
     - name: Setup Flutter
       uses: subosito/flutter-action@v2
+      with:
+        flutter-version: '3.22.2'
+
+    - name: Cache Flutter dependencies
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/.pub-cache
+          **/flutter/.pub-cache
+        key: ${{ runner.os }}-flutter-${{ hashFiles('**/pubspec.yaml') }}
+        restore-keys: |
+          ${{ runner.os }}-flutter-
 
     - name: Cache Flutter dependencies
       uses: actions/cache@v2
