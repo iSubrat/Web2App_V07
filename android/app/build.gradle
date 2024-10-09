@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtravtrip_cheap_flights_hotels_and_rentals7050"
+        applicationId "com.appcollection.x_7051"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
