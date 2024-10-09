@@ -21,8 +21,7 @@ jobs:
         python-version: '3.x'
 
     - name: Install dependencies
-      run: |
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      run: pip install -r requirements.txt
 
     - name: Setup Java
       uses: actions/setup-java@v2
@@ -32,8 +31,6 @@ jobs:
 
     - name: Setup Flutter
       uses: subosito/flutter-action@v2
-      with:
-        flutter-version: '3.24.0'  # Use your desired Flutter version
 
     - name: Cache Flutter dependencies
       uses: actions/cache@v2
@@ -41,18 +38,13 @@ jobs:
         path: |
           ~/.pub-cache
           **/flutter/.pub-cache
-        key: ${{ runner.os }}-flutter-${{ hashFiles('**/pubspec.yaml', '**/pubspec.lock') }}
+        key: ${{ runner.os }}-flutter-${{ hashFiles('**/pubspec.yaml') }}
         restore-keys: |
           ${{ runner.os }}-flutter-
 
-    - name: Install Flutter Dependencies
-      run: flutter pub get
-
-    - name: Clean Build Cache
-      run: flutter clean
 
     - name: Build AAB
-      run: flutter build appbundle --verbose
+      run: flutter build aab
 
     - name: FTP Transfer
       uses: joutvhu/ftp-transfer@v1
@@ -62,4 +54,4 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         commands: |
-          put ./build/app/outputs/bundle/release/app-release.aab ./
+          put ./build/app/outputs/bundle/release/ ./
