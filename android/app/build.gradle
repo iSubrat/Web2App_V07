@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjogajog7073"
+        applicationId "com.appcollection.xidi_edomex7079"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
