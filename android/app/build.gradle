@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbest_review_027104"
+        applicationId "com.appcollection.xsyekh_mahmud7105"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
