@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xglobalapp7106"
+        applicationId "com.appcollection.xgigclickers_7114"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
