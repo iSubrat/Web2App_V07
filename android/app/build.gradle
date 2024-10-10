@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsubba_lakshmi_kalyanamandapam_7096"
+        applicationId "com.appcollection.xpainel_nordestino_vip7097"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
