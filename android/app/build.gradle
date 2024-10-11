@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanel_private_dynn7167"
+        applicationId "com.appcollection.xenvio_comprovante_7168"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
