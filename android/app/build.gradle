@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyoutube_lite7173"
+        applicationId "com.appcollection.xjurnalharianadmin7174"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
