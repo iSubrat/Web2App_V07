@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xamp_fisika7151"
+        applicationId "com.appcollection.xhindokosh_7152"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
