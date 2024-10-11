@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xenvio_comprovante_7168"
+        applicationId "com.appcollection.xalibeg7169"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
