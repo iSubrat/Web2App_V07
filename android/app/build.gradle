@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtravel_beach7178"
+        applicationId "com.appcollection.xsaint_romero_brand_7179"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
