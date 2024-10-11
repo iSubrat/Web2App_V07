@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaviator7144"
+        applicationId "com.appcollection.xmines_demo7145"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
