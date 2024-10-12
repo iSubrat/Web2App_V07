@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_can_and_earn7186"
+        applicationId "com.appcollection.xlivetv7187"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
