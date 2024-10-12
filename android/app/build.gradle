@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbillitube7198"
+        applicationId "com.appcollection.xminesclouds_hosting7199"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
