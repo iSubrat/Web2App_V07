@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkabu_world7200"
+        applicationId "com.appcollection.xuser_panel7201"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
