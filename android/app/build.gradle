@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfast_mining_7210"
+        applicationId "com.appcollection.xvastraapp7211"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
