@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsbdb7257"
+        applicationId "com.appcollection.xmovieplex7258"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
