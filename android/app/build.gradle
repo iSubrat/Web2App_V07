@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xworld_flag_database7229"
+        applicationId "com.appcollection.xhdd_storage_calculator7230"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
