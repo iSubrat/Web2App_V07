@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhexa7267"
+        applicationId "com.appcollection.xrotube7268"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
