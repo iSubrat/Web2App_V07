@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmovieplex7258"
+        applicationId "com.appcollection.xpayweb7259"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
