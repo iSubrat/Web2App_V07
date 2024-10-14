@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrj_fashions_7286"
+        applicationId "com.appcollection.xhistorypedia7287"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
