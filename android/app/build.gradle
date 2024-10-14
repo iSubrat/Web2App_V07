@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgolden_fork7280"
+        applicationId "com.appcollection.xcheat7283"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
