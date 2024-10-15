@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbetpro7315"
+        applicationId "com.appcollection.xtrusted_topup_7316"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
