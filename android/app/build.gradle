@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwhiteboard_7302"
+        applicationId "com.appcollection.xfunny_sfx7305"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
