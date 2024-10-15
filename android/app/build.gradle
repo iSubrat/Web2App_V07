@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanel_jasteb_dynn7314"
+        applicationId "com.appcollection.xbetpro7315"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
