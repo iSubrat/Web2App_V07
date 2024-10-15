@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xplay_tube_plix7341"
+        applicationId "com.appcollection.xplay_tube_plix7340"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
