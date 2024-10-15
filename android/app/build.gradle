@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xif_edit_video_and_audio_player_7332"
+        applicationId "com.appcollection.xmeta_ai7333"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
