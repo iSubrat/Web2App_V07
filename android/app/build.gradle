@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtu_tiendita7372"
+        applicationId "com.appcollection.xcatflix_7373"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
