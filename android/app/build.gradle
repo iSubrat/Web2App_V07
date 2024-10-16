@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_blog_7367"
+        applicationId "com.appcollection.xmy_s_google7368"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
