@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshopping_zone_7428"
+        applicationId "com.appcollection.xcloud_tv7430"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
