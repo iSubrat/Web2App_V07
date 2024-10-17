@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjumping_square_27438"
+        applicationId "com.appcollection.xsuperpay_earn7439"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
