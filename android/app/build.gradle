@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcoryn7418"
+        applicationId "com.appcollection.xmob_dobol_sm7419"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
