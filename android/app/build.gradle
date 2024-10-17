@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xalpha_topup7437"
+        applicationId "com.appcollection.xjumping_square_27438"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
