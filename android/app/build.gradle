@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xveer_savarkar7427"
+        applicationId "com.appcollection.xshopping_zone_7428"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
