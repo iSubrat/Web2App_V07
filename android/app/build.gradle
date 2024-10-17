@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsauron7443"
+        applicationId "com.appcollection.xcommission_crowd7444"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
