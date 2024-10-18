@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkomik7445"
+        applicationId "com.appcollection.xnam_food_delivery7448"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
