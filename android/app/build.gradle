@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfrangoz_chicken_mutton_fish7565"
+        applicationId "com.appcollection.xlortex_7566"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
