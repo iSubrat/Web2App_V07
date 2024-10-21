@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnerdzex_7606"
+        applicationId "com.appcollection.xozone_browser_7608"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
