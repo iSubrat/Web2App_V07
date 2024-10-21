@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xonline_mart_7604"
+        applicationId "com.appcollection.xweather_demand7605"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
