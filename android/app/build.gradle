@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelegant_refined7640"
+        applicationId "com.appcollection.xlophone_7641"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
