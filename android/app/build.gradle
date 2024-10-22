@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xedskuy_7664"
+        applicationId "com.appcollection.xfashions_vinsu_7665"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
