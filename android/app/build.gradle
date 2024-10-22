@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmayabazar_7677"
+        applicationId "com.appcollection.xnocodb7678"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
