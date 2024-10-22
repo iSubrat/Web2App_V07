@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyoutubbe7649"
+        applicationId "com.appcollection.xmuke_ai7650"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
