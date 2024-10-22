@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnew_lover_bic_city7659"
+        applicationId "com.appcollection.xtpe_foms7661"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
