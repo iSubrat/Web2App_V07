@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvirtual_machine7706"
+        applicationId "com.appcollection.xcasino_royale7705"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
