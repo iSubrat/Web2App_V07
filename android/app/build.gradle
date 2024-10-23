@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcrichdtv_7697"
+        applicationId "com.appcollection.xlyricsa7698"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
