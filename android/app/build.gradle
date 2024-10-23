@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xriver_of_care7708"
+        applicationId "com.appcollection.xagrotool7710"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
