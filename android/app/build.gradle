@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzextory_enc7709"
+        applicationId "com.appcollection.xriver_of_care7707"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
