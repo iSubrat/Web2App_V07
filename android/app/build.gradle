@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xllms_chat7702"
+        applicationId "com.appcollection.xvirtual_machine7706"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
