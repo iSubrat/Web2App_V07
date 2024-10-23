@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlyricsa7698"
+        applicationId "com.appcollection.xrbt7699"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
