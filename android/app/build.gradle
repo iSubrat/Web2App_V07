@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgoogle_calendar_hours_tracking7767"
+        applicationId "com.appcollection.xcolor_wars_online7766"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
