@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmissed_call_reminder_when_active7759"
+        applicationId "com.appcollection.xfood_king7760"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
