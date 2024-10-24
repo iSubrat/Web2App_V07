@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkawanda_mobile7748"
+        applicationId "com.appcollection.xyousef_7749"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
