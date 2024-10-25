@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xraksha_cakes7821"
+        applicationId "com.appcollection.xgaddbotz_v17822"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
