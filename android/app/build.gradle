@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaseppanel7806"
+        applicationId "com.appcollection.xtyas_imut7807"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
