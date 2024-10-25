@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanime_gokunrz_app7809"
+        applicationId "com.appcollection.xanime_gokunrz_app7808"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
