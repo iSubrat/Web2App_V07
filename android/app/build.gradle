@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgaddbotz_v17822"
+        applicationId "com.appcollection.xlane_runner_7820"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
