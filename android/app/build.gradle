@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrun_code_7803"
+        applicationId "com.appcollection.xconwo_offline_server_7804"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
