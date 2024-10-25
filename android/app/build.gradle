@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_apakah_anda_pemilik_situs_web_ini_7825"
+        applicationId "com.appcollection.x_apakah_anda_pemilik_situs_web_ini_7824"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
