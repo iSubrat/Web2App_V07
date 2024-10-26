@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnayeem_playz7852"
+        applicationId "com.appcollection.xarc_thratz_7853"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
