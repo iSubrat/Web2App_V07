@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrafi_portfolio7854"
+        applicationId "com.appcollection.xsnaily_speed7855"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
