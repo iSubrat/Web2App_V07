@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xxhamster7924"
+        applicationId "com.appcollection.x_7925"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
