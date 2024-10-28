@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpasswrod_generator_7980"
+        applicationId "com.appcollection.xassassin_s_creed7982"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
