@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmine_the_block_for_gifts7961"
+        applicationId "com.appcollection.xsophie_walker_7967"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
