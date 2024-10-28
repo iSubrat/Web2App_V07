@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrs_faucet7945"
+        applicationId "com.appcollection.xfixguru_packaging_supplier7944"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
