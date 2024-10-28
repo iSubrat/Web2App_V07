@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlove_explos_o7953"
+        applicationId "com.appcollection.xcrypto_screener7956"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
