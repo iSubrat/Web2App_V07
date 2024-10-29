@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsplintercell7983"
+        applicationId "com.appcollection.xmetalgear7984"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
