@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xteste7987"
+        applicationId "com.appcollection.xcloud_tv7989"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
