@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmetalgear7984"
+        applicationId "com.appcollection.xfarcry7985"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
