@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmarsz8045"
+        applicationId "com.appcollection.xquick_delivery_service_8046"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
