@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xw3spaces8086"
+        applicationId "com.appcollection.xketan_patel_the_browser_8088"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
