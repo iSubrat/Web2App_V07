@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkoladata8112"
+        applicationId "com.appcollection.xopenai8113"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
