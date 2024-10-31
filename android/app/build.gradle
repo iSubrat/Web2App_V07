@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrihad_bomber8102"
+        applicationId "com.appcollection.x3rd_guy_records8103"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
