@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprivate208141"
+        applicationId "com.appcollection.xjm_and_depe_news8144"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
