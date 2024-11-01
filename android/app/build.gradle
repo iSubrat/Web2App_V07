@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdk_matrimony8123"
+        applicationId "com.appcollection.xlogin_panel_8124"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
