@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjust_4_info8183"
+        applicationId "com.appcollection.xgenius_trading_bot_by_tr_with_ismail_8184"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
