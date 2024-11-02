@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsolent_hotel8191"
+        applicationId "com.appcollection.xforum_portal_x8185"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
