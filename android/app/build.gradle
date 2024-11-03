@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnumanalyzer_8224"
+        applicationId "com.appcollection.xpanel_dapxman8226"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
