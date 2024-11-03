@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaniverse8243"
+        applicationId "com.appcollection.xanidwell8242"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
