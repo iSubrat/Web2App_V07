@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvkr_technologies_8253"
+        applicationId "com.appcollection.xregistro_8254"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
