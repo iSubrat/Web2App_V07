@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xradio_khadim_8286"
+        applicationId "com.appcollection.xamboss8287"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
