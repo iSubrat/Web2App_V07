@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xy2mate8325"
+        applicationId "com.appcollection.xreadio_8326"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
