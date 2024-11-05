@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xswiftcart_8316"
+        applicationId "com.appcollection.xpeoplesofthcm8317"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
