@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsimrail_express_8302"
+        applicationId "com.appcollection.xdr_amit_mondal_official_8303"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
