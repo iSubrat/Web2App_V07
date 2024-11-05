@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_select_an_app8329"
+        applicationId "com.appcollection.xouwatch8331"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
