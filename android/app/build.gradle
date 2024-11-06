@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtext_check8402"
+        applicationId "com.appcollection.xshtz8404"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
