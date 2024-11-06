@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtap_my_phone8371"
+        applicationId "com.appcollection.xcapital_store_8373"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
