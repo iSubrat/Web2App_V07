@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyoui8407"
+        applicationId "com.appcollection.xssh_rocket_8409"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
