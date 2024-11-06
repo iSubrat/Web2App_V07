@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanel_bot8394"
+        applicationId "com.appcollection.xgoogle_sites8396"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
