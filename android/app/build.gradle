@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcapital_store_8370"
+        applicationId "com.appcollection.xtam_nayek_avichay8366"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
