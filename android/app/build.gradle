@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmp3_player8389"
+        applicationId "com.appcollection.xhoochie_mama8386"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
