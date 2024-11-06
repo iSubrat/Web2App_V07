@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfree_calling_8339"
+        applicationId "com.appcollection.xmy_organization_8340"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
