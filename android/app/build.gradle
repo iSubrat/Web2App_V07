@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xoppconvert8461"
+        applicationId "com.appcollection.xhakan_one_8462"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
