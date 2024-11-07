@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmahdi_sklz8444"
+        applicationId "com.appcollection.xfreeton_app8447"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
