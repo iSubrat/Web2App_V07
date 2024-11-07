@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsadek_telecom_8422"
+        applicationId "com.appcollection.xsadek_telecom_8423"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
