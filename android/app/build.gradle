@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xread_comics_online_8428"
+        applicationId "com.appcollection.xappcollection_in8431"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
