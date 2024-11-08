@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xusa_news_channels_8500"
+        applicationId "com.appcollection.xthe_tomi_8501"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
