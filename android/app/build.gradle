@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsma_agrate8503"
+        applicationId "com.appcollection.xsayems_tiktok_views8504"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
