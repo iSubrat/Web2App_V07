@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcopious_ph8495"
+        applicationId "com.appcollection.xfox_news_channel_8497"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
