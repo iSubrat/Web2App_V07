@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsayems_tiktok_views8504"
+        applicationId "com.appcollection.xyoutube8505"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
