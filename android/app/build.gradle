@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhildegard_app8502"
+        applicationId "com.appcollection.xsma_agrate8503"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
