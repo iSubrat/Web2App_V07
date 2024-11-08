@@ -142,7 +142,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
 
 def create_app_configuration(app_name, redirect_url, web_url, app_logo, published):
     # urls = popular_urls(web_url, openai_api_key)
-    print('Debug C: ', urls)
+    # print('Debug C: ', urls)
     
     if published=='PUBLISHED':
         content = None
