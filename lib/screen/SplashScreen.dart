@@ -30,7 +30,7 @@ class SplashScreenState extends State<SplashScreen> {
     Iterable mMenu = jsonDecode(getStringAsync(WALKTHROUGH));
     mWalkList = mMenu.map((model) => model1.Walkthrough.fromJson(model)).toList();
 
-    await Future.delayed(Duration(seconds: 2));
+    await Future.delayed(Duration(seconds: 3));
     if (getStringAsync(IS_WALKTHROUGH) == "true") {
       if (getBoolAsync(IS_FIRST_TIME, defaultValue: true)) {
         if (mWalkList.isNotEmpty) {
