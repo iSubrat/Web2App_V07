@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xisync_all_icloud_apps8535"
+        applicationId "com.appcollection.xdhamma_mp3_books_and_talks8536"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
