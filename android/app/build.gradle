@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsprunki8563"
+        applicationId "com.appcollection.xdelta_executor8564"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
