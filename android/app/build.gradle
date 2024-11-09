@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchatgpt8554"
+        applicationId "com.appcollection.xteam_media_news_8555"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
