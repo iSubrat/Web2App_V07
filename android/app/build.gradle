@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgaeateam8589"
+        applicationId "com.appcollection.xhanzu_pizza_zone8586"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
