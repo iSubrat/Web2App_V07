@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmessenger8607"
+        applicationId "com.appcollection.xfountain_of_love8608"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
