@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmvp_timer8636"
+        applicationId "com.appcollection.xfilesmonkey8640"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
