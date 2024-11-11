@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_photo_locker8667"
+        applicationId "com.appcollection.xmy_games8668"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
