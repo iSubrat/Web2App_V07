@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvideos_feed8682"
+        applicationId "com.appcollection.xsnap_and_track8683"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
