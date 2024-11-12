@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsfx_8693"
+        applicationId "com.appcollection.xmultiverso_dos_games8694"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
