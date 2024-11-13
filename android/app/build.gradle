@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xabid_online_mart_2_08727"
+        applicationId "com.appcollection.xintellichat8728"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
