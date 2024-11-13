@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnsbdvdbh8716"
+        applicationId "com.appcollection.xultra2movies8717"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
