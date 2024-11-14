@@ -4,10 +4,6 @@ import requests
 import sys
 import os
 import re
-import datetime
-
-# Get the current date and time
-now = datetime.datetime.now()
 
 def replace_text_in_file(file_path, find_text, new_text):
     try:
@@ -78,7 +74,6 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                 "android/app/src/main/AndroidManifest.xml",
                 "lib/utils/constant.dart",
                 "android/app/build.gradle",
-                "android/app/build.gradle",
                 "android/app/google-services.json"
             ]
             
@@ -87,7 +82,6 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                 "ca-app-pub",
                 "const BASE_URL =",
                 "applicationId",
-                "versionCode",
                 '"package_name": '
             ]
             
@@ -96,7 +90,6 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                 f'            android:value="{admob_app_id}" />\n',
                 f'const BASE_URL = "https://web2app.appcollection.in/downloads/01_Profiles/{id}";\n',
                 f'        applicationId "{package_name}"\n',
-                f'        versionCode "{int(now.timestamp())}"\n',
                 f'          "package_name": "{package_name}"\n'
             ]
 
