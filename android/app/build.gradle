@@ -25,10 +25,10 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspatech7866"
+        applicationId "com.appcollection.xsale_bill8757"
         minSdkVersion 22
         targetSdkVersion 34
-        versionCode 1
+        versionCode "1731590481"
         versionName "1.0.0"
         multiDexEnabled true
     }
