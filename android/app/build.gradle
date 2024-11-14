@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xxuv_driving_8750"
+        applicationId "com.appcollection.xok_win8751"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
