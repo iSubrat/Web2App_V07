@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcalendar8790"
+        applicationId "com.appcollection.xlucida8791"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
