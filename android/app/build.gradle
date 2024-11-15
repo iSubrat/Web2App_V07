@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlearn_every_tuesday_com8826"
+        applicationId "com.appcollection.xwrzucaj_p8824"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
