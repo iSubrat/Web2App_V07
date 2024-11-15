@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xarchive_org8818"
+        applicationId "com.appcollection.xdeily_earn_free_fire_diamond_8828"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
