@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xiloveeditor_com8821"
+        applicationId "com.appcollection.xloveeditor_com8820"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
