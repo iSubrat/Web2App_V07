@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xedu_verse8806"
+        applicationId "com.appcollection.xedu_verse8805"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
