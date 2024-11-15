@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhtml_runner_simple_and_easy_8827"
+        applicationId "com.appcollection.xiloveeditor_com8821"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
