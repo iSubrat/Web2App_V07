@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaditya_8834"
+        applicationId "com.appcollection.xfmailglobalnetwork8836"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
