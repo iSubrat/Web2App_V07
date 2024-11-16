@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xuploadhive_com8865"
+        applicationId "com.appcollection.xsavefile_io8868"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
