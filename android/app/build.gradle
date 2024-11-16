@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmexa_sh8870"
+        applicationId "com.appcollection.xuploadhub_to8867"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
