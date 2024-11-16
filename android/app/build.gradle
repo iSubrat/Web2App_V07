@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrandd_assessment8897"
+        applicationId "com.appcollection.xpanel_bot_wa_fitxzy_host8895"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
