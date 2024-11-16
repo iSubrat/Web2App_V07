@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xerik_van_gorp8912"
+        applicationId "com.appcollection.xbahonetvdz_8914"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
