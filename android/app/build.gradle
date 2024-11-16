@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhello8906"
+        applicationId "com.appcollection.xmonbonenligne_8907"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
