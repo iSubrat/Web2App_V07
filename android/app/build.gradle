@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprinterpix_co_uk8858"
+        applicationId "com.appcollection.xprinterpix_com8857"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
