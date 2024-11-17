@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpdalife8975"
+        applicationId "com.appcollection.xmirchi_playlist_tracker8976"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
