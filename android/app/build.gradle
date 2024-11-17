@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpermit_cnic_8927"
+        applicationId "com.appcollection.xyoutube8928"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
