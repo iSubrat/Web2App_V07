@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmanajemen_tugas_sekolah_9016"
+        applicationId "com.appcollection.xroro_kidul_masih_kecil9017"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
