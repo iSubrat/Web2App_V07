@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xroro_kidul_masih_kecil9017"
+        applicationId "com.appcollection.xlibra_computers_9018"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
