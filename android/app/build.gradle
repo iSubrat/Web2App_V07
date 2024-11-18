@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlibra_computers_9018"
+        applicationId "com.appcollection.xlibra_computers_9019"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
