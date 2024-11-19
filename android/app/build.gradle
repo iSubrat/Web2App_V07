@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xamman_computers_service_9088"
+        applicationId "com.appcollection.xcorwich9090"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
