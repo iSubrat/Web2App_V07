@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xansyah_topup_9062"
+        applicationId "com.appcollection.xteste9063"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
