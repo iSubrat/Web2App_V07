@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsautty9064"
+        applicationId "com.appcollection.xrega9065"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
