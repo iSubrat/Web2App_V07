@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xt_ch_nh_c9108"
+        applicationId "com.appcollection.xpan_craft_9109"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
