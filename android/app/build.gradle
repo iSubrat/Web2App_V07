@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanel_privat9104"
+        applicationId "com.appcollection.xpmjay_9105"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
