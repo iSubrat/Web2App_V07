@@ -155,7 +155,7 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "isJavascriptEnable": "true",
                 "isSplashScreen": "true",
                 "isZoomFunctionality": "false",
-                "navigationStyle": "fullscreen",
+                "navigationStyle": "sidedrawer_tabs",
                 "header_style": "left",
                 "is_walkthrough": "false",
                 "is_webrtc": "true",
