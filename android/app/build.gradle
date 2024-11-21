@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xarexans9146"
+        applicationId "com.appcollection.xcodes_makers9147"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
