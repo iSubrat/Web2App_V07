@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xultimate_racing_9171"
+        applicationId "com.appcollection.xultimate_racing_9170"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
