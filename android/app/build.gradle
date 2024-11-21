@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmatty_9135"
+        applicationId "com.appcollection.xweb2app9136"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
