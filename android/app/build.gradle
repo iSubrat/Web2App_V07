@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xao_forum9186"
+        applicationId "com.appcollection.xanonimo9187"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
