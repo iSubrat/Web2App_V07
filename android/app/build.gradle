@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtest9207"
+        applicationId "com.appcollection.xpt_panel9208"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
