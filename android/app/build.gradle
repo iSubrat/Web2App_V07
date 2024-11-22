@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfoodler_9175"
+        applicationId "com.appcollection.xdescargar_videos_kwai9176"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
