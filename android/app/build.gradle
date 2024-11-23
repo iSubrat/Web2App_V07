@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcatalogo_ferreter_a9219"
+        applicationId "com.appcollection.xcatalogo_ferreter_a9218"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
