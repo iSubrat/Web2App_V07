@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnavs_v19245"
+        applicationId "com.appcollection.xtiyaninsta9244"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
