@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrust_book9227"
+        applicationId "com.appcollection.xfxreplay9226"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
