@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtayo_store_9225"
+        applicationId "com.appcollection.xkairo_hosting9224"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
