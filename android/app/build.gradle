@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xassistente_de_voz_9301"
+        applicationId "com.appcollection.xvisit_gayo_travel9302"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
