@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbio_trade_hub_llc9299"
+        applicationId "com.appcollection.xyoutube9300"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
