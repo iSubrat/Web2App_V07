@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgodaddy9315"
+        applicationId "com.appcollection.xnguema5tv_9316"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
