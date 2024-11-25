@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnoblesstv9343"
+        applicationId "com.appcollection.xgi_c_ng_t_y_duy_n_9353"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
