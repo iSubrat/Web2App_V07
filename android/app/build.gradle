@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsos_sd9409"
+        applicationId "com.appcollection.xzeemoontv9404"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
