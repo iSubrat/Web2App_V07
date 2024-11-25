@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xka_t_u_ak_9397"
+        applicationId "com.appcollection.xka_u_ak9395"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
