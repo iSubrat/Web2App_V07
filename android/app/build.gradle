@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xphotolab9380"
+        applicationId "com.appcollection.xctkis_portal9377"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
