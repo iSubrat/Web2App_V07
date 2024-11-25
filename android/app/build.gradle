@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnetura9393"
+        applicationId "com.appcollection.xka_t_u_ak9396"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
