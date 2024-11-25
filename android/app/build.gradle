@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcloud_phone_9385"
+        applicationId "com.appcollection.xsupercell_store9388"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
