@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrac_cell9431"
+        applicationId "com.appcollection.xoyenz_hosting9437"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
