@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcapital_store_9459"
+        applicationId "com.appcollection.xillm_wap_9460"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
