@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmkv_scanner9451"
+        applicationId "com.appcollection.xibrasocial_9453"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
