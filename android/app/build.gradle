@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_ui_admission_app9522"
+        applicationId "com.appcollection.xvisitor_management_9523"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
