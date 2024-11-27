@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlar_moveis_calculadora9510"
+        applicationId "com.appcollection.xchat_ai9508"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
