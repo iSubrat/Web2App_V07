@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrewards19467"
+        applicationId "com.appcollection.xflowey_9468"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
