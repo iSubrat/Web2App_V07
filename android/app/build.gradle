@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtranslate9509"
+        applicationId "com.appcollection.xlar_moveis_calculadora9510"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
