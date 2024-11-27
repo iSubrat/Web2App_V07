@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xplc_online9506"
+        applicationId "com.appcollection.xmichal_style9507"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
