@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmi_argentina_9466"
+        applicationId "com.appcollection.xrewards19467"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
