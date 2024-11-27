@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfound9531"
+        applicationId "com.appcollection.xcek_win9532"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
