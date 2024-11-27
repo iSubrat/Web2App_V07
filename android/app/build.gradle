@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhh9469"
+        applicationId "com.appcollection.xkanz_sosmed_pedia9470"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
