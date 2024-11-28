@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmake_me_notes9574"
+        applicationId "com.appcollection.xbet_50k9575"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
