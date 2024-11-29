@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtoramtools9607"
+        applicationId "com.appcollection.xnetflix_2glexbox9610"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
