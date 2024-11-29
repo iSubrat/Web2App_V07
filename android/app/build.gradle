@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjan9589"
+        applicationId "com.appcollection.xwealthwwave9591"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
