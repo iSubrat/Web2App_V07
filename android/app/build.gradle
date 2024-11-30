@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xminecraft_jugarmc9675"
+        applicationId "com.appcollection.xminecraft_jugarmc9677"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
