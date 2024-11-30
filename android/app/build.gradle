@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xminecraft_jugarmc9677"
+        applicationId "com.appcollection.xhhp_bangladesh_pharmacy_9678"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
