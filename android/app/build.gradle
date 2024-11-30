@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmd_shamsul_alam_9650"
+        applicationId "com.appcollection.xmd_shamsul_alam_9649"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
