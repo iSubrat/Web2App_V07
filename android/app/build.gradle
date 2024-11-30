@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcuba_tv9656"
+        applicationId "com.appcollection.xcalculator9658"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
