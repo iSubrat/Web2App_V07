@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpiratebay_9740"
+        applicationId "com.appcollection.xrandt_9741"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
