@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtron_earn9737"
+        applicationId "com.appcollection.xyyy9738"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
