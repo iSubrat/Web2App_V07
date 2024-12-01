@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsuntik_tt_by_atinzzganz9723"
+        applicationId "com.appcollection.xchance9724"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
