@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdlocal_go9743"
+        applicationId "com.appcollection.xnanda_store9744"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
