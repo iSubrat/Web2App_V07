@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="No chance"
+        android:label="𝐙͜͡𝐄͡𝐔͢𝐒 𝐀͡𝐏͜𝐇𝐎͡𝐂𝐀͢𝐋𝐈͜𝐏͡𝐒"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
