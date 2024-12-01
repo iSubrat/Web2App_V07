@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdanzz_id_login_panel9708"
+        applicationId "com.appcollection.xjis_tube9709"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
