@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtechnotech_visuales9690"
+        applicationId "com.appcollection.xcoheteexploit9693"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
