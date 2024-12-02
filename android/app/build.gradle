@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmystery_agency_9771"
+        applicationId "com.appcollection.xodd_dash_blue_test2_9773"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
