@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwayback_machine9793"
+        applicationId "com.appcollection.xbola9794"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
