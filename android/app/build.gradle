@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmagic_friends_app_9844"
+        applicationId "com.appcollection.xthe_best_clicker9845"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
