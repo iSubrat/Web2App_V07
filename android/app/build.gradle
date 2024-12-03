@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsmandung_abt9847"
+        applicationId "com.appcollection.xunderdodge9846"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
