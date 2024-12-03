@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshine_shop_official_9805"
+        applicationId "com.appcollection.xvahid_vpn9807"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
