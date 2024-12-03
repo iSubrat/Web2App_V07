@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xabsenku9859"
+        applicationId "com.appcollection.xamit_s_facebook_9860"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
