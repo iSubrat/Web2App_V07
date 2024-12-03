@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfak_kalll9830"
+        applicationId "com.appcollection.xpainel9831"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
