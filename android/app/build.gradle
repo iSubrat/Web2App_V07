@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshgp9905"
+        applicationId "com.appcollection.xword_games_practise9906"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
