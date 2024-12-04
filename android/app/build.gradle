@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbluethenics_9867"
+        applicationId "com.appcollection.xbluethenics_9868"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
