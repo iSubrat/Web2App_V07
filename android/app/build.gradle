@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xabefilm9901"
+        applicationId "com.appcollection.xlokesh_kumar_9902"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
