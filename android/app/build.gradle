@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xamazing_naija_dishes9903"
+        applicationId "com.appcollection.xreciperead9904"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
