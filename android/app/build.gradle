@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgame_penjumlahan_and_pengurangan9882"
+        applicationId "com.appcollection.xoqpo9883"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
