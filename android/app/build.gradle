@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeau10006"
+        applicationId "com.appcollection.xtrendscout_10008"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
