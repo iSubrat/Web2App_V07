@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeurofil9998"
+        applicationId "com.appcollection.xcrystal_network9999"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
