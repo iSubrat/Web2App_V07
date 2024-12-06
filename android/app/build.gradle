@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcelebrate_soud10013"
+        applicationId "com.appcollection.xluzz_x_kyle_panel_login10014"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
