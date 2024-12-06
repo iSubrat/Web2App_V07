@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtry10048"
+        applicationId "com.appcollection.xshopcity10049"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
