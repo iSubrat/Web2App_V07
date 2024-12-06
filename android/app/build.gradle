@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfurniture_catalog10037"
+        applicationId "com.appcollection.xmarvintv_10038"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
