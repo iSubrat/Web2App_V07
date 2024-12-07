@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkenzglobe_text_editor_10072"
+        applicationId "com.appcollection.xcontroller10077"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
