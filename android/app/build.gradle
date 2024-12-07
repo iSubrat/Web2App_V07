@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgoal10068"
+        applicationId "com.appcollection.xkilibis_app10069"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
