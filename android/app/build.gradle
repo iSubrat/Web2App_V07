@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwhatspay_10094"
+        applicationId "com.appcollection.xkuramanime10098"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
