@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xreyzpanel_my_id10092"
+        applicationId "com.appcollection.xghf10093"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
