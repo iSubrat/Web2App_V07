@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfilelist10090"
+        applicationId "com.appcollection.xtime_clock10091"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
