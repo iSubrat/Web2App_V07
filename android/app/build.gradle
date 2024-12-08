@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprib_junamodxty10118"
+        applicationId "com.appcollection.xonecompiler10121"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
