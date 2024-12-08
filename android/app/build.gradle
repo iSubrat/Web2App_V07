@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xonecompiler10124"
+        applicationId "com.appcollection.xarmedforcesfinancialcommittee10125"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
