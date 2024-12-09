@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjuegos_boing_10173"
+        applicationId "com.appcollection.xbater_a_buena_10177"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
