@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xetestpaper10210"
+        applicationId "com.appcollection.xpomodoro_timer_10211"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
