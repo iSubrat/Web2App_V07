@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlocation_10267"
+        applicationId "com.appcollection.xsmart_services_10266"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
