@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbig_justice_exe10271"
+        applicationId "com.appcollection.xbig_justice_exe10272"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
