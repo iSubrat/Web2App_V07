@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xqalp_educare10358"
+        applicationId "com.appcollection.xhooter10359"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
