@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcalculator_10322"
+        applicationId "com.appcollection.xand10324"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
