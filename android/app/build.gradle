@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xocr10363"
+        applicationId "com.appcollection.xbuddha_bhumi10364"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
