@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xredmine_smartfull10313"
+        applicationId "com.appcollection.xtivtavtov10315"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
