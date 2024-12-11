@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgobr10279"
+        applicationId "com.appcollection.xprompts_report10278"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
