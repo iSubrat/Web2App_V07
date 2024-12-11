@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xox_game10325"
+        applicationId "com.appcollection.xpanel_shizu_x_aufa10323"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
