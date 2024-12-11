@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xflappyball10352"
+        applicationId "com.appcollection.xkkbshop_10348"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
