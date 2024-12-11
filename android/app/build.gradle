@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpterodactyl10354"
+        applicationId "com.appcollection.xhappy_con10355"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
