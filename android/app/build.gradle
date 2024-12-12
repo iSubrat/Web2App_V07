@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvanessa_ert10431"
+        applicationId "com.appcollection.xsly_roleta10432"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
