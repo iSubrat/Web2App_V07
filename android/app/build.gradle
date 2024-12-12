@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xarexanspublic10415"
+        applicationId "com.appcollection.xmy_game_10416"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
