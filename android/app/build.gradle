@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsparkle10384"
+        applicationId "com.appcollection.xaplikasi_panel_by_cella10385"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
