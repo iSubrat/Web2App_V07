@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhiggs_games_island10482"
+        applicationId "com.appcollection.xbreak_10485"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
