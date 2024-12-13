@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsantsz10499"
+        applicationId "com.appcollection.xturbowarp10500"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
