@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpannelpino10484"
+        applicationId "com.appcollection.xchat_gpt_10483"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
