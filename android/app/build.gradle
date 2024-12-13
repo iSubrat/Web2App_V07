@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmoney_share_10436"
+        applicationId "com.appcollection.xderiv_charts10437"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
