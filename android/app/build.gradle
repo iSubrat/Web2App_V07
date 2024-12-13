@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xorvo_services_recruiter10494"
+        applicationId "com.appcollection.xstream2watch_live_10495"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
