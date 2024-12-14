@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xalisha10537"
+        applicationId "com.appcollection.xmapp10538"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
