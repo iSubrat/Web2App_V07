@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcrm_dar_10570"
+        applicationId "com.appcollection.xsukri_x_rell10572"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
