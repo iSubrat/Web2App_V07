@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadp_exzz_host10548"
+        applicationId "com.appcollection.xapk_kelulusan_smk10551"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
