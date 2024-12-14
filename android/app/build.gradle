@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanel_by_cella_imut10519"
+        applicationId "com.appcollection.xdish_info10521"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
