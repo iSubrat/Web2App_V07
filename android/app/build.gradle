@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xa_choice_cloths_10634"
+        applicationId "com.appcollection.xanubis10635"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
