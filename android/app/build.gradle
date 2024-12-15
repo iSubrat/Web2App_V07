@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvivekanand_global_10645"
+        applicationId "com.appcollection.xdlocal_go9743"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
