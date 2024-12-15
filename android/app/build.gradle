@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmeu_gov_br10604"
+        applicationId "com.appcollection.xnetmirror10605"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
