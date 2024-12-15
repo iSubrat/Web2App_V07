@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xserver_private10655"
+        applicationId "com.appcollection.xgoogle10656"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
