@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcounter_by_muatafa10653"
+        applicationId "com.appcollection.xrozarpay10654"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
