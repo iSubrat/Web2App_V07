@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelectric_panel_host10627"
+        applicationId "com.appcollection.xjob_roster10626"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
