@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdepo_y_netim_10668"
+        applicationId "com.appcollection.xwupos10669"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
