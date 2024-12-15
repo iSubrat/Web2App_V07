@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtik_tac_toe10629"
+        applicationId "com.appcollection.xsnake_game_10632"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
