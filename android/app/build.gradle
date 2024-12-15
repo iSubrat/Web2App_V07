@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchch_news10620"
+        applicationId "com.appcollection.xktv_4g_live10621"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
