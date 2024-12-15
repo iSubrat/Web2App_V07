@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfarmfresh10622"
+        applicationId "com.appcollection.xjohb_roster10623"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
