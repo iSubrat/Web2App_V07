@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhacked_by_acs10682"
+        applicationId "com.appcollection.xkaizi_attacker_10684"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
