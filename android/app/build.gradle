@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmovie_download_10644"
+        applicationId "com.appcollection.xvivekanand_global_10645"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
