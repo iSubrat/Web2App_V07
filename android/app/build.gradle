@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcount_your_sips_10725"
+        applicationId "com.appcollection.xmoneymate10726"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
