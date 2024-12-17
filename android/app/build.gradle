@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtv10875"
+        applicationId "com.appcollection.xmedan_cell10877"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
