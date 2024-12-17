@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpartho_mondal_10859"
+        applicationId "com.appcollection.x_bu_saras10857"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
