@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xal_quds_school10819"
+        applicationId "com.appcollection.xmn_world_10824"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
