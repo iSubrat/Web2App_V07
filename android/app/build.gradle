@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbabe9819"
+        applicationId "com.appcollection.xfaciby_online_shopping_app_9816"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
