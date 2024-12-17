@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xserver_panel_public10806"
+        applicationId "com.appcollection.xall_panel_by_vinzz10805"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
