@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjoelushest_10832"
+        applicationId "com.appcollection.xfuture_banking_10834"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
