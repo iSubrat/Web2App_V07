@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xayaan_game_10868"
+        applicationId "com.appcollection.xexcbattle10878"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
