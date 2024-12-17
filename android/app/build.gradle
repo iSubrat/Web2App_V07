@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyanz_panel_private_10864"
+        applicationId "com.appcollection.x_bu_saras10854"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
