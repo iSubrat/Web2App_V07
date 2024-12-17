@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaitraders10802"
+        applicationId "com.appcollection.xansh_math_ai10829"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
