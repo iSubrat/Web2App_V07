@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapli_pmpml_9857"
+        applicationId "com.appcollection.xrps_talanpur_9855"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
