@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvinzzhosting_10809"
+        applicationId "com.appcollection.xsubnetting_calculator10827"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
