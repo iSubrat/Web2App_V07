@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkeybr9772"
+        applicationId "com.appcollection.xladi_mozwa_10890"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
