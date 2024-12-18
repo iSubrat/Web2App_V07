@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfast_food_delivery9307"
+        applicationId "com.appcollection.xmyorange9295"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
