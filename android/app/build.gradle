@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmyorange9295"
+        applicationId "com.appcollection.xgitbook9291"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
