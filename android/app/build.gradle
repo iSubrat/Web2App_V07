@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsay_hello_to_ttcoin_the_cryptocurrency_of_the_fut9413"
+        applicationId "com.appcollection.xninja_nerd9410"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
