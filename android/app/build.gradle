@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjcb9600"
+        applicationId "com.appcollection.xds_kart9599"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
