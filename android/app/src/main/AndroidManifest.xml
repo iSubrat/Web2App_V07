@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="الدراسات الاجتماعيه للصف الخامس الابتدائي "
+        android:label="Amazing deal🤝 (J.T Group)"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
