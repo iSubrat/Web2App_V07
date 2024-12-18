@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xweb_zomato_restaurant_partner_9524"
+        applicationId "com.appcollection.xgoogle_forms_9519"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
