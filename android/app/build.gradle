@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjustmywater9706"
+        applicationId "com.appcollection.xprivat_9910894"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
