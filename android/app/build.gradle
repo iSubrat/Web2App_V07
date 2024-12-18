@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgoogle_forms9356"
+        applicationId "com.appcollection.xgoogle_form_9355"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
