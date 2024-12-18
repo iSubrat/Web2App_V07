@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbike_game_19720"
+        applicationId "com.appcollection.xtrendy_kart_online_store_9717"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
