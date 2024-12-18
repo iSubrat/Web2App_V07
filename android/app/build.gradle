@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgomart_https_nucleapp_com_app_6749f1d2b49c81812a9659"
+        applicationId "com.appcollection.xblackjack9657"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
