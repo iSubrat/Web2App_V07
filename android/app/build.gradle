@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgoogle_forms_9519"
+        applicationId "com.appcollection.xflapping_bird9515"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
