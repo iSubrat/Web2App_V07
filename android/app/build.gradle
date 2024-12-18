@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtalking_doraemon9587"
+        applicationId "com.appcollection.xott_shop9566"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
