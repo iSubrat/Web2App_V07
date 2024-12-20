@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtic_tac_toe10900"
+        applicationId "com.appcollection.xmanoj_english_classes10945"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
