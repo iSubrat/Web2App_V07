@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xquebra_cabe_a_do_the_sims_411135"
+        applicationId "com.appcollection.xpanel_marga_mizuho_mart_express_v3_511063"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
