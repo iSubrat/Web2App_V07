@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpt_tama_hosting_11077"
+        applicationId "com.appcollection.xchaldal_protocall11076"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
