@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanimedekho011095"
+        applicationId "com.appcollection.xpanel_chapboyzz11094"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
