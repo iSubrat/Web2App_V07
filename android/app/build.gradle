@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcabezo_weather_station11093"
+        applicationId "com.appcollection.xmy_git11092"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
