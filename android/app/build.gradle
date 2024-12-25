@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsr_business_real_estate11128"
+        applicationId "com.appcollection.xmovies11129"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
