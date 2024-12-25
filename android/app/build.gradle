@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtic_tac_toe11102"
+        applicationId "com.appcollection.xsnap_buy_11100"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
