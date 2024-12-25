@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsprunki11086"
+        applicationId "com.appcollection.xenglish_learning_app11085"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
