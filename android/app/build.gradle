@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xremover11059"
+        applicationId "com.appcollection.xamargram_app11058"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
