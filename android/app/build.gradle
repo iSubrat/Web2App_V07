@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdaniel_studio_p111056"
+        applicationId "com.appcollection.xjet_juno_cloud11137"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
