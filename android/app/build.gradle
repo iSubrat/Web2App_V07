@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfunny_facts11232"
+        applicationId "com.appcollection.xe_social11012"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
