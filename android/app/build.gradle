@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpocket_money_11027"
+        applicationId "com.appcollection.xqueens_bank11183"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
