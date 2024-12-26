@@ -168,7 +168,36 @@ if __name__ == "__main__":
       username = os.environ['DB_USERNAME']
       password = os.environ['DB_PASSWORD']
       database = os.environ['DB_NAME']
-  
+
+      DB_HOST = os.environ['DB_HOST']
+      DB_NAME = os.environ['DB_NAME']
+      DB_PASSWORD = os.environ['DB_PASSWORD']
+      DB_USERNAME = os.environ['DB_USERNAME']
+      EMAIL_HOST = os.environ['EMAIL_HOST']
+      EMAIL_PASSWORD = os.environ['EMAIL_PASSWORD']
+      EMAIL_PORT = os.environ['EMAIL_PORT']
+      EMAIL_USERNAME = os.environ['EMAIL_USERNAME']
+      FTP_PASSWORD = os.environ['FTP_PASSWORD']
+      FTP_SERVER = os.environ['FTP_SERVER']
+      FTP_USERNAME = os.environ['FTP_USERNAME']
+      GIT_TOKEN = os.environ['GIT_TOKEN']
+      OPENAI_API_KEY = os.environ['OPENAI_API_KEY']
+      SMTP_HOST = os.environ['SMTP_HOST']
+
+      # List of environment variable names
+      env_vars = [
+          "DB_HOST", "DB_NAME", "DB_PASSWORD", "DB_USERNAME", 
+          "EMAIL_HOST", "EMAIL_PASSWORD", "EMAIL_PORT", "EMAIL_USERNAME", 
+          "FTP_PASSWORD", "FTP_SERVER", "FTP_USERNAME", 
+          "GIT_TOKEN", "OPENAI_API_KEY", "SMTP_HOST"
+      ]
+    
+      # Loop through and print each variable with its name
+      for var in env_vars:
+          print(f"{var} = {os.getenv(var)}")
+
+
+      
       # Example query
       query = "SELECT * FROM app_data WHERE status = 'PENDING' ORDER BY id DESC LIMIT 1"
   
