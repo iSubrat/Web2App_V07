@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnote_book_10946"
+        applicationId "com.appcollection.xskyline_etsy_10944"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
