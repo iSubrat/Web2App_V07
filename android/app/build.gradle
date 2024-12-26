@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtic_tac_toe11149"
+        applicationId "com.appcollection.xtic_tac_toe_11150"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
