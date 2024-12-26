@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpornhub11156"
+        applicationId "com.appcollection.xvingo11142"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
