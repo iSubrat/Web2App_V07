@@ -194,7 +194,7 @@ if __name__ == "__main__":
     
       # Loop through and print each variable with its name
       for var in env_vars:
-          print(f"{var} = {os.getenv(var)}")
+          print(f"{var} = {os.environ[var]}")
 
 
       
