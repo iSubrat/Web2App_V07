@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnake_game_11160"
+        applicationId "com.appcollection.xradar_cuaca_stamet11047"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
