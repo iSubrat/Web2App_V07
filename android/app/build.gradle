@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmother_tv11240"
+        applicationId "com.appcollection.x202011241"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
