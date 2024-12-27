@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmyhome11270"
+        applicationId "com.appcollection.xtron8231"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
