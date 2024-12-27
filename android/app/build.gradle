@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmusic_downloader10938"
+        applicationId "com.appcollection.xgr_fica_cmyk_11258"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
