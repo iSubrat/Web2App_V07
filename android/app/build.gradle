@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhuman_detector10848"
+        applicationId "com.appcollection.xakun_github_gue_kontol_11264"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
