@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtow_mater_cars_vs_ligthning_mcqueen_super_hero_car11320"
+        applicationId "com.appcollection.xmonster_truck_mcqueen_lost_media_app_11322"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1

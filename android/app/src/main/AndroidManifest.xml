@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Tow Mater Cars Vs Ligthning McQueen Super Hero Car"
+        android:label="Monster Truck McQueen (Lost Media App)"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
