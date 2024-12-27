@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjogo_de_casal9991"
+        applicationId "com.appcollection.xphotopea9797"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
