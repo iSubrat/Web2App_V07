@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbug_host_by_lee33311316"
+        applicationId "com.appcollection.xrr_bridal_set_11314"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
