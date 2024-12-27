@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyoutube_10933"
+        applicationId "com.appcollection.xlogin_akses_panel10932"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
