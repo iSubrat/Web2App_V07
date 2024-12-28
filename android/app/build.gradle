@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmovie_download11335"
+        applicationId "com.appcollection.xanjum_blog_11337"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
