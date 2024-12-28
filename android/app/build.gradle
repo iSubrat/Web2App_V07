@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnake_wala_game11325"
+        applicationId "com.appcollection.xesdencia11327"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
