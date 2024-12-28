@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x869_tv11356"
+        applicationId "com.appcollection.xfind_buddy_11358"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
