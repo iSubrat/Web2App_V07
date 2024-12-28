@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapple_11384"
+        applicationId "com.appcollection.xstay_highlights11385"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
