@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xberpho11329"
+        applicationId "com.appcollection.xlink_bughost_by_lee33311330"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
