@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlalchand_vishawkarma11388"
+        applicationId "com.appcollection.xpisync11389"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
