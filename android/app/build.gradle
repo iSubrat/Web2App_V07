@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xai11426"
+        applicationId "com.appcollection.xscratch_code_and_fun11428"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
