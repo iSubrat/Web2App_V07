@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xi_am_student11450"
+        applicationId "com.appcollection.xshml11452"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
