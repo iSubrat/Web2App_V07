@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xregistro_emocional_11457"
+        applicationId "com.appcollection.xraju_apps11460"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
