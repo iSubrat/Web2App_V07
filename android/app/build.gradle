@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgera_qr_code11475"
+        applicationId "com.appcollection.xgarena_free_fire11476"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
