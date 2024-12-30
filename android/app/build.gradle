@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgelle_bashir_11499"
+        applicationId "com.appcollection.xvillage_master_dashboard_11500"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
