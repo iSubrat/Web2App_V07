@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xradiobox_web11521"
+        applicationId "com.appcollection.xjobtins_publishing11522"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
