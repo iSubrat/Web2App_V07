@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpterodactyl11489"
+        applicationId "com.appcollection.xfaisal_malik_portal_11491"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
