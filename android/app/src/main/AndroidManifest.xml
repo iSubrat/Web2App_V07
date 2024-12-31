@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Rehan car GTA "
+        android:label="Car R T park"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
