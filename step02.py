@@ -225,7 +225,14 @@ def create_app_configuration(app_name, redirect_url, web_url, app_logo, publishe
                 "image": "https://published.appcollection.in/upload/tabs/web2app.png",
                 "url": "https://web2app.appcollection.in/web2app_promo.html",
                 "status": "1"
-              }
+              },
+              {
+                "id": "2",
+                "title": "Earn Money",
+                "image": "https://icons.veryicon.com/png/o/miscellaneous/template-4/make-money.png",
+                "url": "https://web2app.appcollection.in/V08/referral_honeygain.html",
+                "status": "1"
+              },
             ]
         }, indent=4)
     return content
