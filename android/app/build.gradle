@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xblack_lem_ac_mechanical_and_engineering11635"
+        applicationId "com.appcollection.xdronacharya11636"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
