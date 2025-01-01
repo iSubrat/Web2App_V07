@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtic_tac_toc_game_11622"
+        applicationId "com.appcollection.xbuckshot_roulette_11624"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
