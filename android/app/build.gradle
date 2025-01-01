@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgemini11617"
+        applicationId "com.appcollection.xplaysure_11618"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
