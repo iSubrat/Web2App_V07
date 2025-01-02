@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xea_control_11672"
+        applicationId "com.appcollection.xert_rt03_pda711673"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
