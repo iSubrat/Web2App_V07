@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbeckyapp_11767"
+        applicationId "com.appcollection.xporn_hub11768"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
