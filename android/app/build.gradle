@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xweb2apk11759"
+        applicationId "com.appcollection.xdeepseek11761"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
