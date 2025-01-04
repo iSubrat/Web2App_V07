@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhacche_11815"
+        applicationId "com.appcollection.xbetunity_11817"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
