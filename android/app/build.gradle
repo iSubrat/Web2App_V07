@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsant_kabir_school_admin11807"
+        applicationId "com.appcollection.xapk_panel_by_calvindev_11808"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
