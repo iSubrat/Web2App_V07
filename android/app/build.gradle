@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xddlc_spanish_club_11776"
+        applicationId "com.appcollection.xkebumenride11777"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
