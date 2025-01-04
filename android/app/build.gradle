@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmytymejobs11830"
+        applicationId "com.appcollection.xlemino11831"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
