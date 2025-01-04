@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrene_bot11794"
+        applicationId "com.appcollection.xmohit_baman11795"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
