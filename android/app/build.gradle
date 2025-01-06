@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xappetize11938"
+        applicationId "com.appcollection.xlloyd_tech11939"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
