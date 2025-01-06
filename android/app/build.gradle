@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanel_impacta11919"
+        applicationId "com.appcollection.xma_muda_211921"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
