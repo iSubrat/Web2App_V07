@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfree_seo_tools11946"
+        applicationId "com.appcollection.xrajnish_joshi_e_commers11947"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
