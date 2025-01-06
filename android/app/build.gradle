@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_11964"
+        applicationId "com.appcollection.xles_luminaires_de_l_espoir_11965"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
