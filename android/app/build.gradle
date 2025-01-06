@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlms_gdc_anantnag_11927"
+        applicationId "com.appcollection.xpiccraft11929"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
