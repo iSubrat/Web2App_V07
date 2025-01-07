@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xroblox_studio11988"
+        applicationId "com.appcollection.xkobo_store11989"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
