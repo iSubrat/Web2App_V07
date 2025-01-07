@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmisaxd11975"
+        applicationId "com.appcollection.xrajnish_joshi_hacker11977"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
