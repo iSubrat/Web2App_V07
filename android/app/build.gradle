@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchat_app_by_mehaan779912010"
+        applicationId "com.appcollection.xano12011"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
