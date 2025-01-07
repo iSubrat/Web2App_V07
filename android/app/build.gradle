@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbinancecheat_12016"
+        applicationId "com.appcollection.xbackground_remover_bg12019"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
