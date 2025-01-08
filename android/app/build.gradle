@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgrs_mobile12091"
+        applicationId "com.appcollection.xapp_domicilios12092"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
