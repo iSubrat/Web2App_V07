@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbasic_computer_training_12037"
+        applicationId "com.appcollection.xsrr_pickels_12039"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
