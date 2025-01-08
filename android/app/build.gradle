@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhianime12027"
+        applicationId "com.appcollection.xlove_lucy12028"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
