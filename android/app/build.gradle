@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xblock_puzzle_adventure12118"
+        applicationId "com.appcollection.xprffnl12119"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
