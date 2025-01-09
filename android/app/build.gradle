@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xroad_warrior_12094"
+        applicationId "com.appcollection.xssstiktok12095"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
