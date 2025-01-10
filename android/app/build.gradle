@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xraja_kumar12138"
+        applicationId "com.appcollection.xsms_boomer_app_12141"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
