@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnsbiller12184"
+        applicationId "com.appcollection.xmydiary12185"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
