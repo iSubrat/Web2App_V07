@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrmshs12202"
+        applicationId "com.appcollection.xai_video_eaditor12203"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
