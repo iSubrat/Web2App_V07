@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdasboard_app_smart_services_12209"
+        applicationId "com.appcollection.xdasboard_app_smart_services_12210"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
