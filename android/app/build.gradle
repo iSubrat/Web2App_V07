@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xicloud12254"
+        applicationId "com.appcollection.xedb_sri_lanka_12255"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
