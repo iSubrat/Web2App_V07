@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xweather12282"
+        applicationId "com.appcollection.xwin_eh12283"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
