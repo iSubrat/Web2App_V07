@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xonime12268"
+        applicationId "com.appcollection.xgrani_nime12270"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
