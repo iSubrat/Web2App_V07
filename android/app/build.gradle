@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xextrapopusti12318"
+        applicationId "com.appcollection.xjojo_game_212319"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
