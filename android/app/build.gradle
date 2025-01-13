@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgs12345"
+        applicationId "com.appcollection.xome_tv12347"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
