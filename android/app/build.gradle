@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xoddspedia12288"
+        applicationId "com.appcollection.xnotes_share_12289"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
