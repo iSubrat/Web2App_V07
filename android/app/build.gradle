@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsprunki_pyramixed_12324"
+        applicationId "com.appcollection.xsuper_cena_rs12325"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
