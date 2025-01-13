@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtheworkland12315"
+        applicationId "com.appcollection.xsuntik_sosmed_by_kejaa_store12316"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
