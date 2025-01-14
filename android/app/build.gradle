@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrpg_12409"
+        applicationId "com.appcollection.xanime_dekho_12410"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
