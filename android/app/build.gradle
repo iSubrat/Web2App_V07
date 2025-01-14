@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xm_asad12398"
+        applicationId "com.appcollection.xthe_teams_cubes_battle12400"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
