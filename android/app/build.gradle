@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmotores12393"
+        applicationId "com.appcollection.xemi_calculator12395"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
