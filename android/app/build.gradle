@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcure_connect_12430"
+        applicationId "com.appcollection.xpw_jarvis12431"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
