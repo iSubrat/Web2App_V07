@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmtch_live12421"
+        applicationId "com.appcollection.xall_ai_hub12422"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
