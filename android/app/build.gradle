@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpw_udaan_12468"
+        applicationId "com.appcollection.xdino_game12470"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
