@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Invoice Generator "
+        android:label="Zee5 𝕽𝖆𝖏𝖗𝖆𝖓𝖎"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
