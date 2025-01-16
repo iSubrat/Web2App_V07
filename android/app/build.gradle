@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfun_bible12488"
+        applicationId "com.appcollection.xzoya_tic_tac12489"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
