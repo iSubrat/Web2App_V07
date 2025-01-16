@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfranz_ziehut_12496"
+        applicationId "com.appcollection.xtravel_tracker_track_your_trip12497"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
