@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xisaidub_tamil_movies12575"
+        applicationId "com.appcollection.xanchorhub_12577"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
