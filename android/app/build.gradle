@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmg_store12588"
+        applicationId "com.appcollection.xpanel_private_kaizen12589"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
