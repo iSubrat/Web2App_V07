@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtushargowda_12650"
+        applicationId "com.appcollection.xwi_fi12652"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
