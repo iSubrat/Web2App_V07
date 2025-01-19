@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfindr_recover_your_lost_items_easily_12648"
+        applicationId "com.appcollection.xfch_production12649"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
