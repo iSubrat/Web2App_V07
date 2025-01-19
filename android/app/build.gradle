@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfoundation_donetion_12626"
+        applicationId "com.appcollection.xnuestro_2_mes12627"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
