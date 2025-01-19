@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xavneesh12630"
+        applicationId "com.appcollection.xrisu_ai_12632"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
