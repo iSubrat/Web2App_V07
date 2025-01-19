@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_money12644"
+        applicationId "com.appcollection.xmaimai12646"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
