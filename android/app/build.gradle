@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmoviebox12643"
+        applicationId "com.appcollection.xmy_money12644"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
