@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcanva_pro12681"
+        applicationId "com.appcollection.xboltai_webappmaking_12682"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
