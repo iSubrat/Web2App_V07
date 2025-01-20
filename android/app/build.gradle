@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbioskopbyalex12698"
+        applicationId "com.appcollection.xlowlife_tourneys12700"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
