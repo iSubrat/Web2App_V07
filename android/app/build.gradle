@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnvsk_vnanet12723"
+        applicationId "com.appcollection.xrikoepayment12724"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
