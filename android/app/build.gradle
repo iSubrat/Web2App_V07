@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeretribusi_loket12680"
+        applicationId "com.appcollection.xcanva_pro12681"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
