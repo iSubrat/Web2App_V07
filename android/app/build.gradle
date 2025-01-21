@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbd_panel_top_admin12744"
+        applicationId "com.appcollection.xadventure_of_mario12745"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
