@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmuchos_juegos_1001_12762"
+        applicationId "com.appcollection.xtreaure_usdt12763"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
