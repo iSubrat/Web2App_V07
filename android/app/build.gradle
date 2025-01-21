@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbig_bull_12732"
+        applicationId "com.appcollection.xtap_2_win_12733"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
