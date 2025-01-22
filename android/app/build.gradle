@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlottery_king_12809"
+        applicationId "com.appcollection.xpanel_private_kaizen12810"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
