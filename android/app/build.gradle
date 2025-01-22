@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xabsensi_rs_hasto12784"
+        applicationId "com.appcollection.xyou12785"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
