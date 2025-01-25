@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnake_game12934"
+        applicationId "com.appcollection.xyana_art_gallery_12935"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
