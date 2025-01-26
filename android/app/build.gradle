@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xclideo_video_trimmer_app12976"
+        applicationId "com.appcollection.xmighty_max_rap12978"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
