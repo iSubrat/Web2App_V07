@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xai_studio12962"
+        applicationId "com.appcollection.xsuper_agente_12964"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
