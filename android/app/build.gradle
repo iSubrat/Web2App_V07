@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xxvideo13037"
+        applicationId "com.appcollection.xai_resume_analyzer13039"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
