@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbraflix13066"
+        applicationId "com.appcollection.xea_play13067"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
