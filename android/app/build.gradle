@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanel_bot_whatsapp13095"
+        applicationId "com.appcollection.xairwave_hotspot13096"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
