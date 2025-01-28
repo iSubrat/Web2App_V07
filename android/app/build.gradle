@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xindia_law_library13083"
+        applicationId "com.appcollection.xindia_law_library13084"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
