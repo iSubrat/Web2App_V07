@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkalkulator_elife_proteksi12829"
+        applicationId "com.appcollection.xapk_panel_by_calvin_12830"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
