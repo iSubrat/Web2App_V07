@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsensor13126"
+        applicationId "com.appcollection.xg_stemappe13127"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
