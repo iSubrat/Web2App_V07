@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjarvis12827"
+        applicationId "com.appcollection.xsportrader_demo12828"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
