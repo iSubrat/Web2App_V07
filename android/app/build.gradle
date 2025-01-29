@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xg_rance_plus_techgn12806"
+        applicationId "com.appcollection.xtechgn_g_rance_plus12807"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
