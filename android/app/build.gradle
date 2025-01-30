@@ -36,9 +36,9 @@ android {
     signingConfigs {
         release {
             keyAlias 'key0'
-            keyPassword 'iSyncContacts'
-            storeFile file('./isync_contacts_key.jks')
-            storePassword 'iSyncContacts'
+            keyPassword 'Web2App'
+            storeFile file('./key.jks')
+            storePassword 'Web2App'
         }
     }
     buildTypes {
