@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjuma12868"
+        applicationId "com.appcollection.xfmailsingle12869"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
