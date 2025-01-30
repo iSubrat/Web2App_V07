@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcar_and_driver12894"
+        applicationId "com.appcollection.xwrc12895"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
