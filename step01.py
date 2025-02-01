@@ -98,7 +98,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
     
             # Open the file in write mode and write the updated data
             with open('app_id.txt', 'w') as file:
-                file.write(id)
+                file.write(str(id))
             
             # Update the status column to "Updated"
             update_query = "UPDATE app_data SET status = 'BUILDING', status_updated_at = NOW() WHERE id = %s"
