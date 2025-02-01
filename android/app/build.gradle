@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.web2app_pro"
+        applicationId "com.appcollection.xhacker_calculator_13349"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
