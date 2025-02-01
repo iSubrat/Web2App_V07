@@ -76,9 +76,15 @@ if __name__ == "__main__":
     password = os.environ['DB_PASSWORD']
     database = os.environ['DB_NAME']
 
-    with open('app_id.txt', 'r') as file:
-        app_id = int(file.readline())
-
+    try:
+      with open('app_id.txt', 'r') as file:
+        app_id = file.readline().strip()  # Remove extra spaces and newlines
+        app_id = int(app_id)  # Convert to integer
+        print("App ID:", app_id)
+    except FileNotFoundError:
+      print("Error: 'app_id.txt' not found.")
+    except ValueError:
+      print("Error: Invalid content in 'app_id.txt'. Expected an integer.")
 
     # Example query
     query = f"SELECT * FROM app_data WHERE id = {app_id}"
