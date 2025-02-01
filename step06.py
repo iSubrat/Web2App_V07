@@ -3,6 +3,7 @@ from ftplib import FTP
 import sys
 import os
 import re
+import requests
 
 def execute_query(db_host, db_username, db_password, db_database, query):
     global appname
@@ -75,8 +76,19 @@ if __name__ == "__main__":
     password = os.environ['DB_PASSWORD']
     database = os.environ['DB_NAME']
 
+    url = "https://raw.githubusercontent.com/iSubrat/Web2App_V07/refs/heads/main/aab_counter.txt"
+    
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        app_id = response.text
+        print(app_id)  # Output the text content
+    else:
+        print("Failed to fetch the data")
+
+
     # Example query
-    query = "SELECT * FROM app_data WHERE status = 'BUILDING' ORDER BY id DESC LIMIT 1"
+    query = f"SELECT * FROM app_data WHERE id = {app_id}"
 
     # Execute the query
     execute_query(host, username, password, database, query)
