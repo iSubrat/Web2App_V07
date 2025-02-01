@@ -76,15 +76,8 @@ if __name__ == "__main__":
     password = os.environ['DB_PASSWORD']
     database = os.environ['DB_NAME']
 
-    url = "https://raw.githubusercontent.com/iSubrat/Web2App_V07/refs/heads/main/aab_counter.txt"
-    
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        app_id = response.text
-        print(app_id)  # Output the text content
-    else:
-        print("Failed to fetch the data")
+    with open('app_id.txt', 'r') as file:
+        app_id = int(file.readline())
 
 
     # Example query
