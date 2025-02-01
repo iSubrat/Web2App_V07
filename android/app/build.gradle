@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmake_travel_easy_13300"
+        applicationId "com.appcollection.xpak_xal_a13354"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
