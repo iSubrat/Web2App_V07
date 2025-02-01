@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xraheel_software_13330"
+        applicationId "com.appcollection.xedificio_inteligente13331"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
