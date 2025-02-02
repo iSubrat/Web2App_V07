@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbutterfly_game_13422"
+        applicationId "com.appcollection.xquem_ai13423"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
