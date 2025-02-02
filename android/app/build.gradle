@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsoofarhost13373"
+        applicationId "com.appcollection.xfor_you_h13374"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
