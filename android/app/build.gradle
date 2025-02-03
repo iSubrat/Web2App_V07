@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xactive_spreadsheet_13435"
+        applicationId "com.appcollection.xmath_tutor_13436"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
