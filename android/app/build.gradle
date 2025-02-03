@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xt_puzzle_13458"
+        applicationId "com.appcollection.xgoogle_colab13459"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
