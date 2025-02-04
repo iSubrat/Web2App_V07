@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvitanova13478"
+        applicationId "com.appcollection.xfama_mundial13479"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
