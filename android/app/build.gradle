@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xperchance13480"
+        applicationId "com.appcollection.xjayanta_scanner_13481"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
