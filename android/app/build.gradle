@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xraj_mega_mart_13602"
+        applicationId "com.appcollection.xsnake_game13603"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
