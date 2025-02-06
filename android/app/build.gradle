@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xraksha_store_13577"
+        applicationId "com.appcollection.xvirtual_radar_server13578"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
