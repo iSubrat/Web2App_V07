@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmarket_nft13594"
+        applicationId "com.appcollection.x55_club_vip13595"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
