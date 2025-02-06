@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlinkeldin13562"
+        applicationId "com.appcollection.xonlymathsmlranwa13563"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
