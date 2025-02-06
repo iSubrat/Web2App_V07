@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x55_club_vip13595"
+        applicationId "com.appcollection.xkavindra_service_13596"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
