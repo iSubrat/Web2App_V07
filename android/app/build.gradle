@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xxsl_to_html13570"
+        applicationId "com.appcollection.xsilsila13571"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
