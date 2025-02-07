@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xverify_id13633"
+        applicationId "com.appcollection.xcozer_app13634"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
