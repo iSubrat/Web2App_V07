@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhubbell13614"
+        applicationId "com.appcollection.xshop_lite13615"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
