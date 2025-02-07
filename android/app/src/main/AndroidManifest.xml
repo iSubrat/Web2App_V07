@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="PDAMLINK"
+        android:label="𝐏𝐇𝐘𝐒𝐈𝐂𝐒 𝐁𝐘 𝐒𝐊"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
