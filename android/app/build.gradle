@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xradzz13640"
+        applicationId "com.appcollection.xe_kokurikulum_smkp13641"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
