@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaudio_recorder_by_ananya_13723"
+        applicationId "com.appcollection.xquanta_bd13724"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
