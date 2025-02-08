@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcanales_externos_app_13688"
+        applicationId "com.appcollection.xpanel_dipra_storee13691"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
