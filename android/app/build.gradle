@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcinema_13746"
+        applicationId "com.appcollection.xdeadshot_io13747"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
