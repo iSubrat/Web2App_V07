@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwatch_with_rohit_13760"
+        applicationId "com.appcollection.xdreamers13761"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
