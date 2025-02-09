@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrosebud_ai13740"
+        applicationId "com.appcollection.xpe_as_zip13741"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
