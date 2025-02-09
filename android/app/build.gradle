@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrkd_health13788"
+        applicationId "com.appcollection.xpiratenteam_de_oudijzerboer13789"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
