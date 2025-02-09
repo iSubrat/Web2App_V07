@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtictoe_13782"
+        applicationId "com.appcollection.xbus13783"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
