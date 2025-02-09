@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xred_light_green_light_game_13750"
+        applicationId "com.appcollection.xmy_shop13753"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
