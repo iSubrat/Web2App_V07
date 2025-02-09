@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpterodactyl13787"
+        applicationId "com.appcollection.xrkd_health13788"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
