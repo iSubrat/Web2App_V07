@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdemo_web_komunitas13791"
+        applicationId "com.appcollection.xtimer_frein13792"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
