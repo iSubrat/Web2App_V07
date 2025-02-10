@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlembab13807"
+        applicationId "com.appcollection.xtextnexqrscanner13808"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
