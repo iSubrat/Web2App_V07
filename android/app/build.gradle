@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapk_modes_202513798"
+        applicationId "com.appcollection.xmonster_escape_v113799"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
