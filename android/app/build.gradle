@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpronouns_cc13831"
+        applicationId "com.appcollection.xnakshatralink_13832"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
