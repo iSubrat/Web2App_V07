@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnakshatralink_13832"
+        applicationId "com.appcollection.xmulheres_unidas_13833"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
