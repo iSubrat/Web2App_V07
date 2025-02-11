@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xplanet_weight_converter_13846"
+        applicationId "com.appcollection.xfit_tracker13847"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
