@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprins_image_compressor13917"
+        applicationId "com.appcollection.xtownscaper_13920"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
