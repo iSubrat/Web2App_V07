@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsteam_store13915"
+        applicationId "com.appcollection.xm_c_q_s_game13916"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
