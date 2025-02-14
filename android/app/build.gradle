@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsoil_moisture_14007"
+        applicationId "com.appcollection.xrajflix14008"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
