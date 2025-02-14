@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanimet13988"
+        applicationId "com.appcollection.xebee_toolkit13990"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
