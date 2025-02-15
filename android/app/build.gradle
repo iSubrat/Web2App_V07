@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnexvolt14044"
+        applicationId "com.appcollection.xicloud14045"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
