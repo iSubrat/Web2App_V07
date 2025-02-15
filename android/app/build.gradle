@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdlpsgame14096"
+        applicationId "com.appcollection.xappcollection_in14098"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
