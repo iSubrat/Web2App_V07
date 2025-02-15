@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xphysics_playground14091"
+        applicationId "com.appcollection.xphysics_playground_14092"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
