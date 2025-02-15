@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkripto_team_14055"
+        applicationId "com.appcollection.xairplanes_notes_14056"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
