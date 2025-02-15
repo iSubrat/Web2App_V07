@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvlex14069"
+        applicationId "com.appcollection.xestatexchange14070"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
