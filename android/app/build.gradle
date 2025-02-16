@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlogin_panel_by_lannv1_14104"
+        applicationId "com.appcollection.x_14105"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
