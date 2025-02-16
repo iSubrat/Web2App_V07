@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchattune14102"
+        applicationId "com.appcollection.xlogin_panel_by_lannv1_14104"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
