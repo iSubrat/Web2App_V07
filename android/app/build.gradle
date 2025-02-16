@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfutbol14132"
+        applicationId "com.appcollection.xcar_super_kings_14134"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
