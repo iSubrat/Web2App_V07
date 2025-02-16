@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdaman_fun_app14117"
+        applicationId "com.appcollection.xzippy_14119"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
