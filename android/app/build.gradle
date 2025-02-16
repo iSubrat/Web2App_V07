@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpertamia14106"
+        applicationId "com.appcollection.xdeadshot14107"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
