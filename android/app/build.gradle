@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xudemy14110"
+        applicationId "com.appcollection.xpanel_synzx14111"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
