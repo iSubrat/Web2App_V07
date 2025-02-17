@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyoutube_downloader_4k14192"
+        applicationId "com.appcollection.xzikir_master14193"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
