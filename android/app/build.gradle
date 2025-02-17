@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgrammar_for_you14214"
+        applicationId "com.appcollection.xrayan14216"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
