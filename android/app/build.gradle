@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrudil_sales_ref14187"
+        applicationId "com.appcollection.xsales_rep_login_new14188"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
