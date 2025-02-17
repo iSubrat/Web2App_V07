@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsistemcir14164"
+        applicationId "com.appcollection.xpaisaa_14165"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
