@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xxo_game14197"
+        applicationId "com.appcollection.xenergi_play_14198"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
