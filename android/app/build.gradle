@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfilm_izle14209"
+        applicationId "com.appcollection.xkhanacademy_org14210"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
