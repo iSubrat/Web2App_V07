@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xradheexch_apk14213"
+        applicationId "com.appcollection.xgrammar_for_you14214"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
