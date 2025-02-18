@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmobione14264"
+        applicationId "com.appcollection.xrusuh_ga_berkah_14265"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
