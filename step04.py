@@ -123,7 +123,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             print("Connected to MySQL database")
 
         # Create a cursor object
-        cursor = connection.cursor()
+        cursor = connection.cursor(dictionary=True)
 
         # Execute the query
         cursor.execute(query)
@@ -133,13 +133,13 @@ def execute_query(db_host, db_username, db_password, db_database, query):
 
         # Print the rows
         if row:
-          id = row[0]
-          appname = row[1]
+          id = row["id"]
+          appname = row["app_name"]
           pattern = re.compile(r'[^a-zA-Z0-9_]')
-          appname_link = str(id).zfill(4) + '_' + pattern.sub('', row[1]) + '.apk'
-          username = row[3]
-          recipient_email = row[5]
-          app_logo = row[6]
+          appname_link = str(id).zfill(4) + '_' + pattern.sub('', row["app_name"]) + '.apk'
+          username = row["user_name"]
+          recipient_email = row["email_address"]
+          app_logo = row["app_logo_name"]
           
           try:
               if len(app_logo)>5:
