@@ -40,7 +40,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             print("Connected to MySQL database")
 
         # Create a cursor object
-        cursor = connection.cursor()
+        cursor = connection.cursor(dictionary=True)
 
         # Execute the query
         cursor.execute(query)
@@ -50,17 +50,17 @@ def execute_query(db_host, db_username, db_password, db_database, query):
 
         # Print the rows
         if row:
-            id = row[0]
-            app_name = row[1]
-            web_url = row[2]
-            username = row[3]
-            email_address = row[5]
-            app_logo_name = row[6]
-            package_name = row[18]
-            if len(row[15])<10:
+            id = row["id"]
+            app_name = row["app_name"]
+            web_url = row["website_url"]
+            username = row["user_name"]
+            email_address = row["email_address"]
+            app_logo_name = row["app_logo_name"]
+            package_name = row["package_name"]
+            if len(row["admob_app_id"])<10:
                 admob_app_id = 'ca-app-pub-3940256099942544~3347511713'
             else:
-                admob_app_id = row[15]
+                admob_app_id = row["admob_app_id"]
             if len(package_name)<5:
                 package_name = to_package_name(app_name, id)
             print(id, app_name, web_url, username, email_address)
