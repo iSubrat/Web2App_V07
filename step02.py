@@ -105,7 +105,7 @@ def execute_query(db_host, db_username, db_password, db_database, query):
             print("Connected to MySQL database")
 
         # Create a cursor object
-        cursor = connection.cursor()
+        cursor = connection.cursor(dictionary=True)
 
         # Execute the query
         cursor.execute(query)
@@ -115,12 +115,12 @@ def execute_query(db_host, db_username, db_password, db_database, query):
 
         # Print the rows
         if row:
-            id = row[0]
-            app_name = row[1]
+            id = row["id"]
+            app_name = row["app_name"]
             redirect_url = f'http://web2app.appcollection.in/V08/redirect.php?id={id}'
-            web_url = row[2]
-            app_logo = f'https://appcollection.in/InstantWeb2App/V08/uploads/{row[6]}'
-            published = row[16]
+            web_url = row["website_url"]
+            app_logo = f'https://appcollection.in/InstantWeb2App/V08/uploads/{row["app_logo_name"]}'
+            published = row["published"]
             print('Debug B: ', id, app_name, redirect_url, web_url)
 
             while cursor.nextset():
