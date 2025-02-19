@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfacebook_14292"
+        applicationId "com.appcollection.xnishant_spaceshooter_beta_14293"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
