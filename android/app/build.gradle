@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdraw_and_calculate_14346"
+        applicationId "com.appcollection.xi_get_news14347"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
