@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xi_get_news14347"
+        applicationId "com.appcollection.xnaavinya_holidays14348"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
