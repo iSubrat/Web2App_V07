@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsenhas_sicoob14338"
+        applicationId "com.appcollection.xvallromanes_rackets_14339"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
