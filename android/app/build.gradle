@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xswitch14332"
+        applicationId "com.appcollection.xan1_com14334"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
