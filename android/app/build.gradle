@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnokos_by_lannv1_14349"
+        applicationId "com.appcollection.xminecraft14351"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
