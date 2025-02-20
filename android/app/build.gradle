@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlugachanger14396"
+        applicationId "com.appcollection.xk_llemi_b_r_lat14397"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
