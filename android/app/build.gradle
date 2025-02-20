@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfille_converter14389"
+        applicationId "com.appcollection.xmy_sms14392"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
