@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpenguin_film_14406"
+        applicationId "com.appcollection.xpenguin_chill14407"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
