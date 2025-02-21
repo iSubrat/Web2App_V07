@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhemal_lanka14455"
+        applicationId "com.appcollection.xind_black_store_14457"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
