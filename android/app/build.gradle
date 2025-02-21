@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcita_verif_edomex_14424"
+        applicationId "com.appcollection.xtenencias_edomex_14426"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
