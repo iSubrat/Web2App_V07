@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpoki14442"
+        applicationId "com.appcollection.xminigame14443"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
