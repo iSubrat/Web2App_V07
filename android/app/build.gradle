@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmutyaba_udp_activator_14461"
+        applicationId "com.appcollection.xyo14463"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
