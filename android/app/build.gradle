@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyo14463"
+        applicationId "com.appcollection.xfootball_defense14464"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
