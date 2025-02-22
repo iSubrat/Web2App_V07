@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xplaylist_mp314545"
+        applicationId "com.appcollection.xfile_converter_14547"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
