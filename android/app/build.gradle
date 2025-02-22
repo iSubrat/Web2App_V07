@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpainel_uni14548"
+        applicationId "com.appcollection.xibo_revenda14549"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
