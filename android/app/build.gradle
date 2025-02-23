@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnowgg_t_14574"
+        applicationId "com.appcollection.xapp_de_gastos_14575"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
