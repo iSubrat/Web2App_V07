@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgeneratore_di_bestemmie_14582"
+        applicationId "com.appcollection.xtroverstar_14584"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
