@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyu_gi_oh_dueling_nexus14594"
+        applicationId "com.appcollection.xzakaria14595"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
