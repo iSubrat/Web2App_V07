@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlcd_connector_14592"
+        applicationId "com.appcollection.xyu_gi_oh_dueling_nexus14594"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
