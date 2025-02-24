@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnvsk_vnanet_14618"
+        applicationId "com.appcollection.xncert_all_books14619"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
