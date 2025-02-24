@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfilm_cehennemi_14643"
+        applicationId "com.appcollection.xmeta_al_14644"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
