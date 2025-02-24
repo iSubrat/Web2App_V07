@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfruity_blox14617"
+        applicationId "com.appcollection.xnvsk_vnanet_14618"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
