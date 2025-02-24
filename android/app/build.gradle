@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtharu_amin_ram_tools14620"
+        applicationId "com.appcollection.xgreysim14621"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
