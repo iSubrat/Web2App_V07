@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcaisse14604"
+        applicationId "com.appcollection.xcalculacarbo14605"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
