@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbooksky14713"
+        applicationId "com.appcollection.xanime_moment_14715"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
