@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspeedtest_custom14701"
+        applicationId "com.appcollection.xfalinq14702"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
