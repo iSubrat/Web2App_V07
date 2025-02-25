@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdanger_world_14676"
+        applicationId "com.appcollection.xanime_dekho14677"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
