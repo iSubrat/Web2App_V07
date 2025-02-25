@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnakezone14707"
+        applicationId "com.appcollection.xxrpower14709"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
