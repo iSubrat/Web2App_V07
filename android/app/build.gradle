@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_14663"
+        applicationId "com.appcollection.xcarrom_clash14664"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
