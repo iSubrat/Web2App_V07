@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkemono14731"
+        applicationId "com.appcollection.xpocinti14732"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
