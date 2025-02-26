@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xugphen14738"
+        applicationId "com.appcollection.xak_anime14740"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
