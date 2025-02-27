@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkaustubh_biodata14780"
+        applicationId "com.appcollection.xwater_sort_puzzle_14781"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
