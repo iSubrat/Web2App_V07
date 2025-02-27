@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xphaphra_smm_panel14770"
+        applicationId "com.appcollection.xphone_pay_14771"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
