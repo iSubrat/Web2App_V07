@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xflyzel14769"
+        applicationId "com.appcollection.xphaphra_smm_panel14770"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
