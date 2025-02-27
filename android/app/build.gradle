@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlemu_chats14826"
+        applicationId "com.appcollection.xjojoe14829"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
