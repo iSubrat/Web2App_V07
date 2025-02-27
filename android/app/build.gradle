@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlogic_gate_simulator_14804"
+        applicationId "com.appcollection.xrocket_rush14807"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
