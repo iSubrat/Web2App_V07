@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtic_tac_tio_game_14792"
+        applicationId "com.appcollection.xislam_forever_14793"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
