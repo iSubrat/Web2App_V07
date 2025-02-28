@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_ai_ninja_by_maestro_frenlin_lekatompessy14902"
+        applicationId "com.appcollection.xdzphysics14903"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
