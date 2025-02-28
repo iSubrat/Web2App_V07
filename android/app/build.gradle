@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcbase_atd14871"
+        applicationId "com.appcollection.xtomosha_uz14872"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
