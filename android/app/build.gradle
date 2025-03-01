@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrecetas14912"
+        applicationId "com.appcollection.xgt_pro_gaming_hub14913"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
