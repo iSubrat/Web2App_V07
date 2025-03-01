@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xland_registry_fee_calculator14957"
+        applicationId "com.appcollection.xmm00_cassino_ganha_dinheiro_de_grasa14959"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
