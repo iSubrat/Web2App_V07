@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanel_dir_wa14944"
+        applicationId "com.appcollection.xadp_arya14945"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
