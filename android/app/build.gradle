@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xafyona_magek14977"
+        applicationId "com.appcollection.xawais_ai14978"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
