@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xportfolio14996"
+        applicationId "com.appcollection.xqueen_2_5_ai14997"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
