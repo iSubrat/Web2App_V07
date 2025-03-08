@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrusuh_mudahan_ga_berkah_15025"
+        applicationId "com.appcollection.xletshare_15026"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
