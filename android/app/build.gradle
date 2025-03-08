@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfetlife15002"
+        applicationId "com.appcollection.xrule_3415004"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
