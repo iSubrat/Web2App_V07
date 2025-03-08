@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbindrs15081"
+        applicationId "com.appcollection.xmessari_analisis_fundamental_15083"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
