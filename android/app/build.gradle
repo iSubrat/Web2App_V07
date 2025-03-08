@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwaqua15035"
+        applicationId "com.appcollection.x_15036"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
