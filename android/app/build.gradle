@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_tick_tae_toe_15134"
+        applicationId "com.appcollection.xss_form15135"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
