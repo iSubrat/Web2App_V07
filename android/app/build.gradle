@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfree_20gb_mtn_airtel15158"
+        applicationId "com.appcollection.x1win15159"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
