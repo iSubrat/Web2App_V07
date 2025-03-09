@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xital_player15143"
+        applicationId "com.appcollection.xstopwatch_lite_and_simple_15145"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
