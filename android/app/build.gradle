@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xss_form15135"
+        applicationId "com.appcollection.xmaruthi_15138"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
