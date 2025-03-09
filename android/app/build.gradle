@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgoogle_partner_advantage15107"
+        applicationId "com.appcollection.xdigitalskdh15110"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
