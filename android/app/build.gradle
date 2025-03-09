@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsimpolpraja_kbb15164"
+        applicationId "com.appcollection.xhabit_tracker15165"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
