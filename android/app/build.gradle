@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsuno15171"
+        applicationId "com.appcollection.xabsen_dinas_pendidikan_15172"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
