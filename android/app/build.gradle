@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwatch_online15185"
+        applicationId "com.appcollection.xgrafico_x15186"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
