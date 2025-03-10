@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcheapatsmm15221"
+        applicationId "com.appcollection.xplabon_cut15224"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
