@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprintout_bazaar_15321"
+        applicationId "com.appcollection.xoberneukirchen_de15322"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
