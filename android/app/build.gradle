@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpdf_maker_yashraj_jadhav15294"
+        applicationId "com.appcollection.xrimbahub15296"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
