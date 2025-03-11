@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbakesbangpol_pulpis15290"
+        applicationId "com.appcollection.xfire_apk15291"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
