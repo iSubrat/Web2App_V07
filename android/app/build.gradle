@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xidime15398"
+        applicationId "com.appcollection.xest_tica_rita_sinval15399"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
