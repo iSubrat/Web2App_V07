@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanchtantra_playhouse15368"
+        applicationId "com.appcollection.xhotshopoffer15370"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
