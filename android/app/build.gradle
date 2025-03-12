@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpor_ne_15419"
+        applicationId "com.appcollection.xporn_ne_15420"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
