@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprivate15450"
+        applicationId "com.appcollection.xfaraz_ali15452"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
