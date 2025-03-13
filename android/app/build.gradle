@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtv_plus_15463"
+        applicationId "com.appcollection.xtic_tac_toe15464"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
