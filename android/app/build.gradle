@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_chatbot15505"
+        applicationId "com.appcollection.xjms15506"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
