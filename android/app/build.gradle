@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadbtc_ptc_ads_15533"
+        applicationId "com.appcollection.xgatekeeper_15535"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
