@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xglobal_success_hub_15557"
+        applicationId "com.appcollection.xfire_grow_15559"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
