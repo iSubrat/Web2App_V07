@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmanga_livre15565"
+        applicationId "com.appcollection.xtaschenrechner_15566"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
