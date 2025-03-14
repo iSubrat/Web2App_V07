@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtommy_ai_assistant_15537"
+        applicationId "com.appcollection.xhttps_smmbonus_online_15538"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
