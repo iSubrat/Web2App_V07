@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhttps_smmbonus_online_15538"
+        applicationId "com.appcollection.xmanus_ai_agent_15542"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
