@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xah_water_puzz15602"
+        applicationId "com.appcollection.xmeteotouch_15603"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
