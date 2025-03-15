@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Griot"
+        android:label="𝗫𝗚𝗟𝗨𝗭 🥵🔥(✖✖✖)"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
