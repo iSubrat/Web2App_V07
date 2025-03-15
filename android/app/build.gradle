@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xportfolio_15589"
+        applicationId "com.appcollection.xcapcut_shihab_15590"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
