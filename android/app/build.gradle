@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvidhik_shiksha15721"
+        applicationId "com.appcollection.xcarboncraft_team15722"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
