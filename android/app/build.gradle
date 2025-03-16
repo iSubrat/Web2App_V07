@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbumdes_dewata_prima15746"
+        applicationId "com.appcollection.xtest15747"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
