@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkuldhara_the_cursed_village_15743"
+        applicationId "com.appcollection.xdewata_prima15744"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
