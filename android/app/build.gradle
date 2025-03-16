@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyoutube_downloader_15686"
+        applicationId "com.appcollection.xvideo_slide_extractor15688"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
