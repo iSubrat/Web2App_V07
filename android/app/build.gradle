@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyour_photos15799"
+        applicationId "com.appcollection.xskumancer_weather15800"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
