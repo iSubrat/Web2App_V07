@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="𝙵𝚛𝚎𝚎 𝙰𝚗𝚘𝚗𝚢𝚖𝚘𝚞𝚜 𝙱𝚛𝚘𝚠𝚜𝚎𝚛"
+        android:label="Softlyte"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
