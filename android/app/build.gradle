@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfichapp15773"
+        applicationId "com.appcollection.xrohit_rai15775"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
