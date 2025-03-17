@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xarabian_grill_and_fry_15810"
+        applicationId "com.appcollection.xelite_delivery_15811"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
