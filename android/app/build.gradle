@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelantra15833"
+        applicationId "com.appcollection.xraw_pixel15834"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
