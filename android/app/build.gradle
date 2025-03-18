@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgrok15892"
+        applicationId "com.appcollection.xechobot15893"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
