@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdulces_antojos_sm_15851"
+        applicationId "com.appcollection.xvoirdrama15852"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
