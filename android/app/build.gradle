@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmp3juices15915"
+        applicationId "com.appcollection.xludu_r_15916"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
