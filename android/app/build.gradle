@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshastras15932"
+        applicationId "com.appcollection.xpanel_public_zakzz_115933"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
