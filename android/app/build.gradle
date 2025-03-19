@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbaracktypetest15966"
+        applicationId "com.appcollection.xutp_class15967"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
