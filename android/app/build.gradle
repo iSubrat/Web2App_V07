@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrock_paper_scissors16010"
+        applicationId "com.appcollection.xkashare16011"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
