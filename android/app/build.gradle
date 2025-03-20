@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsigizi_terpadu_15984"
+        applicationId "com.appcollection.xjadwal_pelajaran_15986"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
