@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x25_bingo16017"
+        applicationId "com.appcollection.xal_aqsa_martyrs_bridages16018"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
