@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsearchify16003"
+        applicationId "com.appcollection.xsookth_pigmy16004"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
