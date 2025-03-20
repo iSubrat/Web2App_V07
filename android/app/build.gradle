@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvirustotal16034"
+        applicationId "com.appcollection.xman_cave_radio_16035"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
