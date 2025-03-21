@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x2flix16108"
+        applicationId "com.appcollection.xkarbar16109"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
