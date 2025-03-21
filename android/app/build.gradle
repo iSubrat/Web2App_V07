@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcanvas_216086"
+        applicationId "com.appcollection.xyou_tube16088"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
