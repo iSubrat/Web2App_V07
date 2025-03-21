@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xahoratel_soluciones16074"
+        applicationId "com.appcollection.xnr_saiphai16075"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
