@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xscratch_app_test_116189"
+        applicationId "com.appcollection.xmadness_retaliation_16190"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
