@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xscience_quiz_app_16145"
+        applicationId "com.appcollection.xjpb_transport16146"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
