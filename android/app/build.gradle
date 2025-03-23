@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcontent_creator_hub16247"
+        applicationId "com.appcollection.xapksanboy16248"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
