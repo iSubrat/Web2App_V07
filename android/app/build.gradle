@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhora_de_aventura16238"
+        applicationId "com.appcollection.xgriot16239"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
