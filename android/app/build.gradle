@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xp4_profit_16213"
+        applicationId "com.appcollection.xsnake_game_16214"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
