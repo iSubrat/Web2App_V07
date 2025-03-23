@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyodatv16243"
+        applicationId "com.appcollection.xsports_16244"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
