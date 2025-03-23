@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xseraphin_moviebox16220"
+        applicationId "com.appcollection.xpanel_ara16222"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
