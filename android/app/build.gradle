@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmicrosoft_fabric16194"
+        applicationId "com.appcollection.xrevis_o_prova_paulista16196"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
