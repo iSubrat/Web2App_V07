@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtikmedia_16311"
+        applicationId "com.appcollection.xgkce16313"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
