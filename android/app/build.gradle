@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjule_s_trade_16277"
+        applicationId "com.appcollection.xh_nh_tr_nh_tin_m_ng16280"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
