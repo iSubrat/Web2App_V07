@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xr_visionemeka16295"
+        applicationId "com.appcollection.xreflexione16296"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
