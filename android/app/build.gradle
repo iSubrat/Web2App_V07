@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwebsim16448"
+        applicationId "com.appcollection.xiot16450"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
