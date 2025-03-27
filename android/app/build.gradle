@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeasy_weather_16474"
+        applicationId "com.appcollection.xpubg_lite_comeback_16475"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
