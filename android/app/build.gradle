@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpubg_lite_comeback_16475"
+        applicationId "com.appcollection.xwa_biz16477"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
