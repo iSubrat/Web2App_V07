@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfireups_in16487"
+        applicationId "com.appcollection.xwinkart_216488"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
