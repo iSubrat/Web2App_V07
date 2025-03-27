@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xquizz_16469"
+        applicationId "com.appcollection.xwaniah_safdar_16470"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
