@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Ramadan 2026"
+        android:label="ቢኒያም ደብረብርሃን ደላላ 0921140633 0979645860"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
