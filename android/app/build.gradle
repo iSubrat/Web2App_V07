@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjio_free_internet_16538"
+        applicationId "com.appcollection.xvora_classes16541"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
