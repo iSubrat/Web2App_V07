@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwelfare_g16554"
+        applicationId "com.appcollection.xtest16556"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
