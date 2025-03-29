@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcalculation_16644"
+        applicationId "com.appcollection.xmira_to16645"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
