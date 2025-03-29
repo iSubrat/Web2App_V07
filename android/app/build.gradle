@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbalaji_motor_training_school_ichalkaranji16650"
+        applicationId "com.appcollection.xgitam16651"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
