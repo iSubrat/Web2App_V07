@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbit16641"
+        applicationId "com.appcollection.xai_video_generator16642"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
