@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpos16612"
+        applicationId "com.appcollection.xhttps_mtnplay16613"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
