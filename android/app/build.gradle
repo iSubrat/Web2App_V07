@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpwd16620"
+        applicationId "com.appcollection.xlibrary_kangwon_16622"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
