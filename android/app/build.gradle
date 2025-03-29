@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xplan_b16601"
+        applicationId "com.appcollection.xonline_lesson_16602"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
