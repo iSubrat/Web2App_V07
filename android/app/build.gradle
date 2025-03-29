@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwikihow16636"
+        applicationId "com.appcollection.xmarvel_rivals16637"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
