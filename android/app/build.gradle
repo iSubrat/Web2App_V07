@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xleadsguru16692"
+        applicationId "com.appcollection.xanime_world_india_16695"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
