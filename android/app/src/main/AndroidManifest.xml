@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="𝐆𝐎𝐉𝐎 𝐒𝐓𝐎𝐑𝐄"
+        android:label="Zekr"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
