@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xportal_dagang16705"
+        applicationId "com.appcollection.x_16706"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
