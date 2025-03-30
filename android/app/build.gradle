@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnational_geographic16710"
+        applicationId "com.appcollection.x_16711"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
