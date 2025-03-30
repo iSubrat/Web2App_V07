@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsolana_miner_build16733"
+        applicationId "com.appcollection.xkennynetwork16734"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
