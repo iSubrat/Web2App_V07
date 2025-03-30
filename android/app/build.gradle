@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcanais_ao_vivo_16702"
+        applicationId "com.appcollection.xportal_dagang16705"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
