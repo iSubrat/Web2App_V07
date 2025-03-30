@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstarry16678"
+        applicationId "com.appcollection.xtik_tok16679"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
