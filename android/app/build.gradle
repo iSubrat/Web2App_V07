@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xxvideos16740"
+        applicationId "com.appcollection.xdevuploads16741"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
