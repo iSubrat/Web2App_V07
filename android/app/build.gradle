@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xha4k_assistance_16779"
+        applicationId "com.appcollection.xpromi_ai16780"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
