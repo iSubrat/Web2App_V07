@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmgd_first_edition16745"
+        applicationId "com.appcollection.xerome16747"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
