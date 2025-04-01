@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xm_16796"
+        applicationId "com.appcollection.xe_commerce_link_16797"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
