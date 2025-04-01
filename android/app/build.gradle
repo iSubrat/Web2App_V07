@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xituhx16816"
+        applicationId "com.appcollection.xsocial_network16818"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
