@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xglow_tic_tac_toe16906"
+        applicationId "com.appcollection.xrmc_gold16907"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
