@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpixel_adventures16874"
+        applicationId "com.appcollection.xsocial_media_prepaid_phone_card16876"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
