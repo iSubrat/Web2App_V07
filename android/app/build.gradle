@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsilai_novelties_16913"
+        applicationId "com.appcollection.xoptiq16916"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
