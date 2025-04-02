@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwhat_beat_rock16872"
+        applicationId "com.appcollection.xfarderos_y_farderas_conocidos16873"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
