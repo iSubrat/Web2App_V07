@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsolia_empire_16928"
+        applicationId "com.appcollection.xyoutube16929"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
