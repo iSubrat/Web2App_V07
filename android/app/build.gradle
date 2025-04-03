@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmultasapp16962"
+        applicationId "com.appcollection.xdeep_ai16963"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
