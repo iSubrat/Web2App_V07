@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_ol_16936"
+        applicationId "com.appcollection.xflappybird16939"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
