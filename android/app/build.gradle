@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xquickqr16951"
+        applicationId "com.appcollection.xgenshin_impact_16952"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
