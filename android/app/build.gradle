@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xoracle_16990"
+        applicationId "com.appcollection.xpon_calculator16991"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
