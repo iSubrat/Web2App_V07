@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdeep_ai16963"
+        applicationId "com.appcollection.xokela_16964"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
