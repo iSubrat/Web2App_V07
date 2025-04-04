@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xph17030"
+        applicationId "com.appcollection.xkidspark17031"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
