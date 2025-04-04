@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpainel_gr_tis_vivo17019"
+        applicationId "com.appcollection.xla_lumi_re_dans_l_obscurit_17020"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
