@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmapus_jump17028"
+        applicationId "com.appcollection.xdigitalpay17029"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
