@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwiseimp17073"
+        applicationId "com.appcollection.xwiseimpworldselect17075"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
