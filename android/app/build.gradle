@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfreeporn17012"
+        applicationId "com.appcollection.xfight_photography17015"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
