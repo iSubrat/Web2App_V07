@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzoport_17069"
+        applicationId "com.appcollection.xseephotos17071"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
