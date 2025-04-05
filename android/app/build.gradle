@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtrephoria17127"
+        applicationId "com.appcollection.xjessica_t_socia17129"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
