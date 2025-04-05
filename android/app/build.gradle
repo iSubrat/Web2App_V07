@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnmms17088"
+        applicationId "com.appcollection.xtask_nest17089"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
