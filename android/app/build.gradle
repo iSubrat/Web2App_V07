@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtv_aratu_ba17170"
+        applicationId "com.appcollection.xtv_boto17172"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
