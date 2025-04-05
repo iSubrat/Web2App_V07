@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xradios_net_17147"
+        applicationId "com.appcollection.xmasraf17148"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
