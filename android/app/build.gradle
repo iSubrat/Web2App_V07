@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtetris_dipta17132"
+        applicationId "com.appcollection.xfranciscoalves191651_gmail_com17134"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
