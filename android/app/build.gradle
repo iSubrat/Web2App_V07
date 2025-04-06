@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstudy_pool_17186"
+        applicationId "com.appcollection.xplaystore217188"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
