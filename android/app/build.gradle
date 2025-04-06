@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xptb_17251"
+        applicationId "com.appcollection.xorigamid17253"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
