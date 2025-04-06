@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfiable_repatro_food_delivery_service_17240"
+        applicationId "com.appcollection.xqr_code_generator_17242"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
