@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlaporan_pengeluaran_harian_17200"
+        applicationId "com.appcollection.xhallu_ai_117201"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
