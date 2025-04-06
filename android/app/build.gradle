@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspotify217184"
+        applicationId "com.appcollection.xstudy_pool_17186"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
