@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnguema5tv_17283"
+        applicationId "com.appcollection.xsmart_home17284"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
