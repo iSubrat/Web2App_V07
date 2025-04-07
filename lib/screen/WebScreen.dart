@@ -221,6 +221,8 @@ class WebScreenState extends State<WebScreen> {
                   }
                 } else if (url.contains("linkedin.com") ||
                     url.contains("market://") ||
+                    url.contains("upi://") ||
+                    url.contains("pay?") ||
                     url.contains("whatsapp://") ||
                     url.contains("truecaller://") ||
                     url.contains("facebook.com") ||
