@@ -253,6 +253,8 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
                   }
                 } else if (url.contains("linkedin.com") ||
                     url.contains("market://") ||
+                    url.contains("upi://") ||
+                    url.contains("pay?") ||
                     url.contains("whatsapp://") ||
                     url.contains("truecaller://") ||
                     url.contains("pinterest.com") ||
