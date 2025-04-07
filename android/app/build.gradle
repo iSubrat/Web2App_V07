@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xghost_axel17268"
+        applicationId "com.appcollection.xslaash17269"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
