@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xklub_pi_karski_okienko_17321"
+        applicationId "com.appcollection.xestimador_de_peso_porcino_17323"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
