@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhappy_website17374"
+        applicationId "com.appcollection.xjh_calculator_17375"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
