@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xultra_free_fire_17347"
+        applicationId "com.appcollection.xtic_tac_toe17348"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
