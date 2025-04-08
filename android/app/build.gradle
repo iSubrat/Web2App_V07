@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgeevision_pro17364"
+        applicationId "com.appcollection.xal_ahbab17365"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
