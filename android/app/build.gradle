@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtik_tak_toe17360"
+        applicationId "com.appcollection.xpanel_jasteb_spesial_10_subs17362"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
