@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjh_calculator_17375"
+        applicationId "com.appcollection.xflappy_bird17378"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
