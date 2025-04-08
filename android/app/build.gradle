@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwa_plus_hack17385"
+        applicationId "com.appcollection.xsite17386"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
