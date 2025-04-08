@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfutbol_libre17404"
+        applicationId "com.appcollection.xannet17405"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
