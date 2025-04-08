@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhahs17355"
+        applicationId "com.appcollection.xhip_hop_empire_17357"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
