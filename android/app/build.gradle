@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbibiasiya17474"
+        applicationId "com.appcollection.x_adultmeetlive17476"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
