@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xquad_zee_trader17425"
+        applicationId "com.appcollection.xadvance_calisthenics17427"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
