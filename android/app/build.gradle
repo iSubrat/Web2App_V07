@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_stiridye_mantar_takibi17460"
+        applicationId "com.appcollection.xwould_costs17461"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
