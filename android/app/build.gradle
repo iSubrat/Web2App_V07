@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkorfilm17429"
+        applicationId "com.appcollection.xhudco_solution_17430"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
