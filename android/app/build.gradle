@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcalculadora_p2p_17483"
+        applicationId "com.appcollection.xhtm_17485"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
