@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshadow_war_ultimate_shooter17449"
+        applicationId "com.appcollection.xminecraft_guia17450"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
