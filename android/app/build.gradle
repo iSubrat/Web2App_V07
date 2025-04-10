@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xqueen_id17532"
+        applicationId "com.appcollection.xs_ries_flix_17534"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
