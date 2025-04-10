@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnevaflixvere_17491"
+        applicationId "com.appcollection.xvisi_tekno17492"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
