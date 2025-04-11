@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xk_t_y_gaming17604"
+        applicationId "com.appcollection.xviloflix17605"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
