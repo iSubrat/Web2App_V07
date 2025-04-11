@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xecto_family17587"
+        applicationId "com.appcollection.xsoic17589"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
