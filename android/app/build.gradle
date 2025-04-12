@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdiksha_17663"
+        applicationId "com.appcollection.xsurtimart17664"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
