@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcalculator_17627"
+        applicationId "com.appcollection.xrishabh_quiz_game_17628"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
