@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtic_tac_toe_offline_xoxo_game17662"
+        applicationId "com.appcollection.xdiksha_17663"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
