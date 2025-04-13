@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprime_video_17698"
+        applicationId "com.appcollection.xstd17701"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
