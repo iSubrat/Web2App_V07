@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xamped_studio17744"
+        applicationId "com.appcollection.xiptvaberto2_517746"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
