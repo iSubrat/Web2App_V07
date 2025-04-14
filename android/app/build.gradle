@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xobras_infra_es_17798"
+        applicationId "com.appcollection.xall_sites17799"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
