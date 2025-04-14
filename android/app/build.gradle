@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xguess_the_number17791"
+        applicationId "com.appcollection.xyasir17793"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
