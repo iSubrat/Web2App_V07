@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjogos17800"
+        applicationId "com.appcollection.xapple_maps17801"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
