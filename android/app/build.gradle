@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpak_social_smm17789"
+        applicationId "com.appcollection.xguess_the_number17791"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
