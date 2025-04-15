@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbuli_teszt_17854"
+        applicationId "com.appcollection.xlaokodic17856"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
