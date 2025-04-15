@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmissav17908"
+        applicationId "com.appcollection.xfrete_717909"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
