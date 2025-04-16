@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcash_app17942"
+        applicationId "com.appcollection.xrobotis_academy_17943"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
