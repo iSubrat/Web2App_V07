@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrobotis_academy_17943"
+        applicationId "com.appcollection.xaquasense_17944"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
