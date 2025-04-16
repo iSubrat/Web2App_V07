@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnumber_puzzle_ngd_gaming_17932"
+        applicationId "com.appcollection.xeasilypdf17934"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
