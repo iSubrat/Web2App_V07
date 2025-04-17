@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbalvesh17992"
+        applicationId "com.appcollection.xpredictor_latinov21_17993"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
