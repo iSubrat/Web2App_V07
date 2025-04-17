@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_web2app_18012"
+        applicationId "com.appcollection.xinteractive_pov18013"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
