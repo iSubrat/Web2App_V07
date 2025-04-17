@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xol_yra_kasir18044"
+        applicationId "com.appcollection.xfan_t_ia18045"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
