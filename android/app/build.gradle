@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnarah_calculator18039"
+        applicationId "com.appcollection.xress_forz_gg18040"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
