@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtemwa18089"
+        applicationId "com.appcollection.xdana_by_rahmatjasteb_18090"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
