@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xknet_yousef18129"
+        applicationId "com.appcollection.xstock_opname18132"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
