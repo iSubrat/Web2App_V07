@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkasapp18141"
+        applicationId "com.appcollection.xlilo_ai_video_maker18142"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
