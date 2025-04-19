@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xderiv_charts_18187"
+        applicationId "com.appcollection.xcygnius18188"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
