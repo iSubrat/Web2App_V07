@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtic_tac_toe_player_vs_ai_ox_game_18152"
+        applicationId "com.appcollection.xibo_knet18153"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
