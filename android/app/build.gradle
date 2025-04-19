@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xayahuasca_18121"
+        applicationId "com.appcollection.xtsports18123"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
