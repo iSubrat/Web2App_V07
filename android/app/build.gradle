@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwww_music_com_18144"
+        applicationId "com.appcollection.xibrahem_knet18145"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
