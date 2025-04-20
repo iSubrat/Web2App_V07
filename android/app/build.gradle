@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnapswitch_18245"
+        applicationId "com.appcollection.xhomework_reminder18247"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
