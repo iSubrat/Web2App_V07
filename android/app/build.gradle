@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhomework_reminder18247"
+        applicationId "com.appcollection.xpresensigps18248"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
