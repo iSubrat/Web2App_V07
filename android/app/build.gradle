@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdhanupay_18290"
+        applicationId "com.appcollection.xsuper_mario_earn_real_money_18291"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
