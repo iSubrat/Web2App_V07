@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbola8loco18332"
+        applicationId "com.appcollection.x2d_game_18333"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
