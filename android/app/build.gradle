@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmythworx_ai18330"
+        applicationId "com.appcollection.xtiktok_service_18331"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
