@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmath_solver18319"
+        applicationId "com.appcollection.xyamlock18320"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
