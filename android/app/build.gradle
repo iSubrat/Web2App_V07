@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcardro_app_18275"
+        applicationId "com.appcollection.xredarbat18276"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
