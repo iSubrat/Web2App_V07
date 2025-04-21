@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_web18300"
+        applicationId "com.appcollection.xburaak_sales_app18301"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
