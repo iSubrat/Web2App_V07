@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xradio_wanda_18346"
+        applicationId "com.appcollection.xnaman_ai18347"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
