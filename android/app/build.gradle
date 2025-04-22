@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtwiggy18343"
+        applicationId "com.appcollection.xtwiggyy18344"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
