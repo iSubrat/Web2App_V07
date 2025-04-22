@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcreating_18356"
+        applicationId "com.appcollection.xfacebook18358"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
