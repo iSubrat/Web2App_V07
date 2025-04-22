@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlala_love_simulator18362"
+        applicationId "com.appcollection.xhacking18364"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
