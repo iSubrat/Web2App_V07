@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmalkaa_knowledge18448"
+        applicationId "com.appcollection.xabhi_wingo_hack_18449"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
