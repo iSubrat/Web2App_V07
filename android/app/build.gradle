@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnake_rush_18502"
+        applicationId "com.appcollection.xshadertoy18504"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
