@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbss_calection18500"
+        applicationId "com.appcollection.xgame_cacing_18501"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
