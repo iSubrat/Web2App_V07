@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcompare_nissan18517"
+        applicationId "com.appcollection.xcastrucci_nissan18518"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
