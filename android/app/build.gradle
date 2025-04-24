@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmizaj_analyzer_18535"
+        applicationId "com.appcollection.xrecord_df18536"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
