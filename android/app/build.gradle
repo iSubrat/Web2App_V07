@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshopify_qk18549"
+        applicationId "com.appcollection.xmpdc_portal18550"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
