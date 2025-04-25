@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmpdc_portal18550"
+        applicationId "com.appcollection.xel_rincon_dominicano_18552"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
