@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xword_scramble_game_18553"
+        applicationId "com.appcollection.xcompiler18554"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
