@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlawlibrary18605"
+        applicationId "com.appcollection.xprueba18608"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
