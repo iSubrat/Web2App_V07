@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xe_modul_peluang_dan_pemilihan_sampel_smp18643"
+        applicationId "com.appcollection.xhhh18645"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
