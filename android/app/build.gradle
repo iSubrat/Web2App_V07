@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnake_run18636"
+        applicationId "com.appcollection.xosk_marcin18638"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
