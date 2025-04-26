@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xairdrop_etehad14118665"
+        applicationId "com.appcollection.xligth_out18667"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
