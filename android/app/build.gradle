@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgpdi_shekinah_palu18604"
+        applicationId "com.appcollection.xlawlibrary18605"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
