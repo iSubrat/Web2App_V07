@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdemo_h_tel_18757"
+        applicationId "com.appcollection.xharmony_sign18758"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
