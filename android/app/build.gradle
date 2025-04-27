@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xel_rinc_n_dominicano_18764"
+        applicationId "com.appcollection.xdaily_chant18767"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
