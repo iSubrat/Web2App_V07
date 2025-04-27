@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgest_o_de_frotas18753"
+        applicationId "com.appcollection.xalrayes18754"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
