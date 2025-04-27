@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrmc_invoice18698"
+        applicationId "com.appcollection.xrmc_invoice18700"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
