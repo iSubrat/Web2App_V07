@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xflippy_bird18717"
+        applicationId "com.appcollection.xpnl_baba_201718718"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
