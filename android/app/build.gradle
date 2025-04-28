@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xredx18806"
+        applicationId "com.appcollection.xbolt_ai_18807"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
