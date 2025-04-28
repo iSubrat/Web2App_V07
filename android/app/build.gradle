@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapple18866"
+        applicationId "com.appcollection.xfocus_flow_time_and_task_tracker_18867"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
