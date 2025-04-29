@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xf95zone_to18871"
+        applicationId "com.appcollection.xmy_system_18872"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
