@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xquizify_ai_18938"
+        applicationId "com.appcollection.xblokbless_asli_18939"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
