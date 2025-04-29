@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapk_downloader18949"
+        applicationId "com.appcollection.xalamalstore18951"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
