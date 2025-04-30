@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadobe_podcast18962"
+        applicationId "com.appcollection.xadobe_podcast18963"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
