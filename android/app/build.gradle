@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcultura_play18957"
+        applicationId "com.appcollection.xmy_binance_singnl18959"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
