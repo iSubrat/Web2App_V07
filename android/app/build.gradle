@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtawkit18972"
+        applicationId "com.appcollection.xsuper_mario_run_218973"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
