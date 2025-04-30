@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmixcloud_dj_danis_19026"
+        applicationId "com.appcollection.xgoldenwavesignals19028"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
