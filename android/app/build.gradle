@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjulinice19120"
+        applicationId "com.appcollection.xyam_store19122"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
