@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhot_sexy_girl_wallpaper19110"
+        applicationId "com.appcollection.xtreasure_fun19112"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
