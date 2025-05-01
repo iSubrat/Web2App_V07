@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanime_world_19057"
+        applicationId "com.appcollection.xaircon_invoice_19059"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
