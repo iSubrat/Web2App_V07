@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xping_pong19150"
+        applicationId "com.appcollection.xrsload19151"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
