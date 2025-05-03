@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xqdoc_19262"
+        applicationId "com.appcollection.xloket_desaqu19264"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
