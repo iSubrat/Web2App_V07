@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcoolpro_19245"
+        applicationId "com.appcollection.xaviator_19246"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
