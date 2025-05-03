@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlone_tech_stdio19249"
+        applicationId "com.appcollection.xbudget_flow19250"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
