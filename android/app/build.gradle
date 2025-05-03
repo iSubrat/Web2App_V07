@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtarc19289"
+        applicationId "com.appcollection.xfinance_manager19290"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
