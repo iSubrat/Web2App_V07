@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzonaleros19225"
+        applicationId "com.appcollection.xstudy_corner_19226"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
