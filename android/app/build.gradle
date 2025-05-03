@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdee_19258"
+        applicationId "com.appcollection.xhealthh19260"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
