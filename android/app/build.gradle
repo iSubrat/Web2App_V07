@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfstc_awka_portal_19344"
+        applicationId "com.appcollection.xnothing19345"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
