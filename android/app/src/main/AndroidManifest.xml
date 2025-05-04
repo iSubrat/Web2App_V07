@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Medi Track"
+        android:label="Fstc awka portal "
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
