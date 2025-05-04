@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtutor19301"
+        applicationId "com.appcollection.xthe_gospel_preacher19302"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
