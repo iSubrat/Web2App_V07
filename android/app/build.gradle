@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelectrical_calculator19401"
+        applicationId "com.appcollection.xipod19403"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
