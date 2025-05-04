@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xipod19403"
+        applicationId "com.appcollection.xgercons_rcio_19404"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
