@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsandi_kunci_1_019471"
+        applicationId "com.appcollection.xdodge_io19473"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
