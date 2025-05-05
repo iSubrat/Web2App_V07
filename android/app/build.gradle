@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xclipdown19498"
+        applicationId "com.appcollection.x_19500"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
