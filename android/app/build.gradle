@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xm2w_tv19486"
+        applicationId "com.appcollection.xg_n_rateur_19487"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
