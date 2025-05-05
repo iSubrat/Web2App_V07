@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdigital_recharge_bangladesh19490"
+        applicationId "com.appcollection.xkhadija_goat_farm_manager_19491"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
