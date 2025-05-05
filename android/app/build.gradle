@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpavindusapp19436"
+        applicationId "com.appcollection.xgranaxa_group19437"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
