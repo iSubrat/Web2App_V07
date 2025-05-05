@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcreate_nokos19439"
+        applicationId "com.appcollection.xsite_granaxa19441"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
