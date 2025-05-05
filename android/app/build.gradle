@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdwsmartphonecell19488"
+        applicationId "com.appcollection.xdigital_recharge_bangladesh19490"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
