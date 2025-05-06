@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsublink19555"
+        applicationId "com.appcollection.xband_29_scheduler19556"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
