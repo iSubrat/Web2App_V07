@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkaset_guru_skp19522"
+        applicationId "com.appcollection.xkeno19523"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
