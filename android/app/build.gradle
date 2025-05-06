@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgame_6in119543"
+        applicationId "com.appcollection.xbuat_panel_jasteb19545"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
