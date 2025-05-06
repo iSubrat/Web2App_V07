@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtrex_game_play_19532"
+        applicationId "com.appcollection.xtest19533"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
