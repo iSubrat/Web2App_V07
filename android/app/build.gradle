@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x3919577"
+        applicationId "com.appcollection.xperfect_money19578"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
