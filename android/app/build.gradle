@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtextbuddy_by_tahir_umar_19585"
+        applicationId "com.appcollection.xrewarder19586"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
