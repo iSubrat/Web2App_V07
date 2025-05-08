@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnowienows19739"
+        applicationId "com.appcollection.xayman_movies19742"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
