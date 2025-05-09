@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdriver_log_book_19761"
+        applicationId "com.appcollection.xjoy_tv19763"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
