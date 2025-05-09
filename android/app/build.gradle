@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xall_sites_19818"
+        applicationId "com.appcollection.xall_in_one_tools19819"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
