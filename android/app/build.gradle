@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xewatch_pro19845"
+        applicationId "com.appcollection.xpatio19846"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
