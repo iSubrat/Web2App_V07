@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xem_quiz_master19769"
+        applicationId "com.appcollection.xlovable_diamond_topup19770"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
