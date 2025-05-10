@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsakismmpanel_19877"
+        applicationId "com.appcollection.xstreaming_live19879"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
