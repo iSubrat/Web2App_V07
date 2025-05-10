@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xe_rek_19910"
+        applicationId "com.appcollection.xgmail_bams_dot19911"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
