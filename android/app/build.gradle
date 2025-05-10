@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbig_bihar19934"
+        applicationId "com.appcollection.xfnas_omt_act_1_apk19937"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
