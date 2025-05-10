@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjogo_da_velha_ao19908"
+        applicationId "com.appcollection.xe_rek_19910"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
