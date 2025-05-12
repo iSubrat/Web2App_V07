@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xberinspa20060"
+        applicationId "com.appcollection.xgold_calculator20063"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
