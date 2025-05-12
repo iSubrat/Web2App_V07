@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdiscord220021"
+        applicationId "com.appcollection.xfinca_vet20022"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
