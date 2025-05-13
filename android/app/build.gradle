@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_20123"
+        applicationId "com.appcollection.xesmail20124"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
