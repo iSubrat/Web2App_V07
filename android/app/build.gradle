@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgame20128"
+        applicationId "com.appcollection.xcontrole_financeiro_20130"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
