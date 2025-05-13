@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xatm_qris_convert_by_bii20097"
+        applicationId "com.appcollection.xgithub_20098"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
