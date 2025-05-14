@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbishe_bish_ai_transcription_20209"
+        applicationId "com.appcollection.x123420212"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
