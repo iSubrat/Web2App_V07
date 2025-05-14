@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xesp32_clock20161"
+        applicationId "com.appcollection.xdesa_airjoman20162"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
