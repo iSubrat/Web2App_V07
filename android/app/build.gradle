@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstable_diffusion20173"
+        applicationId "com.appcollection.xyudha20174"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
