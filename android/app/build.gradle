@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmental_health_advisory_20227"
+        applicationId "com.appcollection.xastha20229"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
