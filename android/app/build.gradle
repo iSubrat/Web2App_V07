@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwebmail_fsti20214"
+        applicationId "com.appcollection.xpayment_colect_corp20216"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
