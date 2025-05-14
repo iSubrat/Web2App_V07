@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xqctt20169"
+        applicationId "com.appcollection.xdrhpercussion_tuner_pro20172"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
