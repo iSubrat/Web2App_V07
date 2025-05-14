@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhacker20234"
+        applicationId "com.appcollection.xpercussiontuner_drhz20237"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
