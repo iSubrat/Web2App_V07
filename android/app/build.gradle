@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x123420212"
+        applicationId "com.appcollection.xred_panda_ai20213"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
