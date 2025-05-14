@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xatzmi20195"
+        applicationId "com.appcollection.xwing_go20196"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
