@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xferda20206"
+        applicationId "com.appcollection.xexo_ai_personal_asistent_20207"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
