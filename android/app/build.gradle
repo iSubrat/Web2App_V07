@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xilluminati_symbol_20300"
+        applicationId "com.appcollection.xyoutube_20301"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
