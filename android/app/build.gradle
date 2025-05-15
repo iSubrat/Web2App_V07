@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrykuota20295"
+        applicationId "com.appcollection.xshopee_mini_20296"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
