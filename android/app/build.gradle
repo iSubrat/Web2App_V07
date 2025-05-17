@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpluto_play_20421"
+        applicationId "com.appcollection.xspin_the_wheel20422"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
