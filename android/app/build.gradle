@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmonday20420"
+        applicationId "com.appcollection.xpluto_play_20421"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
