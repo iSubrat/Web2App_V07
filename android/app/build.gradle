@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsheform20409"
+        applicationId "com.appcollection.xcinepeace20411"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
