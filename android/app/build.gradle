@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkkh_name_generator20385"
+        applicationId "com.appcollection.xgeraldinenails20386"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
