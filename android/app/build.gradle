@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgeraldinenails20386"
+        applicationId "com.appcollection.xhhtradings20387"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
