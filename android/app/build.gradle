@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xflappy_box20445"
+        applicationId "com.appcollection.xjakaranda_bill20446"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
