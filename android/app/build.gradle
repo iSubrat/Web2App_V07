@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsuccess_digitals20458"
+        applicationId "com.appcollection.xmiggi_kick20459"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
