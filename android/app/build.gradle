@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgmod13b_launch20509"
+        applicationId "com.appcollection.xrecordatorio_20510"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
