@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdrageship_20512"
+        applicationId "com.appcollection.xjanitor_ai20514"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
