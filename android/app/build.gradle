@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xconex_es_azuis20606"
+        applicationId "com.appcollection.xnowienowsold20608"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
