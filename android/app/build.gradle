@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlol220574"
+        applicationId "com.appcollection.xhappy_birthday_nusrat20576"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
