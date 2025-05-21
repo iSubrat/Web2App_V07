@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsylmc20702"
+        applicationId "com.appcollection.xsistem_informasi_perpustakaan_20703"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
