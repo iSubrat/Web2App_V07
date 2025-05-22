@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcyber_hack20763"
+        applicationId "com.appcollection.xyouo20764"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
