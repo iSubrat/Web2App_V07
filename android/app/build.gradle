@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtaktik_zone20742"
+        applicationId "com.appcollection.xtaktik_zone20743"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
