@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtic_toc_20727"
+        applicationId "com.appcollection.xgrafx20728"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
