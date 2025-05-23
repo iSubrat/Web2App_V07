@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlet_s_go_yri20803"
+        applicationId "com.appcollection.xzara_mehndi_20804"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
