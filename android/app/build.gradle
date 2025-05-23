@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkatalog_agen_ahe_68620836"
+        applicationId "com.appcollection.xbubble_20838"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
