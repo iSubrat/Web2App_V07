@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsijaringan20790"
+        applicationId "com.appcollection.xankit_20791"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
