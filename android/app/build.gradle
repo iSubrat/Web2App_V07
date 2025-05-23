@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbubble_20838"
+        applicationId "com.appcollection.xtaxgov_amir_jabbari_20841"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
