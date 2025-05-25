@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xespa_olix_20967"
+        applicationId "com.appcollection.xstat_matka_apps20968"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
