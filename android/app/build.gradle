@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xandrew_buranda_mission_church_worldwide_20960"
+        applicationId "com.appcollection.xandrew_buranda_mission_church_2012_worldwide_20961"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
