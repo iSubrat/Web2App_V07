@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkrt_taman_delima20985"
+        applicationId "com.appcollection.xwebador20988"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
