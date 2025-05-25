@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xandrew_buranda_music_20963"
+        applicationId "com.appcollection.xkcst_calc20964"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
