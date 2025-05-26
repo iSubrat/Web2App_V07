@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfacebook21069"
+        applicationId "com.appcollection.xbirthday_card21070"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
