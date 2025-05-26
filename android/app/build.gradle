@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbuddybot21091"
+        applicationId "com.appcollection.xsagerfresh21094"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
