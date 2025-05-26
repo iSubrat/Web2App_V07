@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xriffusion_com21108"
+        applicationId "com.appcollection.xabah_finance21109"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
