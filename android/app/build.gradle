@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xirctc_2x21218"
+        applicationId "com.appcollection.xyoutube_lite21219"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
