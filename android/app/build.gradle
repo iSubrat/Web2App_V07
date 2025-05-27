@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsmada_exsam_21160"
+        applicationId "com.appcollection.xporras_rueda_juan_david21162"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
