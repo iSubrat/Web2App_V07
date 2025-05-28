@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdream_stores21272"
+        applicationId "com.appcollection.xcartera_de_clients_pollos21273"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
