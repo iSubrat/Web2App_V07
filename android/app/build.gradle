@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrelaystack21357"
+        applicationId "com.appcollection.xmolas_manchester21359"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
