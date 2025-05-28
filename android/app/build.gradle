@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdavbot_app21269"
+        applicationId "com.appcollection.xelotuslabels21270"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
