@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnequibotgv_movi_221350"
+        applicationId "com.appcollection.xomniki21353"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
