@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelotuslabels21270"
+        applicationId "com.appcollection.xdream_stores21272"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
