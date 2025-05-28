@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdeepai21297"
+        applicationId "com.appcollection.xltx_studio21299"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
