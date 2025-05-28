@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcartera_de_clients_pollos21273"
+        applicationId "com.appcollection.xjerry_lingo21275"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
