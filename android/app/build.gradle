@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xleodinesk_church_news21320"
+        applicationId "com.appcollection.xleodinesk_church_services_21322"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
