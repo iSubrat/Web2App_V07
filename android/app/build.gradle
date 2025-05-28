@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbdg_game_21277"
+        applicationId "com.appcollection.xfacebook_follower_21280"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
