@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtycoon_platform_21401"
+        applicationId "com.appcollection.xecommerce_profit_calculator_21403"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
