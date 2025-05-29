@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xalmanak_1447_h_21369"
+        applicationId "com.appcollection.xdashboard21371"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
