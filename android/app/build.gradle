@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xleodinesc_app_store_21409"
+        applicationId "com.appcollection.xhashtag_sm21410"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
