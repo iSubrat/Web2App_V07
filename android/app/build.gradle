@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfresh_launcher21467"
+        applicationId "com.appcollection.xzero_fresh_launcher_21469"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
