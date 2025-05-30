@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xla_vida_en_un_videojuego_21525"
+        applicationId "com.appcollection.xtic_tac_toe_21527"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
