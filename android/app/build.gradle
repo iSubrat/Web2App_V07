@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnewmusic21532"
+        applicationId "com.appcollection.xriyad_telecom21534"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
