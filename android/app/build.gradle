@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfbcreate_21472"
+        applicationId "com.appcollection.xcomfyui21474"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
