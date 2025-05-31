@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjs_menu21621"
+        applicationId "com.appcollection.xkada_dz_infos21623"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
