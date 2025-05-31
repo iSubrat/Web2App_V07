@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkannada_hymnal21562"
+        applicationId "com.appcollection.xdocument_translator21563"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
