@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpragyan21558"
+        applicationId "com.appcollection.xdar_study21560"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
