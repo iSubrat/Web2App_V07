@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhacked21700"
+        applicationId "com.appcollection.xordena_sinuca_pro_21701"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
