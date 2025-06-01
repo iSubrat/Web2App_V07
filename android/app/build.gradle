@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xday_flow_21661"
+        applicationId "com.appcollection.xdata_storer_21662"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
