@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrml_hydromax_meter21671"
+        applicationId "com.appcollection.xbattle_of_agnet21675"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
