@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xla_rochelle_ale_beaulieu_r_s_21817"
+        applicationId "com.appcollection.xelanet_wifi21819"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
