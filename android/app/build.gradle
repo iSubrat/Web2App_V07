@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrtc_admin21854"
+        applicationId "com.appcollection.xleodinesce_church_webhost21855"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
