@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtractor_tochan_game_by_krishna_21890"
+        applicationId "com.appcollection.xcurrent_bill21893"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
