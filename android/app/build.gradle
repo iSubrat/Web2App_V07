@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xel_kkambere_bitcoins_21860"
+        applicationId "com.appcollection.xamazon21861"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
