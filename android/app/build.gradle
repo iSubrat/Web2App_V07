@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xappmail21864"
+        applicationId "com.appcollection.xmr_rad_txt_img_21866"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
