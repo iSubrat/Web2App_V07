@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgeometry_dash_premium_21810"
+        applicationId "com.appcollection.xalien_shooter21812"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
