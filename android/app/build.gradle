@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstack_edit_21943"
+        applicationId "com.appcollection.xjackson_bus_21944"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
