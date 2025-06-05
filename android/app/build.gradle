@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtania_22051"
+        applicationId "com.appcollection.xsillytavern22052"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
