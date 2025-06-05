@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapk_jasteb_v3_argi_host21995"
+        applicationId "com.appcollection.xeasy_invoice21996"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
