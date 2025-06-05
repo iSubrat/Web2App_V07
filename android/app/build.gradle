@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfaizullah_arifzoy22058"
+        applicationId "com.appcollection.xptimer22061"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
