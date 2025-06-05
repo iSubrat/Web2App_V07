@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyuvaaraj21993"
+        applicationId "com.appcollection.xmedidor_de_agua_21994"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
