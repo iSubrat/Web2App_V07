@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsitapuk22014"
+        applicationId "com.appcollection.xsandesh_gaming_22015"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
