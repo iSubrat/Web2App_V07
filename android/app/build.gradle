@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtec_tac_toe_22091"
+        applicationId "com.appcollection.xsesame22092"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
