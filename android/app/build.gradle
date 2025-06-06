@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgray_chat22076"
+        applicationId "com.appcollection.xmovix22077"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
