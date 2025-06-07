@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="APP-GH-2025"
+        android:label="𝗥𝗲𝘀𝗲𝗹𝗹𝗲𝗿 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 : 𝗭𝘂𝗿𝗮𝗛𝗼𝘀𝘁𝗶𝗻𝗴 "
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
