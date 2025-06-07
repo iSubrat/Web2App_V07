@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmultiplayer_live_22236"
+        applicationId "com.appcollection.xskall_movies_22238"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
