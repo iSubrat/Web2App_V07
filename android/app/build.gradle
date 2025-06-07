@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbuzzrewards_22224"
+        applicationId "com.appcollection.xroblox_201622225"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
