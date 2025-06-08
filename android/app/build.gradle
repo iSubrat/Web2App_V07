@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcalculado_poder_limercoin22291"
+        applicationId "com.appcollection.xadvance_calculator_surya22292"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
