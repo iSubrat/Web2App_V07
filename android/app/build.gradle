@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrobot_app_inventor_22294"
+        applicationId "com.appcollection.xlunu_online_store22296"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
