@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsosc22302"
+        applicationId "com.appcollection.xhash_cracker22304"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
