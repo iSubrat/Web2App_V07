@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtjd22455"
+        applicationId "com.appcollection.xmoneymind22457"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
