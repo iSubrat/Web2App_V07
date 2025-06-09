@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnexkirana_go_t122467"
+        applicationId "com.appcollection.xchatb22469"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
