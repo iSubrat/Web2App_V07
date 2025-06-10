@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlynk_id22499"
+        applicationId "com.appcollection.xinstagram_hastag_generator_22500"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
