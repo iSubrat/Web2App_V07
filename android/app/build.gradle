@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtimecub322605"
+        applicationId "com.appcollection.xtelugu_grammar_22606"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
