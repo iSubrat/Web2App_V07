@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcalling22572"
+        applicationId "com.appcollection.xkomik_id22575"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
