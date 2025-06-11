@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmangadex22663"
+        applicationId "com.appcollection.xarabcomix22664"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
