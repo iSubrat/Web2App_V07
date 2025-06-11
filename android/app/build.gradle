@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaustralia22601"
+        applicationId "com.appcollection.xtracker22602"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
