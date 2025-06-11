@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xceleritas22645"
+        applicationId "com.appcollection.xremove_bg22648"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
