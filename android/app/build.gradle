@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_note22642"
+        applicationId "com.appcollection.xextrapopusti22644"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
