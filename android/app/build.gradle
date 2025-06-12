@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapk_jasteb_ress_202522681"
+        applicationId "com.appcollection.xpredictbot22682"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
