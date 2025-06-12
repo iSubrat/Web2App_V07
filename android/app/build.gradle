@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xinvesta22671"
+        applicationId "com.appcollection.xhomework_22673"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
