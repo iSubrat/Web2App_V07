@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkitty_clicker_v1_22692"
+        applicationId "com.appcollection.xmijidoktori_22695"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
