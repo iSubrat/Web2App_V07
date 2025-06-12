@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmijidoktori_22695"
+        applicationId "com.appcollection.xlocket_gold_22698"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
