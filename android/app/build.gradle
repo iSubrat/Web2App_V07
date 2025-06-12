@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzapuza_work22727"
+        applicationId "com.appcollection.xkali_acadmey22729"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
