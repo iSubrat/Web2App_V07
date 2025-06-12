@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrefko_i_ombe_bacaju_bombe22780"
+        applicationId "com.appcollection.xmini_apps_22781"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
