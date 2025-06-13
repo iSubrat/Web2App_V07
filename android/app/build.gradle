@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmoney_calculator_22836"
+        applicationId "com.appcollection.xyumiroll22840"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
