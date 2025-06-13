@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhack22828"
+        applicationId "com.appcollection.xporto_0322831"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
