@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmojidoktori22818"
+        applicationId "com.appcollection.xssff_compass22822"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
