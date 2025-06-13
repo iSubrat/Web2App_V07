@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpopustextrapopusti22808"
+        applicationId "com.appcollection.xfawad_jamali22810"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
