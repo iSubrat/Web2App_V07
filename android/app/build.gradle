@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xubuntu22790"
+        applicationId "com.appcollection.xescortguide22793"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
