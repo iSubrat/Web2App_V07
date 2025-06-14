@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcmmtcs_school22953"
+        applicationId "com.appcollection.xqr_and_bar_code_reader22955"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
