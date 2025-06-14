@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjono_sathi22909"
+        applicationId "com.appcollection.xbd_pro_app_22910"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
