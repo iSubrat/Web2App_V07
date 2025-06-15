@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstream_together23133"
+        applicationId "com.appcollection.xvynyl_clothing_store_23137"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
