@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkonterku23160"
+        applicationId "com.appcollection.xnew_jazz_game23161"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
