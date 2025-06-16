@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnew_jazz_game_23223"
+        applicationId "com.appcollection.xroblox_antigo23224"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
