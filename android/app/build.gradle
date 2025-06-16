@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpgl23208"
+        applicationId "com.appcollection.xdzgame_23210"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
