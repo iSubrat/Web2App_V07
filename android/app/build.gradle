@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdzgame_23210"
+        applicationId "com.appcollection.x24_news_live23211"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
