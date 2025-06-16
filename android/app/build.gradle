@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsouth_indian_hub23172"
+        applicationId "com.appcollection.xanimationworld_ai_island_23175"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
