@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtop_up_game_dika23185"
+        applicationId "com.appcollection.xgetto23187"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
