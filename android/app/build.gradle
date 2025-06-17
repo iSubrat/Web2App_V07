@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xha23247"
+        applicationId "com.appcollection.xnew_jazz_game_23248"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
