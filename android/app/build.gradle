@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xceci_0423323"
+        applicationId "com.appcollection.xceci_palavrinhas_23324"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
