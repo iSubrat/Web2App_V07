@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfoodivago23390"
+        applicationId "com.appcollection.xnokis_by_danzxn23391"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
