@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsheraton_hotel_kampala_23389"
+        applicationId "com.appcollection.xfoodivago23390"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
