@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfastconv23364"
+        applicationId "com.appcollection.xcooler_point_23366"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
