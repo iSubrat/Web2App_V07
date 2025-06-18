@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x3d_tic_tac_toe23373"
+        applicationId "com.appcollection.xsrpski_med_23375"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
