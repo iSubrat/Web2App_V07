@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlucie_and_children_autospare_shop23487"
+        applicationId "com.appcollection.xgadget_ghar_23488"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
