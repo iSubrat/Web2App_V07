@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtrading_app23499"
+        applicationId "com.appcollection.xia_scripts_by_3l_d4d0_23501"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
