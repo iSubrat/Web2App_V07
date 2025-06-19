@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xminecraft_1_17_5023492"
+        applicationId "com.appcollection.xomlet_arcade23496"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
