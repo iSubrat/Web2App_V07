@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbase23481"
+        applicationId "com.appcollection.xhighly_favored_ministry_23484"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
