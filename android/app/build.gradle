@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhaute_voli_re_pro23536"
+        applicationId "com.appcollection.xdesculpapp_23537"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
