@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmdm_calculator23626"
+        applicationId "com.appcollection.xsethlight_child_loss_grief_support_23628"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
