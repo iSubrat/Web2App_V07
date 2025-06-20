@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdark_ash_files23584"
+        applicationId "com.appcollection.xbollyflix_23586"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
