@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcalculate_with_me_23633"
+        applicationId "com.appcollection.xdiary_notes23636"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
