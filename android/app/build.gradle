@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfunda_o_bradesco_23647"
+        applicationId "com.appcollection.xib3d_by_a_r_23648"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
