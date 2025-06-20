@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xworkflow23561"
+        applicationId "com.appcollection.xphoto_talk23562"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
