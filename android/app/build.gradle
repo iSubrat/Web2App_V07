@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwarungsing23720"
+        applicationId "com.appcollection.xwarungsing23721"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
