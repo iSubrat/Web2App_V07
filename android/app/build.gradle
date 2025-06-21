@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbosch_budget_portal23683"
+        applicationId "com.appcollection.xbusiness_view_23684"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
