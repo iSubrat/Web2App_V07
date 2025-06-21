@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcold_email_templates_23702"
+        applicationId "com.appcollection.xadarsh_prajapati_8d_23706"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
