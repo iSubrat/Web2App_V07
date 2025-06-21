@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtuphan_23671"
+        applicationId "com.appcollection.xindo_follower_23672"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
