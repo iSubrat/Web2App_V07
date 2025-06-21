@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadarsh_hobbies23708"
+        applicationId "com.appcollection.xpetualangan_rpg23711"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
