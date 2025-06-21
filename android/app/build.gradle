@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xindo_follower_23672"
+        applicationId "com.appcollection.xcom_appcollection_xole4ka23673"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
