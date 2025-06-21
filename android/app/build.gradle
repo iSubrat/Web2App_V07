@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjasteb_sky_v123654"
+        applicationId "com.appcollection.xlynk_id23655"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
