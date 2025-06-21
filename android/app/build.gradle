@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvenezolanatelevision23733"
+        applicationId "com.appcollection.xchimu_el_juego_223735"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
