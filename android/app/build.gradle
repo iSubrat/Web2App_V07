@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlock_diary23677"
+        applicationId "com.appcollection.xpl_motor23679"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
