@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnextswan23782"
+        applicationId "com.appcollection.xaksh_s_chat_23784"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
