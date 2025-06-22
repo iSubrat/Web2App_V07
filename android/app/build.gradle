@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmotorista_pro_23749"
+        applicationId "com.appcollection.xgta_franklin23752"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
