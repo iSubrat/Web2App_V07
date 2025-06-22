@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xguess_the_detective_23809"
+        applicationId "com.appcollection.xnetexpertbd23810"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
