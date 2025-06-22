@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspectre_sec_team_23852"
+        applicationId "com.appcollection.xecolog_a_23853"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
