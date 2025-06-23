@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyellowcard_23854"
+        applicationId "com.appcollection.xcompass_bank23855"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
