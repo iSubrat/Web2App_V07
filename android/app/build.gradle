@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadmin_apparel23862"
+        applicationId "com.appcollection.xsound_wave_pro23863"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
