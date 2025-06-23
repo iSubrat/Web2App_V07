@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xv_n_nh_n_m_hp_23865"
+        applicationId "com.appcollection.xaura_ai23866"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
