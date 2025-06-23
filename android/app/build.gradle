@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfluirapp23870"
+        applicationId "com.appcollection.xtossy_catering_accessories_23871"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
