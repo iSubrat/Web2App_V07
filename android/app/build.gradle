@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsdms23941"
+        applicationId "com.appcollection.xparvaz_electric_23942"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
