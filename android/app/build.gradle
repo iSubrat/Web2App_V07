@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmanual_do_neto_24063"
+        applicationId "com.appcollection.xdogra_ai_24064"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
