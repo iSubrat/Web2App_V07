@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeminemsport24078"
+        applicationId "com.appcollection.xanime24081"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
