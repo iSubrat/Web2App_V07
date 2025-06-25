@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xroblox_hacks_list24066"
+        applicationId "com.appcollection.xvirus24068"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
