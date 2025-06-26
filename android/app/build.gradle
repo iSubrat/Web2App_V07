@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsyah_amat24141"
+        applicationId "com.appcollection.xayana_unifiber24143"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
