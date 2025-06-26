@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhexa_watch24161"
+        applicationId "com.appcollection.xgobind24163"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
