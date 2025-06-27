@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlauncher_ai24202"
+        applicationId "com.appcollection.xwebapk24203"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
