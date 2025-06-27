@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdynamoday24266"
+        applicationId "com.appcollection.xxyz_aps24269"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
