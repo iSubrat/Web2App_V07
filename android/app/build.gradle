@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xheran_a_da_resist_ncia_24366"
+        applicationId "com.appcollection.xxfloid_infinity_24368"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
