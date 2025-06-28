@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdeveloper_shadhin24299"
+        applicationId "com.appcollection.xtool_tx24300"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
