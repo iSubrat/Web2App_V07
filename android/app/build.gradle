@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapk_jasteb_free24293"
+        applicationId "com.appcollection.xupi_qr_code_generator_24294"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
