@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtool_tx24300"
+        applicationId "com.appcollection.xlt_plan_foto_doku24301"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
