@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xla_pantera_rosa_y_el_diamante_legendario_24375"
+        applicationId "com.appcollection.xmydiabetesbuddy24376"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
