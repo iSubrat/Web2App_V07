@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhayat_terazisi24466"
+        applicationId "com.appcollection.xeducalculator_24469"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
