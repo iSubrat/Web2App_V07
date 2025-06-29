@@ -1,5 +1,5 @@
 //With PHP backend
-const BASE_URL = "https://web2app.appcollection.in/downloads/01_Profiles/24463";
+const BASE_URL = "https://web2app.appcollection.in/downloads/01_Profiles/24466";
 
 //without PHP backend
 const PURCHASE_CODE = '';
