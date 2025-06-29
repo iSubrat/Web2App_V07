@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmuntezr_game24435"
+        applicationId "com.appcollection.xeisenbahnrelikte_sachsen24436"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
