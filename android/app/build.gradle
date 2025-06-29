@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdone_adhd24409"
+        applicationId "com.appcollection.xallien_admin24410"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
