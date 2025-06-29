@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjarvis24457"
+        applicationId "com.appcollection.xvegetable_ai24459"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
