@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnaruto_online_24550"
+        applicationId "com.appcollection.xorator_ia24552"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
