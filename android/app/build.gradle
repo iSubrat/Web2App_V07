@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcharacter_tavern24497"
+        applicationId "com.appcollection.xetkinlikler24499"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
