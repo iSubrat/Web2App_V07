@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcamelcamelcamel24603"
+        applicationId "com.appcollection.xsticksketch_24605"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
