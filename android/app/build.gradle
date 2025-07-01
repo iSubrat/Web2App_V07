@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xv_wifi24639"
+        applicationId "com.appcollection.xhollywood_game_24641"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
