@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnewlifeapostolicsoferie24625"
+        applicationId "com.appcollection.xnew_life_apostolics_of_erie_24629"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
