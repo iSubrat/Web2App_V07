@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xd_town_market_calculator_24596"
+        applicationId "com.appcollection.xnina24600"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
