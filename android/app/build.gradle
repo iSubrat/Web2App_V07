@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsri_bharathi_vidyaniketan_24659"
+        applicationId "com.appcollection.xaaa24661"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
