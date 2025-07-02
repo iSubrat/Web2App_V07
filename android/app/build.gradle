@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrecraft_gun24683"
+        applicationId "com.appcollection.xnexfit24685"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
