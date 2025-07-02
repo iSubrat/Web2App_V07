@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xalqadir_ms24696"
+        applicationId "com.appcollection.xal_qadir_mobile_shop24697"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
