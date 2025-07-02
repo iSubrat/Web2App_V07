@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xahmed_24740"
+        applicationId "com.appcollection.xphotoreport_pro24741"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
