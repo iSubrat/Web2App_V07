@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xenglishgame24699"
+        applicationId "com.appcollection.xcash_point24700"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
