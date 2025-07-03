@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xplaytv24753"
+        applicationId "com.appcollection.xnccn_prostate_calc24754"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
