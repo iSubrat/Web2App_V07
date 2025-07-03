@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdna_slot24756"
+        applicationId "com.appcollection.xfree_fire_advance24757"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
