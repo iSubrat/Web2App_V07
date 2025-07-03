@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmars_feedback24784"
+        applicationId "com.appcollection.xsb_mobile24788"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
