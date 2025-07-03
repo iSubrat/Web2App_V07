@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xedunext_24827"
+        applicationId "com.appcollection.xdrowsiness_detector24828"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
