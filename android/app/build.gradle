@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_24869"
+        applicationId "com.appcollection.xbook_complete_time_calculator_24871"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
