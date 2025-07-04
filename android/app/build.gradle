@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtiktok_downloader_24857"
+        applicationId "com.appcollection.xcartomantes_online24858"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
