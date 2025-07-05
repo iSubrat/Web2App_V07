@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlogin_24958"
+        applicationId "com.appcollection.xmycal24959"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
