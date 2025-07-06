@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_25099"
+        applicationId "com.appcollection.xmaypad25101"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
