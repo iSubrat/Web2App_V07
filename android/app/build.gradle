@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwait_a_sec25026"
+        applicationId "com.appcollection.xscanner_virus_25028"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
