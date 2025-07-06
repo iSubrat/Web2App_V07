@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xscanner_virus_25028"
+        applicationId "com.appcollection.xsimple_savings_tracker25029"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
