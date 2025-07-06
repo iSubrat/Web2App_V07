@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xti_n_v_ng_ai25062"
+        applicationId "com.appcollection.xsessionmaker25064"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
