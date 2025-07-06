@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.ximage_to_base64_25036"
+        applicationId "com.appcollection.xaprendizagem_ativa_25037"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
