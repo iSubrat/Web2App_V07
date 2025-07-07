@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnequibotgv125136"
+        applicationId "com.appcollection.xgym_ai25137"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
