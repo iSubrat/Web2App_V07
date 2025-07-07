@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfin_log25140"
+        applicationId "com.appcollection.xdesmond25141"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
