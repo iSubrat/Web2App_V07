@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwait_a_sec25210"
+        applicationId "com.appcollection.xpvpoke_pvp_stats_and_info_for_pok_mon_go25212"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
