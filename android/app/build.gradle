@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xftc_bill_pay_25131"
+        applicationId "com.appcollection.xtax_it_right25132"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
