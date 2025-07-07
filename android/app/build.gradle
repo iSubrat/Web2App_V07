@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanime_ai25149"
+        applicationId "com.appcollection.xlightning_ai25151"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
