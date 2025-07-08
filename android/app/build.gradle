@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xharakati_marketing25283"
+        applicationId "com.appcollection.x35_bgb25284"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
