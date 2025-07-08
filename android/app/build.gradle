@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbuddha_smart_ride25282"
+        applicationId "com.appcollection.xharakati_marketing25283"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
