@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtest25270"
+        applicationId "com.appcollection.xaura_home_25273"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
