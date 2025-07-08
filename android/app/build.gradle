@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdominioncraft_25219"
+        applicationId "com.appcollection.xarnold_clerjuste_l_homme_sage_25220"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
