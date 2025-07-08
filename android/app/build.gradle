@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvirtex_v125243"
+        applicationId "com.appcollection.xpinterest_deutschland25244"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
