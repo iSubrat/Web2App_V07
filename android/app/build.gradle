@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xarnold_clerjuste_l_homme_sage_25220"
+        applicationId "com.appcollection.xm2l_and_tg_inventory_25222"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
