@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzynx_proxy25325"
+        applicationId "com.appcollection.xmenu25326"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
