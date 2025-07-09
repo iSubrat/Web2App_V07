@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadvanzia_bank25317"
+        applicationId "com.appcollection.xceleritas25320"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
