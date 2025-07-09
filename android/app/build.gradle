@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadvanzia_deutsch25330"
+        applicationId "com.appcollection.xfile_work_prakash_25331"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
