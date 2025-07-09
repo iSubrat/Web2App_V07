@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtrader_pro_sistema_inteligente_de_gest_o_25366"
+        applicationId "com.appcollection.xwebhelp_0_125367"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
