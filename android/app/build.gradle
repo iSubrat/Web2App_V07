@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhome_bazar25377"
+        applicationId "com.appcollection.xinstagramtomp425379"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
