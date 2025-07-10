@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x3_games25382"
+        applicationId "com.appcollection.xai_chat_25385"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
